@@ -1,0 +1,11 @@
+{
+  "name": "first-upload",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "refresh": "node scripts/resolve.mjs",
+    "build": "node scripts/build.mjs",
+    "update": "node scripts/resolve.mjs && node scripts/build.mjs",
+    "preview": "node scripts/serve.mjs"
+  }
+}

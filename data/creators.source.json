@@ -1,0 +1,519 @@
+[
+  {
+    "name": "MrBeast",
+    "handle": "MrBeast",
+    "firstVideoId": "2XVcLrB7B3Y"
+  },
+  {
+    "name": "IShowSpeed",
+    "handle": "IShowSpeed",
+    "firstVideoId": "UC_DUcEpFws"
+  },
+  {
+    "name": "PewDiePie",
+    "handle": "PewDiePie",
+    "firstVideoId": "9jeJbdVl2jI",
+    "dagger": true
+  },
+  {
+    "name": "Markiplier",
+    "handle": "markiplier",
+    "firstVideoId": "tHPu7Ihz0uc",
+    "dagger": true
+  },
+  {
+    "name": "Mark Rober",
+    "handle": "MarkRober",
+    "firstVideoId": "V6p5mbp_M98"
+  },
+  {
+    "name": "Dude Perfect",
+    "handle": "dudeperfect",
+    "firstVideoId": "PD6eQY7yCfw"
+  },
+  {
+    "name": "Stokes Twins",
+    "handle": "stokestwins",
+    "firstVideoId": "7n-ohCq2yJ4"
+  },
+  {
+    "name": "Dream",
+    "handle": "dream",
+    "firstVideoId": "awxWTWYh-Lg"
+  },
+  {
+    "name": "KSI",
+    "handle": "ksi",
+    "firstVideoId": "GbxAALi_CuU",
+    "dagger": true,
+    "note": "Uploaded to his original channel, JideJunior."
+  },
+  {
+    "name": "Logan Paul",
+    "handle": "loganpaulvlogs",
+    "firstVideoId": "zbQIqfZvj_Y",
+    "dagger": true,
+    "note": "Age-restricted by YouTube, so it plays on YouTube rather than here."
+  },
+  {
+    "name": "jacksepticeye",
+    "handle": "jacksepticeye",
+    "firstVideoId": "Wno4Pmqlr9E"
+  },
+  {
+    "name": "DanTDM",
+    "handle": "DanTDM",
+    "firstVideoId": "tP4DnRcnU04",
+    "dagger": true
+  },
+  {
+    "name": "Kai Cenat",
+    "handle": "kaicenat",
+    "firstVideoId": "HbIXVSwfMKQ"
+  },
+  {
+    "name": "SSSniperWolf",
+    "handle": "SSSniperWolf",
+    "firstVideoId": "BPff52zYOKg"
+  },
+  {
+    "name": "Technoblade",
+    "handle": "Technoblade",
+    "firstVideoId": "6GTb5yDRNvM"
+  },
+  {
+    "name": "CoryxKenshin",
+    "handle": "coryxkenshin",
+    "firstVideoId": "6nzua3EYPnU"
+  },
+  {
+    "name": "Ryan Trahan",
+    "handle": "ryan",
+    "firstVideoId": "yyl8RHdoUb0",
+    "note": "His original first video is now private, so this race video is the oldest one still public."
+  },
+  {
+    "name": "FaZe Rug",
+    "handle": "rug",
+    "firstVideoId": "-0H67vDN_Ww"
+  },
+  {
+    "name": "MKBHD",
+    "handle": "mkbhd",
+    "firstVideoId": "fjhmnWFsr3s"
+  },
+  {
+    "name": "Mrwhosetheboss",
+    "handle": "Mrwhosetheboss",
+    "firstVideoId": "M_QU_Y93eLc"
+  },
+  {
+    "name": "Sidemen",
+    "handle": "Sidemen",
+    "firstVideoId": "QXyJgxWH6h4"
+  },
+  {
+    "name": "Zach King",
+    "handle": "zachking",
+    "firstVideoId": "gd_y0jhU7dA"
+  },
+  {
+    "name": "Brent Rivera",
+    "handle": "brentrivera",
+    "firstVideoId": "d5zzQQpdv94"
+  },
+  {
+    "name": "Ben Azelart",
+    "handle": "benazelart",
+    "firstVideoId": "Z6X6FUFPQ4s"
+  },
+  {
+    "name": "Emma Chamberlain",
+    "handle": "emmachamberlain",
+    "firstVideoId": "JNYEgrZT-2s"
+  },
+  {
+    "name": "Vlad and Niki",
+    "handle": "VladandNiki",
+    "firstVideoId": "qx5yblEdQkk"
+  },
+  {
+    "name": "Kids Diana Show",
+    "handle": "KidsDianaShow",
+    "firstVideoId": "h1_00oAj72c"
+  },
+  {
+    "name": "Like Nastya",
+    "handle": "LikeNastyaofficial",
+    "firstVideoId": "Smvp77QKEyE"
+  },
+  {
+    "name": "Alan's Universe",
+    "handle": "alanchikinchow",
+    "firstVideoId": "AYH23vlzYzo"
+  },
+  {
+    "name": "Topper Guild",
+    "handle": "TopperGuild",
+    "firstVideoId": "_HriabwIqtA"
+  },
+  {
+    "name": "Zhong",
+    "handle": "zhong",
+    "firstVideoId": "iVxxVjZxnm4"
+  },
+  {
+    "name": "Jesser",
+    "handle": "Jesser",
+    "firstVideoId": "5u2mExlU5gU"
+  },
+  {
+    "name": "Nick DiGiovanni",
+    "handle": "NickDiGiovanni",
+    "firstVideoId": "pc2to3jXxI4"
+  },
+  {
+    "name": "Ryan's World",
+    "handle": "RyansWorld",
+    "firstVideoId": "jVwSJ9q3kOc"
+  },
+  {
+    "name": "Jordan Matter",
+    "handle": "jordanmatter",
+    "firstVideoId": "oOAek9kBh1I"
+  },
+  {
+    "name": "Lucas and Marcus",
+    "handle": "LucasandMarcus",
+    "firstVideoId": "OLk0K05iIdw"
+  },
+  {
+    "name": "The Royalty Family",
+    "handle": "royaltyfam",
+    "firstVideoId": "SrBssXa3Jzk"
+  },
+  {
+    "name": "LankyBox",
+    "handle": "LankyBox",
+    "firstVideoId": "IMuCvEZga7Y"
+  },
+  {
+    "name": "ZHC",
+    "handle": "ZHCYT",
+    "firstVideoId": "5iTfzsRqdFk"
+  },
+  {
+    "name": "Preston",
+    "handle": "PrestonYT",
+    "firstVideoId": "ppR1S6_ZO5U"
+  },
+  {
+    "name": "SSundee",
+    "handle": "SSundee",
+    "firstVideoId": "2v-7Dq9WVLw"
+  },
+  {
+    "name": "Aphmau",
+    "handle": "Aphmau",
+    "firstVideoId": "q79aZF_zO3g"
+  },
+  {
+    "name": "Collins Key",
+    "handle": "CollinsKey",
+    "firstVideoId": "78yVDIghN_g"
+  },
+  {
+    "name": "Rebecca Zamolo",
+    "handle": "RebeccaZamolo",
+    "firstVideoId": "_wsl0NsKSkE"
+  },
+  {
+    "name": "TheOdd1sOut",
+    "handle": "theodd1sout",
+    "firstVideoId": "8cLtQLrX8Us"
+  },
+  {
+    "name": "Smosh",
+    "handle": "smosh",
+    "firstVideoId": "agEjzQLiuGA",
+    "dagger": true
+  },
+  {
+    "name": "Veritasium",
+    "handle": "veritasium",
+    "firstVideoId": "cU2dZz18P0c"
+  },
+  {
+    "name": "Doctor Mike",
+    "handle": "DoctorMike",
+    "firstVideoId": "RBBOSnYDNm8"
+  },
+  {
+    "name": "Airrack",
+    "handle": "airrack",
+    "firstVideoId": "HiJ-jFthoIE"
+  },
+  {
+    "name": "James Charles",
+    "handle": "JamesCharles",
+    "firstVideoId": "raxb4zHJJPQ"
+  },
+  {
+    "name": "TommyInnit",
+    "handle": "TommyInnit",
+    "firstVideoId": "AGBqFvjdHQ0"
+  },
+  {
+    "name": "Ali-A",
+    "handle": "AliA",
+    "firstVideoId": "gOYuoaiZP88"
+  },
+  {
+    "name": "LazarBeam",
+    "handle": "LazarBeam",
+    "firstVideoId": "JFWaV2Qbl2Y",
+    "dagger": true
+  },
+  {
+    "name": "How Ridiculous",
+    "handle": "howridiculous",
+    "firstVideoId": "bb22eRysKog"
+  },
+  {
+    "name": "Supercar Blondie",
+    "handle": "SupercarBlondie",
+    "firstVideoId": "Oi285tDEnus"
+  },
+  {
+    "name": "Chloe Ting",
+    "handle": "ChloeTing",
+    "firstVideoId": "-IfUFvvfWEs"
+  },
+  {
+    "name": "VanossGaming",
+    "handle": "VanossGaming",
+    "firstVideoId": "V5xE-NUcf1M"
+  },
+  {
+    "name": "Jaiden Animations",
+    "handle": "jaidenanimations",
+    "firstVideoId": "4xsMs6bOIA8"
+  },
+  {
+    "name": "penguinz0",
+    "handle": "penguinz0",
+    "firstVideoId": "-FoH_02Icjk"
+  },
+  {
+    "name": "Jake Paul",
+    "handle": "jakepaul",
+    "firstVideoId": "YRIn5m5w094"
+  },
+  {
+    "name": "David Dobrik",
+    "handle": "DavidDobrik",
+    "firstVideoId": "acbA1plzXFY"
+  },
+  {
+    "name": "Casey Neistat",
+    "handle": "casey",
+    "firstVideoId": "D2qO5nMOM5U"
+  },
+  {
+    "name": "Liza Koshy",
+    "handle": "lizakoshy",
+    "firstVideoId": "H1zt7F70zEg"
+  },
+  {
+    "name": "Lilly Singh",
+    "handle": "LillySingh",
+    "firstVideoId": "khM96e-ZpE4"
+  },
+  {
+    "name": "Jenna Marbles",
+    "handle": "JennaMarbles",
+    "firstVideoId": "w6ieL3Cr06E",
+    "needsResearch": true
+  },
+  {
+    "name": "Shane Dawson",
+    "handle": "shane",
+    "firstVideoId": "om7ctOPKv20",
+    "dagger": true,
+    "note": "The original was deleted. This copy was re-uploaded to his archive channel in 2024.",
+    "hideDate": true
+  },
+  {
+    "name": "nigahiga",
+    "handle": "ryanhiga",
+    "firstVideoId": "JdLCEwEFCMU",
+    "dagger": true
+  },
+  {
+    "name": "Roman Atwood Vlogs",
+    "handle": "romanatwoodvlogs",
+    "firstVideoId": "f6xCPvo0Xnk"
+  },
+  {
+    "name": "Good Mythical Morning",
+    "handle": "GoodMythicalMorning",
+    "firstVideoId": "6yw2NPHPUys"
+  },
+  {
+    "name": "Rosanna Pansino",
+    "handle": "RosannaPansino",
+    "firstVideoId": "NI1NwYhisxA"
+  },
+  {
+    "name": "Jeffree Star",
+    "handle": "jeffreestar",
+    "firstVideoId": "RItony56N58"
+  },
+  {
+    "name": "Safiya Nygaard",
+    "handle": "safiya",
+    "firstVideoId": "MDtzPqG6K7M"
+  },
+  {
+    "name": "Kallmekris",
+    "handle": "kallmekris",
+    "firstVideoId": "AJtkuFN1apc"
+  },
+  {
+    "name": "NileRed",
+    "handle": "NileRed",
+    "firstVideoId": "PC3o2KgQstA"
+  },
+  {
+    "name": "Typical Gamer",
+    "handle": "TypicalGamer",
+    "firstVideoId": "iMAtFMumZOI"
+  },
+  {
+    "name": "Ludwig",
+    "handle": "ludwig",
+    "firstVideoId": "1gCjG2cdQic"
+  },
+  {
+    "name": "Pokimane",
+    "handle": "pokimane",
+    "firstVideoId": "mLO_WnRQMNk"
+  },
+  {
+    "name": "MrBallen",
+    "handle": "MrBallen",
+    "firstVideoId": "cLCZUAlCly0"
+  },
+  {
+    "name": "SmarterEveryDay",
+    "handle": "smartereveryday",
+    "firstVideoId": "bvaDOKdImMA"
+  },
+  {
+    "name": "Vsauce",
+    "handle": "Vsauce",
+    "firstVideoId": "1BuTR5nXS8I"
+  },
+  {
+    "name": "Linus Tech Tips",
+    "handle": "LinusTechTips",
+    "firstVideoId": "zGJSFTaFJbQ"
+  },
+  {
+    "name": "colinfurze",
+    "handle": "colinfurze",
+    "firstVideoId": "HGS5mgN4ErQ"
+  },
+  {
+    "name": "Beta Squad",
+    "handle": "BetaSquad",
+    "firstVideoId": "bwN9-19NXY8"
+  },
+  {
+    "name": "Niko Omilana",
+    "handle": "Niko",
+    "firstVideoId": "v3DJOqndHls"
+  },
+  {
+    "name": "Grian",
+    "handle": "Grian",
+    "firstVideoId": "3cOliXW3nYs",
+    "note": "Their earliest uploads were deleted or made private, so this is the oldest video still public."
+  },
+  {
+    "name": "Mumbo Jumbo",
+    "handle": "ThatMumboJumbo",
+    "firstVideoId": "ldqqOy6MpwE",
+    "note": "Their earliest uploads were deleted or made private, so this is the oldest video still public."
+  },
+  {
+    "name": "ElectroBOOM",
+    "handle": "ElectroBOOM",
+    "firstVideoId": "RtlYi1yLTVQ"
+  },
+  {
+    "name": "Jeff Nippard",
+    "handle": "JeffNippard",
+    "firstVideoId": "PKxv_hDsTaE"
+  },
+  {
+    "name": "Nick Eh 30",
+    "handle": "NickEh30",
+    "firstVideoId": "OSc9gUfrcuE"
+  },
+  {
+    "name": "HowToBasic",
+    "handle": "HowToBasic",
+    "firstVideoId": "AqEzI9rPvP4"
+  },
+  {
+    "name": "JoshDub",
+    "handle": "joshdub",
+    "firstVideoId": "-wjUD5gv1kg"
+  },
+  {
+    "name": "Lachlan",
+    "handle": "lachlan",
+    "firstVideoId": "cjIPdD19eac"
+  },
+  {
+    "name": "NichLmao",
+    "handle": "NichLmao",
+    "firstVideoId": "D3K38sDHQ9Y"
+  },
+  {
+    "name": "Alan Becker",
+    "handle": "alanbecker",
+    "firstVideoId": "0PqZ_ONYB4o"
+  },
+  {
+    "name": "Dan Rhodes",
+    "handle": "danrhodes",
+    "firstVideoId": "mzTa-pUPSh4"
+  },
+  {
+    "name": "AzzyLand",
+    "handle": "AzzyLand",
+    "firstVideoId": "_Go1XTHIXH0"
+  },
+  {
+    "name": "Anna McNulty",
+    "handle": "annamcnulty",
+    "firstVideoId": "IZy3tc2PetE"
+  },
+  {
+    "name": "Jeenie.Weenie",
+    "handle": "jeenie.weenie",
+    "firstVideoId": "HqGB91U8yBY"
+  },
+  {
+    "name": "Justin Flom",
+    "handle": "justinflom",
+    "firstVideoId": "3Yt0t_3HMYQ"
+  },
+  {
+    "name": "Tom Scott",
+    "handle": "TomScottGo",
+    "firstVideoId": "MrppkAIVhH4"
+  }
+]

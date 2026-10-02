@@ -1,0 +1,7 @@
+# Netlify builds the site from data/creators.json on every push.
+[build]
+  command = "node scripts/build.mjs"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"

@@ -1,0 +1,4302 @@
+[
+  {
+    "name": "MrBeast",
+    "handle": "MrBeast",
+    "firstVideoId": "2XVcLrB7B3Y",
+    "issues": [],
+    "first": {
+      "id": "2XVcLrB7B3Y",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Worst Minecraft Saw Trap Ever???",
+      "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "channelName": "MrBeast",
+      "channelUrl": "http://www.youtube.com/@MrBeast",
+      "views": 36181743,
+      "uploadDate": "2012-02-20",
+      "lengthSeconds": 156
+    },
+    "channel": {
+      "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "handle": "MrBeast",
+      "title": "MrBeast",
+      "avatar": "https://yt3.googleusercontent.com/nxYrc_1_2f77DoBadyxMTmv7ZpRZapHR5jbuYe7PlPd5cIRJxtNNEYyOC0ZsxaDyJJzXrnJiuDE=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "519M",
+      "videosText": "1K"
+    },
+    "oldestPublic": {
+      "id": "2XVcLrB7B3Y",
+      "title": "Worst Minecraft Saw Trap Ever???",
+      "uploadDate": "2012-02-20"
+    },
+    "latest": {
+      "id": "v9QtM6qnG50",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Built A City To Save Kids From Illegal Labor",
+      "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+      "channelName": "MrBeast",
+      "channelUrl": "http://www.youtube.com/@MrBeast",
+      "views": 85985285,
+      "uploadDate": "2026-09-19",
+      "lengthSeconds": 1142
+    }
+  },
+  {
+    "name": "IShowSpeed",
+    "handle": "IShowSpeed",
+    "firstVideoId": "UC_DUcEpFws",
+    "issues": [],
+    "first": {
+      "id": "UC_DUcEpFws",
+      "status": "OK",
+      "embeddable": true,
+      "title": "{2k18} {First Video}",
+      "channelId": "UCWsDFcIhY2DBi3GB5uykGXA",
+      "channelName": "IShowSpeed",
+      "channelUrl": "http://www.youtube.com/@IShowSpeed",
+      "views": 4384996,
+      "uploadDate": "2017-12-20",
+      "lengthSeconds": 85
+    },
+    "channel": {
+      "channelId": "UCWsDFcIhY2DBi3GB5uykGXA",
+      "handle": "IShowSpeed",
+      "title": "IShowSpeed",
+      "avatar": "https://yt3.googleusercontent.com/ieK0j0sDqI_AHDwYxZ2Wly07-R7PG4S3YMtxOWCEe1QH-I0FgimJ92tlydQa6M78YD0VaywCaw=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "61.5M",
+      "videosText": "2K"
+    },
+    "oldestPublic": {
+      "id": "UC_DUcEpFws",
+      "title": "{2k18} {First Video}",
+      "uploadDate": "2017-12-20"
+    },
+    "latest": {
+      "id": "scfCKQEHvwI",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Hi Me In 3 Years",
+      "channelId": "UCWsDFcIhY2DBi3GB5uykGXA",
+      "channelName": "IShowSpeed",
+      "channelUrl": "http://www.youtube.com/@IShowSpeed",
+      "views": 1794171,
+      "uploadDate": "2026-09-26",
+      "lengthSeconds": 130
+    }
+  },
+  {
+    "name": "PewDiePie",
+    "handle": "PewDiePie",
+    "firstVideoId": "9jeJbdVl2jI",
+    "dagger": true,
+    "issues": [],
+    "first": {
+      "id": "9jeJbdVl2jI",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Minecraft Multiplayer Fun",
+      "channelId": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "channelName": "PewDiePie",
+      "channelUrl": "http://www.youtube.com/@PewDiePie",
+      "views": 23030066,
+      "uploadDate": "2010-10-02",
+      "lengthSeconds": 124
+    },
+    "channel": {
+      "channelId": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "handle": "PewDiePie",
+      "title": "PewDiePie",
+      "avatar": "https://yt3.googleusercontent.com/vik8mAiwHQbXiFyKfZ3__p55_VBdGvwxPpuPJBBwdbF0PjJxikXhrP-C3nLQAMAxGNd_-xQCIg=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "109M",
+      "videosText": "4.6K"
+    },
+    "oldestPublic": {
+      "id": "9jeJbdVl2jI",
+      "title": "Minecraft Multiplayer Fun",
+      "uploadDate": "2010-10-02"
+    },
+    "latest": {
+      "id": "ODDJXGY_1kQ",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I seriously should NOT be dropping this.",
+      "channelId": "UC-lHJZR3Gqxm24_Vd_AJ5Yw",
+      "channelName": "PewDiePie",
+      "channelUrl": "http://www.youtube.com/@PewDiePie",
+      "views": 1670856,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 1044
+    }
+  },
+  {
+    "name": "Markiplier",
+    "handle": "markiplier",
+    "firstVideoId": "tHPu7Ihz0uc",
+    "dagger": true,
+    "issues": [],
+    "first": {
+      "id": "tHPu7Ihz0uc",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Amnesia Reaction Compilation",
+      "channelId": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "channelName": "Markiplier",
+      "channelUrl": "http://www.youtube.com/@markiplier",
+      "views": 4146850,
+      "uploadDate": "2012-05-26",
+      "lengthSeconds": 625
+    },
+    "channel": {
+      "channelId": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "handle": "markiplier",
+      "title": "Markiplier",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nfDvwu14-iN5YZcaLIomwno1_3oFcYTmG5_kn7SMj_nec=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "38.9M",
+      "videosText": "5.9K"
+    },
+    "oldestPublic": {
+      "id": "tHPu7Ihz0uc",
+      "title": "Amnesia Reaction Compilation",
+      "uploadDate": "2012-05-26"
+    },
+    "latest": {
+      "id": "izmpB-q48Fo",
+      "status": "OK",
+      "embeddable": true,
+      "title": "DON'T STARE",
+      "channelId": "UC7_YxT-KID8kRbqZo7MyscQ",
+      "channelName": "Markiplier",
+      "channelUrl": "http://www.youtube.com/@markiplier",
+      "views": 711441,
+      "uploadDate": "2026-10-01",
+      "lengthSeconds": 1293
+    }
+  },
+  {
+    "name": "Mark Rober",
+    "handle": "MarkRober",
+    "firstVideoId": "V6p5mbp_M98",
+    "issues": [],
+    "first": {
+      "id": "V6p5mbp_M98",
+      "status": "OK",
+      "embeddable": true,
+      "title": "iPad2 Halloween Costume- Gaping hole in torso",
+      "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "channelName": "Mark Rober",
+      "channelUrl": "http://www.youtube.com/@MarkRober",
+      "views": 14670473,
+      "uploadDate": "2011-10-29",
+      "lengthSeconds": 50
+    },
+    "channel": {
+      "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "handle": "MarkRober",
+      "title": "Mark Rober",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_ksXY2REjZ6gYKSgnWT5jC_zT9mX900vyFtVinR8KbHww=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "83.3M",
+      "videosText": "271"
+    },
+    "oldestPublic": {
+      "id": "V6p5mbp_M98",
+      "title": "iPad2 Halloween Costume- Gaping hole in torso",
+      "uploadDate": "2011-10-29"
+    },
+    "latest": {
+      "id": "_L1Rim7-IPo",
+      "status": "OK",
+      "embeddable": true,
+      "title": "World's Most Over-Engineered Heist",
+      "channelId": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "channelName": "Mark Rober",
+      "channelUrl": "http://www.youtube.com/@MarkRober",
+      "views": 21764679,
+      "uploadDate": "2026-09-19",
+      "lengthSeconds": 2062
+    }
+  },
+  {
+    "name": "Dude Perfect",
+    "handle": "dudeperfect",
+    "firstVideoId": "PD6eQY7yCfw",
+    "issues": [],
+    "first": {
+      "id": "PD6eQY7yCfw",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Dude Perfect | Backyard Edition | Our 1st Video!",
+      "channelId": "UCRijo3ddMTht_IHyNSNXpNQ",
+      "channelName": "Dude Perfect",
+      "channelUrl": "http://www.youtube.com/@dudeperfect",
+      "views": 45521053,
+      "uploadDate": "2009-04-08",
+      "lengthSeconds": 202
+    },
+    "channel": {
+      "channelId": "UCRijo3ddMTht_IHyNSNXpNQ",
+      "handle": "dudeperfect",
+      "title": "Dude Perfect",
+      "avatar": "https://yt3.googleusercontent.com/nZRsCgyfOVFhBzY-YFV8AhdMcYAybNZ8uttjcsrUGOnGRSVF5yKqRh6XHIs_o03TcbixvlOZ=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "62.8M",
+      "videosText": "643"
+    },
+    "oldestPublic": {
+      "id": "PD6eQY7yCfw",
+      "title": "Dude Perfect | Backyard Edition | Our 1st Video!",
+      "uploadDate": "2009-04-08"
+    },
+    "latest": {
+      "id": "LVhFuyABxBE",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Football, But Nothing Is Normal",
+      "channelId": "UCRijo3ddMTht_IHyNSNXpNQ",
+      "channelName": "Dude Perfect",
+      "channelUrl": "http://www.youtube.com/@dudeperfect",
+      "views": 6273796,
+      "uploadDate": "2026-09-12",
+      "lengthSeconds": 1775
+    }
+  },
+  {
+    "name": "Stokes Twins",
+    "handle": "stokestwins",
+    "firstVideoId": "7n-ohCq2yJ4",
+    "issues": [],
+    "first": {
+      "id": "7n-ohCq2yJ4",
+      "status": "OK",
+      "embeddable": true,
+      "title": "INSTAGRAM Q & A! | Stokes Twins",
+      "channelId": "UCbp9MyKCTEww4CxEzc_Tp0Q",
+      "channelName": "Stokes Twins",
+      "channelUrl": "http://www.youtube.com/@StokesTwins",
+      "views": 2992543,
+      "uploadDate": "2017-05-21",
+      "lengthSeconds": 434
+    },
+    "channel": {
+      "channelId": "UCbp9MyKCTEww4CxEzc_Tp0Q",
+      "handle": "StokesTwins",
+      "title": "Stokes Twins",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_licRUYkb1mqyEXaQPq67wtqgk7qinfWOEvc6gjnsSofu4=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "147M",
+      "videosText": "473"
+    },
+    "oldestPublic": {
+      "id": "7n-ohCq2yJ4",
+      "title": "INSTAGRAM Q & A! | Stokes Twins",
+      "uploadDate": "2017-05-21"
+    },
+    "latest": {
+      "id": "kbRvNp8kwA0",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Escaping Level 1-100 Backrooms!",
+      "channelId": "UCbp9MyKCTEww4CxEzc_Tp0Q",
+      "channelName": "Stokes Twins",
+      "channelUrl": "http://www.youtube.com/@StokesTwins",
+      "views": 30702417,
+      "uploadDate": "2026-09-19",
+      "lengthSeconds": 1569
+    }
+  },
+  {
+    "name": "Dream",
+    "handle": "dream",
+    "firstVideoId": "awxWTWYh-Lg",
+    "issues": [],
+    "first": {
+      "id": "awxWTWYh-Lg",
+      "status": "OK",
+      "embeddable": true,
+      "title": "this cursed Minecraft video will trigger you...",
+      "channelId": "UCTkXRDQl0luXxVQrRQvWS6w",
+      "channelName": "Dream",
+      "channelUrl": "http://www.youtube.com/@dream",
+      "views": 19607619,
+      "uploadDate": "2019-07-05",
+      "lengthSeconds": 334
+    },
+    "channel": {
+      "channelId": "UCTkXRDQl0luXxVQrRQvWS6w",
+      "handle": "dream",
+      "title": "Dream",
+      "avatar": "https://yt3.googleusercontent.com/In7JtEzLm2klae8nEa04D9OEYn_Sz8DUCEEs3lon3db0d2B7Ng4-jNRWv3C5hetujaqAj9mwBg=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "34.8M",
+      "videosText": "311"
+    },
+    "oldestPublic": {
+      "id": "awxWTWYh-Lg",
+      "title": "this cursed Minecraft video will trigger you...",
+      "uploadDate": "2019-07-05"
+    },
+    "latest": {
+      "id": "IqcS1d3eXYc",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Minecraft Speedrunner Swap VS 3 Hunters",
+      "channelId": "UCTkXRDQl0luXxVQrRQvWS6w",
+      "channelName": "Dream",
+      "channelUrl": "http://www.youtube.com/@dream",
+      "views": 6317301,
+      "uploadDate": "2026-08-09",
+      "lengthSeconds": 3123
+    }
+  },
+  {
+    "name": "KSI",
+    "handle": "ksi",
+    "firstVideoId": "GbxAALi_CuU",
+    "dagger": true,
+    "note": "Uploaded to his original channel, JideJunior.",
+    "issues": [],
+    "first": {
+      "id": "GbxAALi_CuU",
+      "status": "OK",
+      "embeddable": true,
+      "title": "LOOKING THROUGH SPACE",
+      "channelId": "UCg3Xu2tJVva2aiFYi7HPoAg",
+      "channelName": "JideJunior",
+      "channelUrl": "http://www.youtube.com/@JideJunior",
+      "views": 266769,
+      "uploadDate": "2008-04-24",
+      "lengthSeconds": 519,
+      "otherChannel": true
+    },
+    "channel": {
+      "channelId": "UCGmnsW623G1r-Chmo5RB4Yw",
+      "handle": "KSI",
+      "title": "KSI",
+      "avatar": "https://yt3.googleusercontent.com/2f8wOz76TImPcmiuUYSgJQbQnjEKXlD01_kw284BOI_DrQS4tYS6Q97DMW-yffRT-pVYIs6a=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "19.2M",
+      "videosText": "1.5K"
+    },
+    "oldestPublic": {
+      "id": "Q6pkIvydA0c",
+      "title": "Black Ops | One in the Chamber",
+      "uploadDate": "2011-08-31"
+    },
+    "latest": {
+      "id": "AGnfMkYuFkc",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Best Celebrity Lookalike Wins $1,000 (Ft. Dwight Howard, Zias & Blou)",
+      "channelId": "UCGmnsW623G1r-Chmo5RB4Yw",
+      "channelName": "KSI",
+      "channelUrl": "http://www.youtube.com/@KSI",
+      "views": 4684480,
+      "uploadDate": "2026-09-14",
+      "lengthSeconds": 1869
+    }
+  },
+  {
+    "name": "Logan Paul",
+    "handle": "loganpaulvlogs",
+    "firstVideoId": "zbQIqfZvj_Y",
+    "dagger": true,
+    "note": "Age-restricted by YouTube, so it plays on YouTube rather than here.",
+    "issues": [
+      "first video zbQIqfZvj_Y status: LOGIN_REQUIRED (Sign in to confirm your age)",
+      "channel's oldest public video is \"MY FIRST VLOG - THE ROAD TO BURNING MAN!\" (zbQIqfZvj_Y, 2016-09-12)"
+    ],
+    "first": {
+      "id": "zbQIqfZvj_Y",
+      "status": "LOGIN_REQUIRED",
+      "reason": "Sign in to confirm your age",
+      "embeddable": true,
+      "title": "MY FIRST VLOG - THE ROAD TO BURNING MAN!",
+      "channelId": "UCG8rbF3g2AMX70yOd8vqIZg",
+      "channelName": "Logan Paul",
+      "channelUrl": "http://www.youtube.com/@loganpaulvlogs",
+      "views": 5939794,
+      "uploadDate": "2016-09-12",
+      "lengthSeconds": 521
+    },
+    "channel": {
+      "channelId": "UCG8rbF3g2AMX70yOd8vqIZg",
+      "handle": "loganpaulvlogs",
+      "title": "Logan Paul",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_ltcpgwsF77fVG5xlQpHtPczqs4j60VkUzbtBrDBP_8QFY=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "23.6M",
+      "videosText": "808"
+    },
+    "oldestPublic": {
+      "id": "zbQIqfZvj_Y",
+      "title": "MY FIRST VLOG - THE ROAD TO BURNING MAN!",
+      "uploadDate": "2016-09-12"
+    },
+    "latest": {
+      "id": "ckMVWwo6gxs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Made The Biggest Mistake In Pokemon",
+      "channelId": "UCG8rbF3g2AMX70yOd8vqIZg",
+      "channelName": "Logan Paul",
+      "channelUrl": "http://www.youtube.com/@loganpaulvlogs",
+      "views": 918646,
+      "uploadDate": "2026-09-28",
+      "lengthSeconds": 1654
+    }
+  },
+  {
+    "name": "jacksepticeye",
+    "handle": "jacksepticeye",
+    "firstVideoId": "Wno4Pmqlr9E",
+    "issues": [],
+    "first": {
+      "id": "Wno4Pmqlr9E",
+      "status": "OK",
+      "embeddable": true,
+      "title": "War Has Changed - Solid Snake Impression - MGS4 Intro",
+      "channelId": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "channelName": "jacksepticeye",
+      "channelUrl": "http://www.youtube.com/@jacksepticeye",
+      "views": 2801296,
+      "uploadDate": "2012-11-12",
+      "lengthSeconds": 83
+    },
+    "channel": {
+      "channelId": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "handle": "jacksepticeye",
+      "title": "jacksepticeye",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_m7K306sLhJfQqGAMnuHdEBTwdqBA4gVTGa_FtEmarXd34=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "31.2M",
+      "videosText": "5.3K"
+    },
+    "oldestPublic": {
+      "id": "Wno4Pmqlr9E",
+      "title": "War Has Changed - Solid Snake Impression - MGS4 Intro",
+      "uploadDate": "2012-11-12"
+    },
+    "latest": {
+      "id": "mAg3rdk6FLw",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Happy Wheels is on STEAM?",
+      "channelId": "UCYzPXprvl5Y-Sf0g4vX-m6g",
+      "channelName": "jacksepticeye",
+      "channelUrl": "http://www.youtube.com/@jacksepticeye",
+      "views": 4006713,
+      "uploadDate": "2026-09-28",
+      "lengthSeconds": 2056
+    }
+  },
+  {
+    "name": "DanTDM",
+    "handle": "DanTDM",
+    "firstVideoId": "tP4DnRcnU04",
+    "dagger": true,
+    "issues": [],
+    "first": {
+      "id": "tP4DnRcnU04",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Minecraft: Pokemobs Adventure Mod #1 'The Journey Begins..'",
+      "channelId": "UCS5Oz6CHmeoF7vSad0qqXfw",
+      "channelName": "DanTDM",
+      "channelUrl": "http://www.youtube.com/@DanTDM",
+      "views": 4385294,
+      "uploadDate": "2012-07-28",
+      "lengthSeconds": 721
+    },
+    "channel": {
+      "channelId": "UCS5Oz6CHmeoF7vSad0qqXfw",
+      "handle": "DanTDM",
+      "title": "DanTDM",
+      "avatar": "https://yt3.googleusercontent.com/1IPv4TRdl3RaT1HEsqdvjzqA0OvBHbVxZFt2U5QZHKDgbEGosdazeBqyJH9ZU5rhs9kfC8dGXRc=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "29.1M",
+      "videosText": "3.8K"
+    },
+    "oldestPublic": {
+      "id": "tP4DnRcnU04",
+      "title": "Minecraft: Pokemobs Adventure Mod #1 'The Journey Begins..'",
+      "uploadDate": "2012-07-28"
+    },
+    "latest": {
+      "id": "nRyhgzpgyKU",
+      "status": "OK",
+      "embeddable": true,
+      "title": "The End. (Marvel's Wolverine Part 7 ENDING)",
+      "channelId": "UCS5Oz6CHmeoF7vSad0qqXfw",
+      "channelName": "DanTDM",
+      "channelUrl": "http://www.youtube.com/@DanTDM",
+      "views": 97386,
+      "uploadDate": "2026-09-29",
+      "lengthSeconds": 7955
+    }
+  },
+  {
+    "name": "Kai Cenat",
+    "handle": "kaicenat",
+    "firstVideoId": "HbIXVSwfMKQ",
+    "issues": [],
+    "first": {
+      "id": "HbIXVSwfMKQ",
+      "status": "OK",
+      "embeddable": true,
+      "title": "MY FIRST YOUTUBE VIDEO!!(Introduction)",
+      "channelId": "UCoEmptob-eEGKk18c2VplJg",
+      "channelName": "Kai Cenat",
+      "channelUrl": "http://www.youtube.com/@KaiCenat",
+      "views": 2046679,
+      "uploadDate": "2018-01-13",
+      "lengthSeconds": 432
+    },
+    "channel": {
+      "channelId": "UCoEmptob-eEGKk18c2VplJg",
+      "handle": "KaiCenat",
+      "title": "Kai Cenat",
+      "avatar": "https://yt3.googleusercontent.com/EjP5miH7lb7NBbEJTjG-bQPO89peAqYvODmeNC8ileuQyDVaF7WMQP59P_3pOXsNWZUlk9bC=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "8.24M",
+      "videosText": "289"
+    },
+    "oldestPublic": {
+      "id": "HbIXVSwfMKQ",
+      "title": "MY FIRST YOUTUBE VIDEO!!(Introduction)",
+      "uploadDate": "2018-01-13"
+    },
+    "latest": {
+      "id": "Dt36OGjw26Y",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Don't Quit",
+      "channelId": "UCoEmptob-eEGKk18c2VplJg",
+      "channelName": "Kai Cenat",
+      "channelUrl": "http://www.youtube.com/@KaiCenat",
+      "views": 2619731,
+      "uploadDate": "2026-09-14",
+      "lengthSeconds": 1774
+    }
+  },
+  {
+    "name": "SSSniperWolf",
+    "handle": "SSSniperWolf",
+    "firstVideoId": "BPff52zYOKg",
+    "issues": [],
+    "first": {
+      "id": "BPff52zYOKg",
+      "status": "OK",
+      "embeddable": true,
+      "title": "BO2 Fails + Funnies #1",
+      "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+      "channelName": "SSSniperWolf",
+      "channelUrl": "http://www.youtube.com/@SSSniperWolf",
+      "views": 1269448,
+      "uploadDate": "2013-01-24",
+      "lengthSeconds": 104
+    },
+    "channel": {
+      "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+      "handle": "SSSniperWolf",
+      "title": "SSSniperWolf",
+      "avatar": "https://yt3.googleusercontent.com/zmwPW6LtafadphG0c5qdxTY11Tx6hGwMCiBVQGrsDQRjf2-5oGlC_hPawSrmbNk5mo5Xpx9rag=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "35M",
+      "videosText": "4K"
+    },
+    "oldestPublic": {
+      "id": "BPff52zYOKg",
+      "title": "BO2 Fails + Funnies #1",
+      "uploadDate": "2013-01-24"
+    },
+    "latest": {
+      "id": "Kev-ybTz_bE",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Made a GIANT Version of TINY Food",
+      "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+      "channelName": "SSSniperWolf",
+      "channelUrl": "http://www.youtube.com/@SSSniperWolf",
+      "views": 317527,
+      "uploadDate": "2026-09-27",
+      "lengthSeconds": 1192
+    }
+  },
+  {
+    "name": "Technoblade",
+    "handle": "Technoblade",
+    "firstVideoId": "6GTb5yDRNvM",
+    "issues": [],
+    "first": {
+      "id": "6GTb5yDRNvM",
+      "status": "OK",
+      "embeddable": true,
+      "title": "technoblade vs mineplex's owner",
+      "channelId": "UCFAiFyGs6oDiF1Nf-rRJpZA",
+      "channelName": "Technoblade",
+      "channelUrl": "http://www.youtube.com/@Technoblade",
+      "views": 4722386,
+      "uploadDate": "2013-10-31",
+      "lengthSeconds": 177
+    },
+    "channel": {
+      "channelId": "UCFAiFyGs6oDiF1Nf-rRJpZA",
+      "handle": "Technoblade",
+      "title": "Technoblade",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lrcAGP3htFIscbmyoevZ_YtEXgpuW1YvtnCs5PY4CK0NA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "23M",
+      "videosText": "1K"
+    },
+    "oldestPublic": {
+      "id": "6GTb5yDRNvM",
+      "title": "technoblade vs mineplex's owner",
+      "uploadDate": "2013-10-31"
+    },
+    "latest": {
+      "id": "u7mknvjcxP0",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Technoblade's Spectacular 20 Million Substravaganza (contains swearing) #techno20mil",
+      "channelId": "UCFAiFyGs6oDiF1Nf-rRJpZA",
+      "channelName": "Technoblade",
+      "channelUrl": "http://www.youtube.com/@Technoblade",
+      "views": 5875080,
+      "uploadDate": "2025-06-01",
+      "lengthSeconds": 10050
+    }
+  },
+  {
+    "name": "CoryxKenshin",
+    "handle": "coryxkenshin",
+    "firstVideoId": "6nzua3EYPnU",
+    "issues": [],
+    "first": {
+      "id": "6nzua3EYPnU",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Girls in particular",
+      "channelId": "UCiYcA0gJzg855iSKMrX3oHg",
+      "channelName": "CoryxKenshin",
+      "channelUrl": "http://www.youtube.com/@CoryxKenshin",
+      "views": 3139479,
+      "uploadDate": "2009-05-25",
+      "lengthSeconds": 250
+    },
+    "channel": {
+      "channelId": "UCiYcA0gJzg855iSKMrX3oHg",
+      "handle": "CoryxKenshin",
+      "title": "CoryxKenshin",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mLkQYpmL7WNNEHOzLZGIrFuEZZluLQkKPfV5-_b1Ngl2s=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "24.7M",
+      "videosText": "1.7K"
+    },
+    "oldestPublic": {
+      "id": "6nzua3EYPnU",
+      "title": "Girls in particular",
+      "uploadDate": "2009-05-25"
+    },
+    "latest": {
+      "id": "E91hRBbJObI",
+      "status": "LOGIN_REQUIRED",
+      "reason": "Sign in to confirm your age",
+      "embeddable": true,
+      "title": "NO WAY WAS I MISSING THIS [Resident Evil Requiem Part 1]",
+      "channelId": "UCiYcA0gJzg855iSKMrX3oHg",
+      "channelName": "CoryxKenshin",
+      "channelUrl": "http://www.youtube.com/@CoryxKenshin",
+      "views": 9171865,
+      "uploadDate": "2026-03-07",
+      "lengthSeconds": 9284
+    }
+  },
+  {
+    "name": "Ryan Trahan",
+    "handle": "ryan",
+    "firstVideoId": "yyl8RHdoUb0",
+    "note": "His original first video is now private, so this race video is the oldest one still public.",
+    "issues": [],
+    "first": {
+      "id": "yyl8RHdoUb0",
+      "status": "OK",
+      "embeddable": true,
+      "title": "District 28-3A 1600m Run Boys",
+      "channelId": "UCnmGIkw-KdI0W5siakKPKog",
+      "channelName": "Ryan Trahan",
+      "channelUrl": "http://www.youtube.com/@ryan",
+      "views": 203859,
+      "uploadDate": "2016-04-15",
+      "lengthSeconds": 281
+    },
+    "channel": {
+      "channelId": "UCnmGIkw-KdI0W5siakKPKog",
+      "handle": "ryan",
+      "title": "Ryan Trahan",
+      "avatar": "https://yt3.googleusercontent.com/fiJrCXLTjjY531uelhbpUD21Cb0iMb6vF21M6-H7ZhjMZPe2cAkIeB9yWUHtENkFhq1F3oVbgg=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "24M",
+      "videosText": "521"
+    },
+    "oldestPublic": {
+      "id": "yyl8RHdoUb0",
+      "title": "District 28-3A 1600m Run Boys",
+      "uploadDate": "2016-04-15"
+    },
+    "latest": {
+      "id": "1w3XaMSIeR8",
+      "status": "OK",
+      "embeddable": true,
+      "title": "How Many Countries Can I Visit in 7 Days?",
+      "channelId": "UCnmGIkw-KdI0W5siakKPKog",
+      "channelName": "Ryan Trahan",
+      "channelUrl": "http://www.youtube.com/@ryan",
+      "views": 13665221,
+      "uploadDate": "2026-09-12",
+      "lengthSeconds": 2524
+    }
+  },
+  {
+    "name": "FaZe Rug",
+    "handle": "rug",
+    "firstVideoId": "-0H67vDN_Ww",
+    "issues": [],
+    "first": {
+      "id": "-0H67vDN_Ww",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Welcome to my New Channel! -- By Squeaks [200 Likes]? | FaZe Rug",
+      "channelId": "UCilwZiBBfI9X6yiZRzWty8Q",
+      "channelName": "FaZe Rug",
+      "channelUrl": "http://www.youtube.com/@rug",
+      "views": 1251934,
+      "uploadDate": "2012-07-14",
+      "lengthSeconds": 25
+    },
+    "channel": {
+      "channelId": "UCilwZiBBfI9X6yiZRzWty8Q",
+      "handle": "rug",
+      "title": "FaZe Rug",
+      "avatar": "https://yt3.googleusercontent.com/KN9ZJ9iHcPcKGokxLlwTPhdWU6wPrTe7Lf_7g2lXhjpX6fc4240zD4uus5jP3LWrzgPPziDE=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "30M",
+      "videosText": "2.6K"
+    },
+    "oldestPublic": {
+      "id": "-0H67vDN_Ww",
+      "title": "Welcome to my New Channel! -- By Squeaks [200 Likes]? | FaZe Rug",
+      "uploadDate": "2012-07-14"
+    },
+    "latest": {
+      "id": "0yJbIlMVFjU",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Tried the LEAST Ordered Fast Food Items",
+      "channelId": "UCilwZiBBfI9X6yiZRzWty8Q",
+      "channelName": "FaZe Rug",
+      "channelUrl": "http://www.youtube.com/@rug",
+      "views": 2349642,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 1428
+    }
+  },
+  {
+    "name": "MKBHD",
+    "handle": "mkbhd",
+    "firstVideoId": "fjhmnWFsr3s",
+    "issues": [],
+    "first": {
+      "id": "fjhmnWFsr3s",
+      "status": "OK",
+      "embeddable": true,
+      "title": "13-Year-Old Golf Swing Analysis",
+      "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+      "channelName": "Marques Brownlee",
+      "channelUrl": "http://www.youtube.com/@mkbhd",
+      "views": 1040223,
+      "uploadDate": "2008-03-28",
+      "lengthSeconds": 31
+    },
+    "channel": {
+      "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+      "handle": "mkbhd",
+      "title": "Marques Brownlee",
+      "avatar": "https://yt3.googleusercontent.com/qu4TmIaYUlS41-dJ9gZ7DUR3nilvmB5_11i6OKSdvNnBNiyOusZP1bMN6ICnuxtjFBb6ioKgRQ=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "21.3M",
+      "videosText": "1.8K"
+    },
+    "oldestPublic": {
+      "id": "fjhmnWFsr3s",
+      "title": "13-Year-Old Golf Swing Analysis",
+      "uploadDate": "2008-03-28"
+    },
+    "latest": {
+      "id": "e1q-TuHdc4Y",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Dear YouTube!",
+      "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+      "channelName": "Marques Brownlee",
+      "channelUrl": "http://www.youtube.com/@mkbhd",
+      "views": 4307631,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 743
+    }
+  },
+  {
+    "name": "Mrwhosetheboss",
+    "handle": "Mrwhosetheboss",
+    "firstVideoId": "M_QU_Y93eLc",
+    "issues": [],
+    "first": {
+      "id": "M_QU_Y93eLc",
+      "status": "OK",
+      "embeddable": true,
+      "title": "How to optimize your ZTE Blade",
+      "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+      "channelName": "Mrwhosetheboss",
+      "channelUrl": "http://www.youtube.com/@Mrwhosetheboss",
+      "views": 983260,
+      "uploadDate": "2011-04-22",
+      "lengthSeconds": 494
+    },
+    "channel": {
+      "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+      "handle": "Mrwhosetheboss",
+      "title": "Mrwhosetheboss",
+      "avatar": "https://yt3.googleusercontent.com/QFI5OsUuSRHV-YpwksnVqpqWC19gjU55smnxPzLVU5Y5ohqKIkxq21nV_VfBJhvanYeMBot21A=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "23M",
+      "videosText": "1.9K"
+    },
+    "oldestPublic": {
+      "id": "M_QU_Y93eLc",
+      "title": "How to optimize your ZTE Blade",
+      "uploadDate": "2011-04-22"
+    },
+    "latest": {
+      "id": "eYBEJBfq_Zs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Xiaomi made an iPhone Duo. It’s Unhinged.",
+      "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+      "channelName": "Mrwhosetheboss",
+      "channelUrl": "http://www.youtube.com/@Mrwhosetheboss",
+      "views": 17318199,
+      "uploadDate": "2026-09-22",
+      "lengthSeconds": 1038
+    }
+  },
+  {
+    "name": "Sidemen",
+    "handle": "Sidemen",
+    "firstVideoId": "QXyJgxWH6h4",
+    "issues": [],
+    "first": {
+      "id": "QXyJgxWH6h4",
+      "status": "OK",
+      "embeddable": true,
+      "title": "WELCOME TO THE SIDEMEN CHANNEL!",
+      "channelId": "UCDogdKl7t7NHzQ95aEwkdMw",
+      "channelName": "Sidemen",
+      "channelUrl": "http://www.youtube.com/@Sidemen",
+      "views": 4973513,
+      "uploadDate": "2016-05-15",
+      "lengthSeconds": 60
+    },
+    "channel": {
+      "channelId": "UCDogdKl7t7NHzQ95aEwkdMw",
+      "handle": "Sidemen",
+      "title": "Sidemen",
+      "avatar": "https://yt3.googleusercontent.com/xVXPh2t4Z7pYetsrxf_paFtTQ7SOGHmx1WlRzZVTJ5S2cPAsUOtZRLisFFlnvQPnKAoIur0X=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "23.4M",
+      "videosText": "513"
+    },
+    "oldestPublic": {
+      "id": "QXyJgxWH6h4",
+      "title": "WELCOME TO THE SIDEMEN CHANNEL!",
+      "uploadDate": "2016-05-15"
+    },
+    "latest": {
+      "id": "V1w4y2-wo6A",
+      "status": "OK",
+      "embeddable": true,
+      "title": "GUESS THE NBA PLAYER ft. COOPER FLAGG",
+      "channelId": "UCDogdKl7t7NHzQ95aEwkdMw",
+      "channelName": "Sidemen",
+      "channelUrl": "http://www.youtube.com/@Sidemen",
+      "views": 3903113,
+      "uploadDate": "2026-09-27",
+      "lengthSeconds": 3059
+    }
+  },
+  {
+    "name": "Zach King",
+    "handle": "zachking",
+    "firstVideoId": "gd_y0jhU7dA",
+    "issues": [],
+    "first": {
+      "id": "gd_y0jhU7dA",
+      "status": "OK",
+      "embeddable": true,
+      "title": "My Phone Cooks Popcorn - Vine",
+      "channelId": "UCq8DICunczvLuJJq414110A",
+      "channelName": "Zach King",
+      "channelUrl": "http://www.youtube.com/@ZachKing",
+      "views": 1693672,
+      "uploadDate": "2013-10-16",
+      "lengthSeconds": 28
+    },
+    "channel": {
+      "channelId": "UCq8DICunczvLuJJq414110A",
+      "handle": "ZachKing",
+      "title": "Zach King",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kik7i7hId8EjFMERTw3_j8ODyhoot8JF3iUJRs53htOJc=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "43.5M",
+      "videosText": "866"
+    },
+    "oldestPublic": {
+      "id": "gd_y0jhU7dA",
+      "title": "My Phone Cooks Popcorn - Vine",
+      "uploadDate": "2013-10-16"
+    },
+    "latest": {
+      "id": "Q_Y0S5c4j4M",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Zach King's Best MAGIC VIDEOS of 2026",
+      "channelId": "UCq8DICunczvLuJJq414110A",
+      "channelName": "Zach King",
+      "channelUrl": "http://www.youtube.com/@ZachKing",
+      "views": 431739,
+      "uploadDate": "2026-09-26",
+      "lengthSeconds": 612
+    }
+  },
+  {
+    "name": "Brent Rivera",
+    "handle": "brentrivera",
+    "firstVideoId": "d5zzQQpdv94",
+    "issues": [],
+    "first": {
+      "id": "d5zzQQpdv94",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Brent's Cooking Show - Lava Cake",
+      "channelId": "UC56D-IHcUvLVFTX_8NpQMXg",
+      "channelName": "Brent Rivera",
+      "channelUrl": "http://www.youtube.com/@brentrivera",
+      "views": 8215915,
+      "uploadDate": "2012-05-05",
+      "lengthSeconds": 103
+    },
+    "channel": {
+      "channelId": "UC56D-IHcUvLVFTX_8NpQMXg",
+      "handle": "brentrivera",
+      "title": "Brent Rivera",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nckg4JPK13gMS2o4E9ZVGXg6bHK0PgwVXTe3YCmvKHksU=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "44.1M",
+      "videosText": "906"
+    },
+    "oldestPublic": {
+      "id": "d5zzQQpdv94",
+      "title": "Brent's Cooking Show - Lava Cake",
+      "uploadDate": "2012-05-05"
+    },
+    "latest": {
+      "id": "0fsALTeFhgM",
+      "status": "OK",
+      "embeddable": true,
+      "title": "20 Scary Things We Found on Google Maps!",
+      "channelId": "UC56D-IHcUvLVFTX_8NpQMXg",
+      "channelName": "Brent Rivera",
+      "channelUrl": "http://www.youtube.com/@brentrivera",
+      "views": 13279727,
+      "uploadDate": "2026-09-07",
+      "lengthSeconds": 6030
+    }
+  },
+  {
+    "name": "Ben Azelart",
+    "handle": "benazelart",
+    "firstVideoId": "Z6X6FUFPQ4s",
+    "issues": [],
+    "first": {
+      "id": "Z6X6FUFPQ4s",
+      "status": "OK",
+      "embeddable": true,
+      "title": "THE START OF MY YOUTUBE!",
+      "channelId": "UCwVg9btOceLQuNCdoQk9CXg",
+      "channelName": "Ben Azelart",
+      "channelUrl": "http://www.youtube.com/@BenAzelart",
+      "views": 2224161,
+      "uploadDate": "2016-08-15",
+      "lengthSeconds": 289
+    },
+    "channel": {
+      "channelId": "UCwVg9btOceLQuNCdoQk9CXg",
+      "handle": "BenAzelart",
+      "title": "Ben Azelart",
+      "avatar": "https://yt3.googleusercontent.com/Y_5UEmFz4ClK77lAjsApC6Hv1h0t4WaeJWpZCPfK1t_ghrnaVeDtiqQWKOJyu4aofx7o25jmaaA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "51.5M",
+      "videosText": "409"
+    },
+    "oldestPublic": {
+      "id": "Z6X6FUFPQ4s",
+      "title": "THE START OF MY YOUTUBE!",
+      "uploadDate": "2016-08-15"
+    },
+    "latest": {
+      "id": "KOUIutbVDrc",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Got Injured...",
+      "channelId": "UCwVg9btOceLQuNCdoQk9CXg",
+      "channelName": "Ben Azelart",
+      "channelUrl": "http://www.youtube.com/@BenAzelart",
+      "views": 14770128,
+      "uploadDate": "2026-07-05",
+      "lengthSeconds": 209
+    }
+  },
+  {
+    "name": "Emma Chamberlain",
+    "handle": "emmachamberlain",
+    "firstVideoId": "JNYEgrZT-2s",
+    "issues": [],
+    "first": {
+      "id": "JNYEgrZT-2s",
+      "status": "OK",
+      "embeddable": true,
+      "title": "TRY-ON THRIFT HAUL",
+      "channelId": "UC78cxCAcp7JfQPgKxYdyGrg",
+      "channelName": "emma chamberlain",
+      "channelUrl": "http://www.youtube.com/@emmachamberlain",
+      "views": 1465463,
+      "uploadDate": "2017-06-14",
+      "lengthSeconds": 299
+    },
+    "channel": {
+      "channelId": "UC78cxCAcp7JfQPgKxYdyGrg",
+      "handle": "emmachamberlain",
+      "title": "emma chamberlain",
+      "avatar": "https://yt3.googleusercontent.com/zDSI5VOhKgSHZMOihPFJGh4NmgHu1fI7bVYp8lhTuhnwhDBECt-Hgs1nm69dCn23aXZZAtCQ7g=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "12M",
+      "videosText": "308"
+    },
+    "oldestPublic": {
+      "id": "JNYEgrZT-2s",
+      "title": "TRY-ON THRIFT HAUL",
+      "uploadDate": "2017-06-14"
+    },
+    "latest": {
+      "id": "d1Lnp08XTSk",
+      "status": "OK",
+      "embeddable": true,
+      "title": "nobody cares that you went to fashion week",
+      "channelId": "UC78cxCAcp7JfQPgKxYdyGrg",
+      "channelName": "emma chamberlain",
+      "channelUrl": "http://www.youtube.com/@emmachamberlain",
+      "views": 1800316,
+      "uploadDate": "2025-12-07",
+      "lengthSeconds": 2666
+    }
+  },
+  {
+    "name": "Vlad and Niki",
+    "handle": "VladandNiki",
+    "firstVideoId": "qx5yblEdQkk",
+    "issues": [],
+    "first": {
+      "id": "qx5yblEdQkk",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Vlad and Nikita Play with Colored Blocks",
+      "channelId": "UCvlE5gTbOvjiolFlEm-c_Ow",
+      "channelName": "Vlad and Niki",
+      "channelUrl": "http://www.youtube.com/@VladandNiki",
+      "views": 83208103,
+      "uploadDate": "2018-04-28",
+      "lengthSeconds": 239
+    },
+    "channel": {
+      "channelId": "UCvlE5gTbOvjiolFlEm-c_Ow",
+      "handle": "VladandNiki",
+      "title": "Vlad and Niki",
+      "avatar": "https://yt3.googleusercontent.com/il7dQx5fz3qs2ykOvWQVhtjT-_grY_oPmXlah13q694r_5zUS_7M33pBuUC34Cq0VearBaT1NOE=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "151M",
+      "videosText": "1K"
+    },
+    "oldestPublic": {
+      "id": "qx5yblEdQkk",
+      "title": "Vlad and Nikita Play with Colored Blocks",
+      "uploadDate": "2018-04-28"
+    },
+    "latest": {
+      "id": "qnM87-NLTp8",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Chris and friends in Cardboard Challenges for kids",
+      "channelId": "UCvlE5gTbOvjiolFlEm-c_Ow",
+      "channelName": "Vlad and Niki",
+      "channelUrl": "http://www.youtube.com/@VladandNiki",
+      "views": 890694,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 2412
+    }
+  },
+  {
+    "name": "Kids Diana Show",
+    "handle": "KidsDianaShow",
+    "firstVideoId": "h1_00oAj72c",
+    "issues": [],
+    "first": {
+      "id": "h1_00oAj72c",
+      "status": "OK",
+      "embeddable": true,
+      "title": "✿ VLOG Диана, приветствие! Greetings! Diana show first video on new channel",
+      "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+      "channelName": "✿ Kids Diana Show",
+      "channelUrl": "http://www.youtube.com/@KidsDianaShow",
+      "views": 1989422,
+      "uploadDate": "2015-05-12",
+      "lengthSeconds": 87
+    },
+    "channel": {
+      "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+      "handle": "KidsDianaShow",
+      "title": "✿ Kids Diana Show",
+      "avatar": "https://yt3.googleusercontent.com/G88LBGqFoBWMos0glZEdCvQ7uEMPnhBYsPRMOFX5b5z6tuqWaD6ZcscslaKu0zLO37v8sMUA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "138M",
+      "videosText": "1.7K"
+    },
+    "oldestPublic": {
+      "id": "h1_00oAj72c",
+      "title": "✿ VLOG Диана, приветствие! Greetings! Diana show first video on new channel",
+      "uploadDate": "2015-05-12"
+    },
+    "latest": {
+      "id": "bf7vxWGIaK0",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Magic School Lockers Adventure",
+      "channelId": "UCk8GzjMOrta8yxDcKfylJYw",
+      "channelName": "✿ Kids Diana Show",
+      "channelUrl": "http://www.youtube.com/@KidsDianaShow",
+      "views": 36461,
+      "uploadDate": "2026-10-01",
+      "lengthSeconds": 1343
+    }
+  },
+  {
+    "name": "Like Nastya",
+    "handle": "LikeNastyaofficial",
+    "firstVideoId": "Smvp77QKEyE",
+    "issues": [],
+    "first": {
+      "id": "Smvp77QKEyE",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Влог: Катаемся на слонах и кормим рыб из сосочки",
+      "channelId": "UCJplp5SjeGSdVdwsfb9Q7lQ",
+      "channelName": "Like Nastya",
+      "channelUrl": "http://www.youtube.com/@LikeNastyaofficial",
+      "views": 7449446,
+      "uploadDate": "2016-12-14",
+      "lengthSeconds": 664
+    },
+    "channel": {
+      "channelId": "UCJplp5SjeGSdVdwsfb9Q7lQ",
+      "handle": "LikeNastyaofficial",
+      "title": "Like Nastya",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mVv_9v6t_6ni8YIQZWxmabSsNCVTyGQ48CHQ8-2W-OQtM=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "133M",
+      "videosText": "1.1K"
+    },
+    "oldestPublic": {
+      "id": "Smvp77QKEyE",
+      "title": "Влог: Катаемся на слонах и кормим рыб из сосочки",
+      "uploadDate": "2016-12-14"
+    },
+    "latest": {
+      "id": "bSXm1CRRXc8",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Nastya and Friends - fun day with family",
+      "channelId": "UCJplp5SjeGSdVdwsfb9Q7lQ",
+      "channelName": "Like Nastya",
+      "channelUrl": "http://www.youtube.com/@LikeNastyaofficial",
+      "views": 2360161,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 1485
+    }
+  },
+  {
+    "name": "Alan's Universe",
+    "handle": "alanchikinchow",
+    "firstVideoId": "AYH23vlzYzo",
+    "issues": [],
+    "first": {
+      "id": "AYH23vlzYzo",
+      "status": "OK",
+      "embeddable": true,
+      "title": "IF LIFE WAS A K-DRAMA 👨‍❤️‍💋‍👨 #shorts",
+      "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
+      "channelName": "Alan's Universe",
+      "channelUrl": "http://www.youtube.com/@AlanChikinChow",
+      "views": 5750460,
+      "uploadDate": "2020-02-03",
+      "lengthSeconds": 26
+    },
+    "channel": {
+      "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
+      "handle": "AlanChikinChow",
+      "title": "Alan's Universe",
+      "avatar": "https://yt3.googleusercontent.com/lA3SEmZbetaDHX6K4BlrWRpNLfJh5pT74-DZWpvKueB3wpoD6RhkxpxVfbnUBoExK2ctCQ7Pjw=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "102M",
+      "videosText": "1.8K"
+    },
+    "oldestPublic": {
+      "id": "AYH23vlzYzo",
+      "title": "IF LIFE WAS A K-DRAMA 👨‍❤️‍💋‍👨 #shorts",
+      "uploadDate": "2020-02-03"
+    },
+    "latest": {
+      "id": "z77EFEEMnac",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Vampire Brothers Saved My Life ft. ENHYPEN | Alan’s Universe",
+      "channelId": "UC5gxP-2QqIh_09djvlm9Xcg",
+      "channelName": "Alan's Universe",
+      "channelUrl": "http://www.youtube.com/@AlanChikinChow",
+      "views": 9280418,
+      "uploadDate": "2026-09-05",
+      "lengthSeconds": 1213
+    }
+  },
+  {
+    "name": "Topper Guild",
+    "handle": "TopperGuild",
+    "firstVideoId": "_HriabwIqtA",
+    "issues": [],
+    "first": {
+      "id": "_HriabwIqtA",
+      "status": "OK",
+      "embeddable": true,
+      "title": "VIRAL TIKTOK PRANKS ON STEPHEN SHARER (HE WAS MAD)",
+      "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+      "channelName": "Topper Guild",
+      "channelUrl": "http://www.youtube.com/@topperguild",
+      "views": 3022276,
+      "uploadDate": "2020-10-25",
+      "lengthSeconds": 663
+    },
+    "channel": {
+      "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+      "handle": "topperguild",
+      "title": "Topper Guild",
+      "avatar": "https://yt3.googleusercontent.com/Ce8Rj4Kb89F0zNpA1961oezAXskNSJ9WV_k7fWUAAxRcCzQRUVmwW4S8FhIjwwa4xDpapFJ5Mw=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "94.8M",
+      "videosText": "1.6K"
+    },
+    "oldestPublic": {
+      "id": "_HriabwIqtA",
+      "title": "VIRAL TIKTOK PRANKS ON STEPHEN SHARER (HE WAS MAD)",
+      "uploadDate": "2020-10-25"
+    },
+    "latest": {
+      "id": "Onicsuxnm04",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Secretly Lived in a Zoo!",
+      "channelId": "UCPuEAY09CtdTzFNWuqVZgDw",
+      "channelName": "Topper Guild",
+      "channelUrl": "http://www.youtube.com/@topperguild",
+      "views": 8321146,
+      "uploadDate": "2026-09-26",
+      "lengthSeconds": 1788
+    }
+  },
+  {
+    "name": "Zhong",
+    "handle": "zhong",
+    "firstVideoId": "iVxxVjZxnm4",
+    "issues": [],
+    "first": {
+      "id": "iVxxVjZxnm4",
+      "status": "OK",
+      "embeddable": true,
+      "title": "We TESTED Viral TikTok Life Hacks   ** IT WORKED **",
+      "channelId": "UCyagEfIN1okQ-s996XAqCFQ",
+      "channelName": "Zhong",
+      "channelUrl": "http://www.youtube.com/@zhong",
+      "views": 1008105,
+      "uploadDate": "2019-12-31",
+      "lengthSeconds": 710
+    },
+    "channel": {
+      "channelId": "UCyagEfIN1okQ-s996XAqCFQ",
+      "handle": "zhong",
+      "title": "Zhong",
+      "avatar": "https://yt3.googleusercontent.com/FKuNOzSM4kV6WgdJK4iJ7mqCJmONtUbY_b52vskqQUYe7kjUB8iUeVMn8lLMzAO8z_YSDm4L=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "80.4M",
+      "videosText": "2.5K"
+    },
+    "oldestPublic": {
+      "id": "iVxxVjZxnm4",
+      "title": "We TESTED Viral TikTok Life Hacks   ** IT WORKED **",
+      "uploadDate": "2019-12-31"
+    },
+    "latest": {
+      "id": "1x9fAvm9paw",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Pranking World's Strictest Teacher Until She QUITS!",
+      "channelId": "UCyagEfIN1okQ-s996XAqCFQ",
+      "channelName": "Zhong",
+      "channelUrl": "http://www.youtube.com/@zhong",
+      "views": 3350793,
+      "uploadDate": "2026-09-26",
+      "lengthSeconds": 1693
+    }
+  },
+  {
+    "name": "Jesser",
+    "handle": "Jesser",
+    "firstVideoId": "5u2mExlU5gU",
+    "issues": [],
+    "first": {
+      "id": "5u2mExlU5gU",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Stalkatron 9000",
+      "channelId": "UCQIUhhcmXsu6cN6n3y9-Pww",
+      "channelName": "Jesser",
+      "channelUrl": "http://www.youtube.com/@Jesser",
+      "views": 403626,
+      "uploadDate": "2013-08-14",
+      "lengthSeconds": 57
+    },
+    "channel": {
+      "channelId": "UCQIUhhcmXsu6cN6n3y9-Pww",
+      "handle": "Jesser",
+      "title": "Jesser",
+      "avatar": "https://yt3.googleusercontent.com/pJe9dElbAj7ZlcGducMEoxfGWu5cKcwnmB7Qu1qKm_dzR0jukIV4myZUhj78P2nt0L3fPuA7rQ=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "49.9M",
+      "videosText": "1.7K"
+    },
+    "oldestPublic": {
+      "id": "5u2mExlU5gU",
+      "title": "Stalkatron 9000",
+      "uploadDate": "2013-08-14"
+    },
+    "latest": {
+      "id": "1vokRDft-bw",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Can My New Basketball Team Win A Championship?",
+      "channelId": "UCQIUhhcmXsu6cN6n3y9-Pww",
+      "channelName": "Jesser",
+      "channelUrl": "http://www.youtube.com/@Jesser",
+      "views": 1508297,
+      "uploadDate": "2026-09-26",
+      "lengthSeconds": 2658
+    }
+  },
+  {
+    "name": "Nick DiGiovanni",
+    "handle": "NickDiGiovanni",
+    "firstVideoId": "pc2to3jXxI4",
+    "issues": [],
+    "first": {
+      "id": "pc2to3jXxI4",
+      "status": "OK",
+      "embeddable": true,
+      "title": "My Final Dessert On MasterChef",
+      "channelId": "UCMyOj6fhvKFMjxUCp3b_3gA",
+      "channelName": "Nick DiGiovanni",
+      "channelUrl": "http://www.youtube.com/@NickDiGiovanni",
+      "views": 6172160,
+      "uploadDate": "2019-10-21",
+      "lengthSeconds": 55
+    },
+    "channel": {
+      "channelId": "UCMyOj6fhvKFMjxUCp3b_3gA",
+      "handle": "NickDiGiovanni",
+      "title": "Nick DiGiovanni",
+      "avatar": "https://yt3.googleusercontent.com/CofMW7AEzKvJogOyUg6_k_H0_jlaa4y2yC0mm-cbjvEpAv_IdOTxttHMIDFM3bD_pM6BBzS4Y44=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "46.9M",
+      "videosText": "577"
+    },
+    "oldestPublic": {
+      "id": "pc2to3jXxI4",
+      "title": "My Final Dessert On MasterChef",
+      "uploadDate": "2019-10-21"
+    },
+    "latest": {
+      "id": "1fGScw5eX0M",
+      "status": "OK",
+      "embeddable": true,
+      "title": "10 Levels Of Spicy Food",
+      "channelId": "UCMyOj6fhvKFMjxUCp3b_3gA",
+      "channelName": "Nick DiGiovanni",
+      "channelUrl": "http://www.youtube.com/@NickDiGiovanni",
+      "views": 53543986,
+      "uploadDate": "2026-09-12",
+      "lengthSeconds": 1177
+    }
+  },
+  {
+    "name": "Ryan's World",
+    "handle": "RyansWorld",
+    "firstVideoId": "jVwSJ9q3kOc",
+    "issues": [],
+    "first": {
+      "id": "jVwSJ9q3kOc",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Kid playing with toys Lego Duplo Number Train",
+      "channelId": "UChGJGhZ9SOOHvBB0Y4DOO_w",
+      "channelName": "Ryan's World",
+      "channelUrl": "http://www.youtube.com/@RyansWorld",
+      "views": 55200292,
+      "uploadDate": "2015-03-16",
+      "lengthSeconds": 913
+    },
+    "channel": {
+      "channelId": "UChGJGhZ9SOOHvBB0Y4DOO_w",
+      "handle": "RyansWorld",
+      "title": "Ryan's World",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mIPCAPZ4k1NbKEYcWQ-TbtucaftdvpIaBZRjzOodYoWGA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "40.4M",
+      "videosText": "3.9K"
+    },
+    "oldestPublic": {
+      "id": "jVwSJ9q3kOc",
+      "title": "Kid playing with toys Lego Duplo Number Train",
+      "uploadDate": "2015-03-16"
+    },
+    "latest": {
+      "id": "fXSW586g0Jo",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Halloween SING ALONG with Ryan! NEW Song & Music Video! 🎃🎶",
+      "channelId": "UChGJGhZ9SOOHvBB0Y4DOO_w",
+      "channelName": "Ryan's World",
+      "channelUrl": "http://www.youtube.com/@RyansWorld",
+      "views": 12922,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 979
+    }
+  },
+  {
+    "name": "Jordan Matter",
+    "handle": "jordanmatter",
+    "firstVideoId": "oOAek9kBh1I",
+    "issues": [],
+    "first": {
+      "id": "oOAek9kBh1I",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Jordan Matter Headshots",
+      "channelId": "UCKaCalz5N5ienIbfPzEbYuA",
+      "channelName": "Jordan Matter",
+      "channelUrl": "http://www.youtube.com/@jordanmatter",
+      "views": 1570078,
+      "uploadDate": "2010-02-10",
+      "lengthSeconds": 86
+    },
+    "channel": {
+      "channelId": "UCKaCalz5N5ienIbfPzEbYuA",
+      "handle": "jordanmatter",
+      "title": "Jordan Matter",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lDjDRPwwtga_q3VbrMyDHbpETZ28gejqUoD1Codxft3TA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "38.2M",
+      "videosText": "600"
+    },
+    "oldestPublic": {
+      "id": "oOAek9kBh1I",
+      "title": "Jordan Matter Headshots",
+      "uploadDate": "2010-02-10"
+    },
+    "latest": {
+      "id": "yHwly0U6l8s",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Built a SECRET MALL in my House",
+      "channelId": "UCKaCalz5N5ienIbfPzEbYuA",
+      "channelName": "Jordan Matter",
+      "channelUrl": "http://www.youtube.com/@jordanmatter",
+      "views": 9646504,
+      "uploadDate": "2026-09-26",
+      "lengthSeconds": 1974
+    }
+  },
+  {
+    "name": "Lucas and Marcus",
+    "handle": "LucasandMarcus",
+    "firstVideoId": "OLk0K05iIdw",
+    "issues": [],
+    "first": {
+      "id": "OLk0K05iIdw",
+      "status": "OK",
+      "embeddable": true,
+      "title": "What Are The Odds? w/ Jake Paul",
+      "channelId": "UCwD4x63A9KC7Si2RuSfg-SA",
+      "channelName": "Lucas and Marcus",
+      "channelUrl": "http://www.youtube.com/@LucasandMarcus",
+      "views": 1365257,
+      "uploadDate": "2015-10-29",
+      "lengthSeconds": 348
+    },
+    "channel": {
+      "channelId": "UCwD4x63A9KC7Si2RuSfg-SA",
+      "handle": "LucasandMarcus",
+      "title": "Lucas and Marcus",
+      "avatar": "https://yt3.googleusercontent.com/b-KtsWSzhEcFGyxVl6t2wHT2ZSaa_V5xKteT4R0Cc2NS6R2NFLE8iq5C696GzWSHrLmNcqn7aPo=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "37.2M",
+      "videosText": "2.8K"
+    },
+    "oldestPublic": {
+      "id": "OLk0K05iIdw",
+      "title": "What Are The Odds? w/ Jake Paul",
+      "uploadDate": "2015-10-29"
+    },
+    "latest": {
+      "id": "PpthmQ6E0EY",
+      "status": "OK",
+      "embeddable": true,
+      "title": "The Creepy Man Was RUSHED To The Hospital..",
+      "channelId": "UCwD4x63A9KC7Si2RuSfg-SA",
+      "channelName": "Lucas and Marcus",
+      "channelUrl": "http://www.youtube.com/@LucasandMarcus",
+      "views": 82302,
+      "uploadDate": "2026-10-01",
+      "lengthSeconds": 633
+    }
+  },
+  {
+    "name": "The Royalty Family",
+    "handle": "royaltyfam",
+    "firstVideoId": "SrBssXa3Jzk",
+    "issues": [],
+    "first": {
+      "id": "SrBssXa3Jzk",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Andrea Espada WITH King Ferran SUNDAY FUNDAY!!!! | The Royalty Family",
+      "channelId": "UCja7QUMRG9AD8X2F_vXFb9A",
+      "channelName": "The Royalty Family",
+      "channelUrl": "http://www.youtube.com/@royaltyfam",
+      "views": 3763218,
+      "uploadDate": "2017-10-23",
+      "lengthSeconds": 433
+    },
+    "channel": {
+      "channelId": "UCja7QUMRG9AD8X2F_vXFb9A",
+      "handle": "royaltyfam",
+      "title": "The Royalty Family",
+      "avatar": "https://yt3.googleusercontent.com/2Zfi0iwOh5bEjVUlNlOPd5fAHGsgRtwBZwA75MIz11GBiQripRbXp3fQAmc_QPoXUOpFKvmAOg=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "35.9M",
+      "videosText": "857"
+    },
+    "oldestPublic": {
+      "id": "SrBssXa3Jzk",
+      "title": "Andrea Espada WITH King Ferran SUNDAY FUNDAY!!!! | The Royalty Family",
+      "uploadDate": "2017-10-23"
+    },
+    "latest": {
+      "id": "1t9nqw6SfO0",
+      "status": "OK",
+      "embeddable": true,
+      "title": "My Mom Can't Find Out About This…",
+      "channelId": "UCja7QUMRG9AD8X2F_vXFb9A",
+      "channelName": "The Royalty Family",
+      "channelUrl": "http://www.youtube.com/@royaltyfam",
+      "views": 4306855,
+      "uploadDate": "2026-09-27",
+      "lengthSeconds": 1962
+    }
+  },
+  {
+    "name": "LankyBox",
+    "handle": "LankyBox",
+    "firstVideoId": "IMuCvEZga7Y",
+    "issues": [],
+    "first": {
+      "id": "IMuCvEZga7Y",
+      "status": "OK",
+      "embeddable": true,
+      "title": "LANKYBOX K-POP CAR RIDE LIP SYNC",
+      "channelId": "UCSf0s2ogUVYpJPuzW1zpAOg",
+      "channelName": "LankyBox",
+      "channelUrl": "http://www.youtube.com/@LankyBox",
+      "views": 34460717,
+      "uploadDate": "2017-03-28",
+      "lengthSeconds": 102
+    },
+    "channel": {
+      "channelId": "UCSf0s2ogUVYpJPuzW1zpAOg",
+      "handle": "LankyBox",
+      "title": "LankyBox",
+      "avatar": "https://yt3.googleusercontent.com/s34n05C549gbmPlspcwdTBzjC-xE-0ii4MG0ppJf-0DzOuEpKgDh0byajvX6kKAC1ns_RQWu3w=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "42M",
+      "videosText": "9.2K"
+    },
+    "oldestPublic": {
+      "id": "IMuCvEZga7Y",
+      "title": "LANKYBOX K-POP CAR RIDE LIP SYNC",
+      "uploadDate": "2017-03-28"
+    },
+    "latest": {
+      "id": "tXkzv5gUBTY",
+      "status": "OK",
+      "embeddable": true,
+      "title": "LANKYBOX Playing POPPY PLAYTIME CHAPTER 5!? (FULL GAMEPLAY!)",
+      "channelId": "UCSf0s2ogUVYpJPuzW1zpAOg",
+      "channelName": "LankyBox",
+      "channelUrl": "http://www.youtube.com/@LankyBox",
+      "views": 7933916,
+      "uploadDate": "2026-02-20",
+      "lengthSeconds": 15933
+    }
+  },
+  {
+    "name": "ZHC",
+    "handle": "ZHCYT",
+    "firstVideoId": "5iTfzsRqdFk",
+    "issues": [],
+    "first": {
+      "id": "5iTfzsRqdFk",
+      "status": "OK",
+      "embeddable": true,
+      "title": "My First Video",
+      "channelId": "UClQubH2NeMmGLTLgNdLBwXg",
+      "channelName": "ZHC",
+      "channelUrl": "http://www.youtube.com/@ZHCYT",
+      "views": 2095204,
+      "uploadDate": "2016-12-13",
+      "lengthSeconds": 469
+    },
+    "channel": {
+      "channelId": "UClQubH2NeMmGLTLgNdLBwXg",
+      "handle": "ZHCYT",
+      "title": "ZHC",
+      "avatar": "https://yt3.googleusercontent.com/WekK3CDw-f_QRg5covVbkGRgLRM4fKMTinyYFJVXWKF_M552RP2lGmJ60bbWr24ddKiM0OKk=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "30.8M",
+      "videosText": "368"
+    },
+    "oldestPublic": {
+      "id": "5iTfzsRqdFk",
+      "title": "My First Video",
+      "uploadDate": "2016-12-13"
+    },
+    "latest": {
+      "id": "JtecxF3gGtw",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Recreating Our First Date 8 Years Later",
+      "channelId": "UClQubH2NeMmGLTLgNdLBwXg",
+      "channelName": "ZHC",
+      "channelUrl": "http://www.youtube.com/@ZHCYT",
+      "views": 1134016,
+      "uploadDate": "2026-09-25",
+      "lengthSeconds": 2279
+    }
+  },
+  {
+    "name": "Preston",
+    "handle": "PrestonYT",
+    "firstVideoId": "ppR1S6_ZO5U",
+    "issues": [],
+    "first": {
+      "id": "ppR1S6_ZO5U",
+      "status": "OK",
+      "embeddable": true,
+      "title": "BUT WHY!? - Castle Crashers: Part 1 - w/Kenny",
+      "channelId": "UC70Dib4MvFfT1tU6MqeyHpQ",
+      "channelName": "Preston",
+      "channelUrl": "http://www.youtube.com/@PrestonYT",
+      "views": 1466640,
+      "uploadDate": "2013-01-15",
+      "lengthSeconds": 899
+    },
+    "channel": {
+      "channelId": "UC70Dib4MvFfT1tU6MqeyHpQ",
+      "handle": "PrestonYT",
+      "title": "Preston",
+      "avatar": "https://yt3.googleusercontent.com/g-I_965xeS8IlxhbPm10DtwIgH2xHhHYWaE8JXiPJLjK15YBTR1ViqppmzHWgD_R5YvXDk4L=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "32.3M",
+      "videosText": "4.3K"
+    },
+    "oldestPublic": {
+      "id": "ppR1S6_ZO5U",
+      "title": "BUT WHY!? - Castle Crashers: Part 1 - w/Kenny",
+      "uploadDate": "2013-01-15"
+    },
+    "latest": {
+      "id": "jluw10-73rM",
+      "status": "OK",
+      "embeddable": true,
+      "title": "100 Layers of NEEDOH vs CANDY!",
+      "channelId": "UC70Dib4MvFfT1tU6MqeyHpQ",
+      "channelName": "Preston",
+      "channelUrl": "http://www.youtube.com/@PrestonYT",
+      "views": 1682358,
+      "uploadDate": "2026-09-26",
+      "lengthSeconds": 1407
+    }
+  },
+  {
+    "name": "SSundee",
+    "handle": "SSundee",
+    "firstVideoId": "2v-7Dq9WVLw",
+    "issues": [],
+    "first": {
+      "id": "2v-7Dq9WVLw",
+      "status": "OK",
+      "embeddable": true,
+      "title": "006 - Skidrow",
+      "channelId": "UCke6I9N4KfC968-yRcd5YRg",
+      "channelName": "SSundee",
+      "channelUrl": "http://www.youtube.com/@SSundee",
+      "views": 250628,
+      "uploadDate": "2011-04-13",
+      "lengthSeconds": 173
+    },
+    "channel": {
+      "channelId": "UCke6I9N4KfC968-yRcd5YRg",
+      "handle": "SSundee",
+      "title": "SSundee",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_m8dGmeU2bqMcUcJqK6j_CNescTudYadR4uWPsL9U62qlQ=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "25.5M",
+      "videosText": "3.8K"
+    },
+    "oldestPublic": {
+      "id": "2v-7Dq9WVLw",
+      "title": "006 - Skidrow",
+      "uploadDate": "2011-04-13"
+    },
+    "latest": {
+      "id": "FYIWE6z7Q9g",
+      "status": "OK",
+      "embeddable": true,
+      "title": "BOWLING For RARE LOOT in Fortnite",
+      "channelId": "UCke6I9N4KfC968-yRcd5YRg",
+      "channelName": "SSundee",
+      "channelUrl": "http://www.youtube.com/@SSundee",
+      "views": 102813,
+      "uploadDate": "2026-10-01",
+      "lengthSeconds": 992
+    }
+  },
+  {
+    "name": "Aphmau",
+    "handle": "Aphmau",
+    "firstVideoId": "q79aZF_zO3g",
+    "issues": [],
+    "first": {
+      "id": "q79aZF_zO3g",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Minecraft Tekkit [Part 1] - Getting Started!",
+      "channelId": "UCzYfz8uibvnB7Yc1LjePi4g",
+      "channelName": "Aphmau",
+      "channelUrl": "http://www.youtube.com/@Aphmau",
+      "views": 1806387,
+      "uploadDate": "2012-08-20",
+      "lengthSeconds": 1263
+    },
+    "channel": {
+      "channelId": "UCzYfz8uibvnB7Yc1LjePi4g",
+      "handle": "Aphmau",
+      "title": "Aphmau",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kGFsd6S-kWwQvx_DobbU5MCwPc6Rvec6-fDVnjqiEW8mI=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "25.3M",
+      "videosText": "5.9K"
+    },
+    "oldestPublic": {
+      "id": "q79aZF_zO3g",
+      "title": "Minecraft Tekkit [Part 1] - Getting Started!",
+      "uploadDate": "2012-08-20"
+    },
+    "latest": {
+      "id": "T_ND15uQM40",
+      "status": "OK",
+      "embeddable": true,
+      "title": "My FIRE ELEMENTAL Crush!",
+      "channelId": "UCzYfz8uibvnB7Yc1LjePi4g",
+      "channelName": "Aphmau",
+      "channelUrl": "http://www.youtube.com/@Aphmau",
+      "views": 203557,
+      "uploadDate": "2026-10-01",
+      "lengthSeconds": 1271
+    }
+  },
+  {
+    "name": "Collins Key",
+    "handle": "CollinsKey",
+    "firstVideoId": "78yVDIghN_g",
+    "issues": [],
+    "first": {
+      "id": "78yVDIghN_g",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Skrillex Nero Promises (Dubstep Remix) CARDISTRY MUSIC VIDEO | COLLINS KEY",
+      "channelId": "UC7TTtOQKMXTWWMtWQMIgVSA",
+      "channelName": "Collins Key",
+      "channelUrl": "http://www.youtube.com/@CollinsKey",
+      "views": 102898,
+      "uploadDate": "2012-04-06",
+      "lengthSeconds": 88
+    },
+    "channel": {
+      "channelId": "UC7TTtOQKMXTWWMtWQMIgVSA",
+      "handle": "CollinsKey",
+      "title": "Collins Key",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lOvufT3MD1ApJ1VofDIDWgf4mKgHzyCD46nk2Wte3iDXw=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "23.7M",
+      "videosText": "260"
+    },
+    "oldestPublic": {
+      "id": "78yVDIghN_g",
+      "title": "Skrillex Nero Promises (Dubstep Remix) CARDISTRY MUSIC VIDEO | COLLINS KEY",
+      "uploadDate": "2012-04-06"
+    },
+    "latest": {
+      "id": "NnTSpkgVHQQ",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Pancake Art Challenge vs Hamster Pranks! How To Make Spider-Man Minecraft Maze Roblox & Squid Game",
+      "channelId": "UC7TTtOQKMXTWWMtWQMIgVSA",
+      "channelName": "Collins Key",
+      "channelUrl": "http://www.youtube.com/@CollinsKey",
+      "views": 34400285,
+      "uploadDate": "2021-12-19",
+      "lengthSeconds": 1201
+    }
+  },
+  {
+    "name": "Rebecca Zamolo",
+    "handle": "RebeccaZamolo",
+    "firstVideoId": "_wsl0NsKSkE",
+    "issues": [],
+    "first": {
+      "id": "_wsl0NsKSkE",
+      "status": "OK",
+      "embeddable": true,
+      "title": "FLASH MOB WEDDING dance (Kesha's Timber)",
+      "channelId": "UCfw8x3VR-ElcaWW2Tg_jgSA",
+      "channelName": "Rebecca Zamolo",
+      "channelUrl": "http://www.youtube.com/@rebeccazamolo",
+      "views": 32998134,
+      "uploadDate": "2014-06-05",
+      "lengthSeconds": 236
+    },
+    "channel": {
+      "channelId": "UCfw8x3VR-ElcaWW2Tg_jgSA",
+      "handle": "rebeccazamolo",
+      "title": "Rebecca Zamolo",
+      "avatar": "https://yt3.googleusercontent.com/Lo0hg1nOIahjHQTOa5ITXzgeOU3v6QPYQCPyOXeGI3zMerogVZ-PE7RtcCVH4Hb6IJw0KQsPjw=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "23.4M",
+      "videosText": "1.2K"
+    },
+    "oldestPublic": {
+      "id": "_wsl0NsKSkE",
+      "title": "FLASH MOB WEDDING dance (Kesha's Timber)",
+      "uploadDate": "2014-06-05"
+    },
+    "latest": {
+      "id": "aNQxmzzhlhY",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Surviving Every Mom's Worst Fear",
+      "channelId": "UCfw8x3VR-ElcaWW2Tg_jgSA",
+      "channelName": "Rebecca Zamolo",
+      "channelUrl": "http://www.youtube.com/@rebeccazamolo",
+      "views": 2336323,
+      "uploadDate": "2026-09-26",
+      "lengthSeconds": 2827
+    }
+  },
+  {
+    "name": "TheOdd1sOut",
+    "handle": "theodd1sout",
+    "firstVideoId": "8cLtQLrX8Us",
+    "issues": [],
+    "first": {
+      "id": "8cLtQLrX8Us",
+      "status": "OK",
+      "embeddable": true,
+      "title": "A Book I Made as a Kid",
+      "channelId": "UCo8bcnLyZH8tBIH9V1mLgqQ",
+      "channelName": "TheOdd1sOut",
+      "channelUrl": "http://www.youtube.com/@theodd1sout",
+      "views": 13587137,
+      "uploadDate": "2014-08-30",
+      "lengthSeconds": 417
+    },
+    "channel": {
+      "channelId": "UCo8bcnLyZH8tBIH9V1mLgqQ",
+      "handle": "theodd1sout",
+      "title": "TheOdd1sOut",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mxpQ2hfudhflswgM8pZg22Jn_bgaQV0gIpUqYQW4z9Av8=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "20.8M",
+      "videosText": "208"
+    },
+    "oldestPublic": {
+      "id": "8cLtQLrX8Us",
+      "title": "A Book I Made as a Kid",
+      "uploadDate": "2014-08-30"
+    },
+    "latest": {
+      "id": "ppH2tdpwUGY",
+      "status": "OK",
+      "embeddable": true,
+      "title": "YouTube has Changed (me)",
+      "channelId": "UCo8bcnLyZH8tBIH9V1mLgqQ",
+      "channelName": "TheOdd1sOut",
+      "channelUrl": "http://www.youtube.com/@theodd1sout",
+      "views": 3826847,
+      "uploadDate": "2026-09-05",
+      "lengthSeconds": 912
+    }
+  },
+  {
+    "name": "Smosh",
+    "handle": "smosh",
+    "firstVideoId": "agEjzQLiuGA",
+    "dagger": true,
+    "issues": [],
+    "first": {
+      "id": "agEjzQLiuGA",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Power Rangers Theme",
+      "channelId": "UCY30JRSgfhYXA6i6xX1erWg",
+      "channelName": "Smosh",
+      "channelUrl": "http://www.youtube.com/@smosh",
+      "views": 14437356,
+      "uploadDate": "2005-11-19",
+      "lengthSeconds": 72
+    },
+    "channel": {
+      "channelId": "UCY30JRSgfhYXA6i6xX1erWg",
+      "handle": "smosh",
+      "title": "Smosh",
+      "avatar": "https://yt3.googleusercontent.com/7WiYNRhekvu81d3UeA1LUmuUmpkienqw-Kfsh7tvCEqWARB6ozpqs4XhZ5w-RdPGcaopLK7KYw=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "27.2M",
+      "videosText": "2.3K"
+    },
+    "oldestPublic": {
+      "id": "agEjzQLiuGA",
+      "title": "Power Rangers Theme",
+      "uploadDate": "2005-11-19"
+    },
+    "latest": {
+      "id": "A2qEMSIKDMs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "It Was Bit's City In 1974 | Bit City",
+      "channelId": "UCY30JRSgfhYXA6i6xX1erWg",
+      "channelName": "Smosh",
+      "channelUrl": "http://www.youtube.com/@smosh",
+      "views": 638122,
+      "uploadDate": "2026-09-18",
+      "lengthSeconds": 2740
+    }
+  },
+  {
+    "name": "Veritasium",
+    "handle": "veritasium",
+    "firstVideoId": "cU2dZz18P0c",
+    "issues": [],
+    "first": {
+      "id": "cU2dZz18P0c",
+      "status": "OK",
+      "embeddable": true,
+      "title": "How long does it take for the earth to go around the sun?",
+      "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channelName": "Veritasium",
+      "channelUrl": "http://www.youtube.com/@veritasium",
+      "views": 1760552,
+      "uploadDate": "2010-08-15",
+      "lengthSeconds": 73
+    },
+    "channel": {
+      "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "handle": "veritasium",
+      "title": "Veritasium",
+      "avatar": "https://yt3.googleusercontent.com/7vCbvtCqtjQ3YLgsJt7Y952MQV1sBvhllSCSxHP8_sVZdcPCBrITfhkN2RdyCuwPnsByq-1GoA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "21.3M",
+      "videosText": "538"
+    },
+    "oldestPublic": {
+      "id": "cU2dZz18P0c",
+      "title": "How long does it take for the earth to go around the sun?",
+      "uploadDate": "2010-08-15"
+    },
+    "latest": {
+      "id": "ONAuUyml0yI",
+      "status": "OK",
+      "embeddable": true,
+      "title": "We're trying something new...",
+      "channelId": "UCHnyfMqiRRG1u-2MsSQLbXA",
+      "channelName": "Veritasium",
+      "channelUrl": "http://www.youtube.com/@veritasium",
+      "views": 900978,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 307
+    }
+  },
+  {
+    "name": "Doctor Mike",
+    "handle": "DoctorMike",
+    "firstVideoId": "RBBOSnYDNm8",
+    "issues": [],
+    "first": {
+      "id": "RBBOSnYDNm8",
+      "status": "OK",
+      "embeddable": true,
+      "title": "WELCOME TO MY CHANNEL! | Doctor Mike",
+      "channelId": "UC0QHWhjbe5fGJEPz3sVb6nw",
+      "channelName": "Doctor Mike",
+      "channelUrl": "http://www.youtube.com/@DoctorMike",
+      "views": 2656675,
+      "uploadDate": "2017-04-16",
+      "lengthSeconds": 68
+    },
+    "channel": {
+      "channelId": "UC0QHWhjbe5fGJEPz3sVb6nw",
+      "handle": "DoctorMike",
+      "title": "Doctor Mike",
+      "avatar": "https://yt3.googleusercontent.com/YPiqL_eCFzCI8cVU_bZrQ0jTrGRNp6lc7a8hR5qmszAjHSL8qnqBgRunlPd8eZZAWHlKAtFRew=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "15.1M",
+      "videosText": "1.2K"
+    },
+    "oldestPublic": {
+      "id": "RBBOSnYDNm8",
+      "title": "WELCOME TO MY CHANNEL! | Doctor Mike",
+      "uploadDate": "2017-04-16"
+    },
+    "latest": {
+      "id": "1-Skt7coSZ4",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Doctor Reacts To \"Strange Addictions\"",
+      "channelId": "UC0QHWhjbe5fGJEPz3sVb6nw",
+      "channelName": "Doctor Mike",
+      "channelUrl": "http://www.youtube.com/@DoctorMike",
+      "views": 1378299,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 1455
+    }
+  },
+  {
+    "name": "Airrack",
+    "handle": "airrack",
+    "firstVideoId": "HiJ-jFthoIE",
+    "issues": [],
+    "first": {
+      "id": "HiJ-jFthoIE",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Spent 24 Hours in the Real Stranger Things Town...",
+      "channelId": "UCyps-v4WNjWDnYRKmZ4BUGw",
+      "channelName": "Airrack",
+      "channelUrl": "http://www.youtube.com/@airrack",
+      "views": 3779984,
+      "uploadDate": "2019-07-09",
+      "lengthSeconds": 656
+    },
+    "channel": {
+      "channelId": "UCyps-v4WNjWDnYRKmZ4BUGw",
+      "handle": "airrack",
+      "title": "Airrack",
+      "avatar": "https://yt3.googleusercontent.com/B6mcXnYXqha3Aaofo5J_jqP6XBUEW9GvMQMNGvwFN93UvNwF7kdlKNnxEQ5HBmYHpRq-SBogxg=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "19.4M",
+      "videosText": "268"
+    },
+    "oldestPublic": {
+      "id": "HiJ-jFthoIE",
+      "title": "I Spent 24 Hours in the Real Stranger Things Town...",
+      "uploadDate": "2019-07-09"
+    },
+    "latest": {
+      "id": "XDH7pgXAtRk",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Secretly Working At McDonald’s Until I Get Fired",
+      "channelId": "UCyps-v4WNjWDnYRKmZ4BUGw",
+      "channelName": "Airrack",
+      "channelUrl": "http://www.youtube.com/@airrack",
+      "views": 4366643,
+      "uploadDate": "2026-09-26",
+      "lengthSeconds": 1466
+    }
+  },
+  {
+    "name": "James Charles",
+    "handle": "JamesCharles",
+    "firstVideoId": "raxb4zHJJPQ",
+    "issues": [],
+    "first": {
+      "id": "raxb4zHJJPQ",
+      "status": "OK",
+      "embeddable": true,
+      "title": "BLUE/BROWN SERPENT Makeup Tutorial | JCharlesBeauty",
+      "channelId": "UCucot-Zp428OwkyRm2I7v2Q",
+      "channelName": "James Charles",
+      "channelUrl": "http://www.youtube.com/@JamesCharles",
+      "views": 4348883,
+      "uploadDate": "2016-03-03",
+      "lengthSeconds": 447
+    },
+    "channel": {
+      "channelId": "UCucot-Zp428OwkyRm2I7v2Q",
+      "handle": "JamesCharles",
+      "title": "James Charles",
+      "avatar": "https://yt3.googleusercontent.com/6WC8rRE_1ME7Sza7y-Z75g_wGahOKlyRevH2hOE9DNMrHM37ZYCmNGBnJpJWqhUpy0-c05xQcjk=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "23.7M",
+      "videosText": "732"
+    },
+    "oldestPublic": {
+      "id": "raxb4zHJJPQ",
+      "title": "BLUE/BROWN SERPENT Makeup Tutorial | JCharlesBeauty",
+      "uploadDate": "2016-03-03"
+    },
+    "latest": {
+      "id": "0i5MkILXVHs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "COME WITH ME TO NYC FOR 48 HOURS (my first vlog!!)",
+      "channelId": "UCucot-Zp428OwkyRm2I7v2Q",
+      "channelName": "James Charles",
+      "channelUrl": "http://www.youtube.com/@JamesCharles",
+      "views": 375281,
+      "uploadDate": "2026-09-29",
+      "lengthSeconds": 2633
+    }
+  },
+  {
+    "name": "TommyInnit",
+    "handle": "TommyInnit",
+    "firstVideoId": "AGBqFvjdHQ0",
+    "issues": [],
+    "first": {
+      "id": "AGBqFvjdHQ0",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Tommy's First Video",
+      "channelId": "UC5p_l5ZeB_wGjO_yDXwiqvw",
+      "channelName": "TommyInnit",
+      "channelUrl": "http://www.youtube.com/@TommyInnit",
+      "views": 4521759,
+      "uploadDate": "2018-09-09",
+      "lengthSeconds": 162
+    },
+    "channel": {
+      "channelId": "UC5p_l5ZeB_wGjO_yDXwiqvw",
+      "handle": "TommyInnit",
+      "title": "TommyInnit",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nKI4I6HlD1WXXXLig8UdltE92jpUSW6ng8P0cUUPUhKzw=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "14.9M",
+      "videosText": "556"
+    },
+    "oldestPublic": {
+      "id": "AGBqFvjdHQ0",
+      "title": "Tommy's First Video",
+      "uploadDate": "2018-09-09"
+    },
+    "latest": {
+      "id": "D34uexbwTBk",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Tom Simons - Grey Day (Official Lyric Video)",
+      "channelId": "UC5p_l5ZeB_wGjO_yDXwiqvw",
+      "channelName": "TommyInnit",
+      "channelUrl": "http://www.youtube.com/@TommyInnit",
+      "views": 657302,
+      "uploadDate": "2026-07-01",
+      "lengthSeconds": 320
+    }
+  },
+  {
+    "name": "Ali-A",
+    "handle": "AliA",
+    "firstVideoId": "gOYuoaiZP88",
+    "issues": [],
+    "first": {
+      "id": "gOYuoaiZP88",
+      "status": "OK",
+      "embeddable": true,
+      "title": "'Go-go throwing knife!' ~ MW2 ~",
+      "channelId": "UCYVinkwSX7szARULgYpvhLw",
+      "channelName": "Ali-A",
+      "channelUrl": "http://www.youtube.com/@AliA",
+      "views": 878891,
+      "uploadDate": "2009-11-14",
+      "lengthSeconds": 38
+    },
+    "channel": {
+      "channelId": "UCYVinkwSX7szARULgYpvhLw",
+      "handle": "AliA",
+      "title": "Ali-A",
+      "avatar": "https://yt3.googleusercontent.com/PEWUpS4lfXweWds1DtbHnlVA0eVXmqypfHZe8-Hatzu_7Evzp3Efgf515TmeCXd_0po2Ypi08g=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "19.7M",
+      "videosText": "5.2K"
+    },
+    "oldestPublic": {
+      "id": "gOYuoaiZP88",
+      "title": "'Go-go throwing knife!' ~ MW2 ~",
+      "uploadDate": "2009-11-14"
+    },
+    "latest": {
+      "id": "Lv9KGnHfqww",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Fortnitemares is HERE! (Five Nights at Freddy's)",
+      "channelId": "UCYVinkwSX7szARULgYpvhLw",
+      "channelName": "Ali-A",
+      "channelUrl": "http://www.youtube.com/@AliA",
+      "views": 127524,
+      "uploadDate": "2026-10-01",
+      "lengthSeconds": 869
+    }
+  },
+  {
+    "name": "LazarBeam",
+    "handle": "LazarBeam",
+    "firstVideoId": "JFWaV2Qbl2Y",
+    "dagger": true,
+    "issues": [],
+    "first": {
+      "id": "JFWaV2Qbl2Y",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Can Vince Wilfork get a 99 yard Receiving Touchdown? - Madden NFL Challenge",
+      "channelId": "UCw1SQ6QRRtfAhrN_cjkrOgA",
+      "channelName": "LazarBeam",
+      "channelUrl": "http://www.youtube.com/@LazarBeam",
+      "views": 3071842,
+      "uploadDate": "2015-02-15",
+      "lengthSeconds": 516
+    },
+    "channel": {
+      "channelId": "UCw1SQ6QRRtfAhrN_cjkrOgA",
+      "handle": "LazarBeam",
+      "title": "LazarBeam",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kaAARWaab8Y9Jt3yWZb2IKs4qgJSHAye7qdbz2VfXacoE=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "23.3M",
+      "videosText": "1.2K"
+    },
+    "oldestPublic": {
+      "id": "JFWaV2Qbl2Y",
+      "title": "Can Vince Wilfork get a 99 yard Receiving Touchdown? - Madden NFL Challenge",
+      "uploadDate": "2015-02-15"
+    },
+    "latest": {
+      "id": "y2O0NXVHjSg",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Trapped Until I Get Every Minecraft Advancement",
+      "channelId": "UCw1SQ6QRRtfAhrN_cjkrOgA",
+      "channelName": "LazarBeam",
+      "channelUrl": "http://www.youtube.com/@LazarBeam",
+      "views": 6196683,
+      "uploadDate": "2026-09-23",
+      "lengthSeconds": 7169
+    }
+  },
+  {
+    "name": "How Ridiculous",
+    "handle": "howridiculous",
+    "firstVideoId": "bb22eRysKog",
+    "issues": [],
+    "first": {
+      "id": "bb22eRysKog",
+      "status": "OK",
+      "embeddable": true,
+      "title": "How Ridiculous?! Basketball Shots",
+      "channelId": "UC5f5IV0Bf79YLp_p9nfInRA",
+      "channelName": "How Ridiculous",
+      "channelUrl": "http://www.youtube.com/@howridiculous",
+      "views": 500431,
+      "uploadDate": "2009-09-30",
+      "lengthSeconds": 242
+    },
+    "channel": {
+      "channelId": "UC5f5IV0Bf79YLp_p9nfInRA",
+      "handle": "howridiculous",
+      "title": "How Ridiculous",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kxmWfLMY_bKthwriveVb4LhWN9OLOYirTLQxPXqzqBmtg=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "24M",
+      "videosText": "851"
+    },
+    "oldestPublic": {
+      "id": "bb22eRysKog",
+      "title": "How Ridiculous?! Basketball Shots",
+      "uploadDate": "2009-09-30"
+    },
+    "latest": {
+      "id": "XmkoPheiyC0",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Can We Catch An Aerobie Across A 222m Canyon!",
+      "channelId": "UC5f5IV0Bf79YLp_p9nfInRA",
+      "channelName": "How Ridiculous",
+      "channelUrl": "http://www.youtube.com/@howridiculous",
+      "views": 913670,
+      "uploadDate": "2026-09-25",
+      "lengthSeconds": 1945
+    }
+  },
+  {
+    "name": "Supercar Blondie",
+    "handle": "SupercarBlondie",
+    "firstVideoId": "Oi285tDEnus",
+    "issues": [],
+    "first": {
+      "id": "Oi285tDEnus",
+      "status": "OK",
+      "embeddable": true,
+      "title": "My Bentley ride with the Emirati Comedian - BinBaz!!!",
+      "channelId": "UCKSVUHI9rbbkXhvAXK-2uxA",
+      "channelName": "Supercar Blondie",
+      "channelUrl": "http://www.youtube.com/@SupercarBlondie",
+      "views": 506235,
+      "uploadDate": "2015-11-22",
+      "lengthSeconds": 271
+    },
+    "channel": {
+      "channelId": "UCKSVUHI9rbbkXhvAXK-2uxA",
+      "handle": "SupercarBlondie",
+      "title": "Supercar Blondie",
+      "avatar": "https://yt3.googleusercontent.com/XV3uIpAqfGYgMFGPGpHD61J8RavWOIIrSu-vsMPvEKAfRDl6FiuNaeFBxGP7nkv2INz7KXyo=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "22.3M",
+      "videosText": "2.7K"
+    },
+    "oldestPublic": {
+      "id": "Oi285tDEnus",
+      "title": "My Bentley ride with the Emirati Comedian - BinBaz!!!",
+      "uploadDate": "2015-11-22"
+    },
+    "latest": {
+      "id": "sVkpkDVxGU8",
+      "status": "OK",
+      "embeddable": true,
+      "title": "The most powerful Lamborghini - Revuelto SV",
+      "channelId": "UCKSVUHI9rbbkXhvAXK-2uxA",
+      "channelName": "Supercar Blondie",
+      "channelUrl": "http://www.youtube.com/@SupercarBlondie",
+      "views": 150583,
+      "uploadDate": "2026-09-04",
+      "lengthSeconds": 419
+    }
+  },
+  {
+    "name": "Chloe Ting",
+    "handle": "ChloeTing",
+    "firstVideoId": "-IfUFvvfWEs",
+    "issues": [],
+    "first": {
+      "id": "-IfUFvvfWEs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Spring Lookbook 2016 | Spring Outfits",
+      "channelId": "UCCgLoMYIyP0U56dEhEL1wXQ",
+      "channelName": "Chloe Ting",
+      "channelUrl": "http://www.youtube.com/@ChloeTing",
+      "views": 281893,
+      "uploadDate": "2016-03-17",
+      "lengthSeconds": 203
+    },
+    "channel": {
+      "channelId": "UCCgLoMYIyP0U56dEhEL1wXQ",
+      "handle": "ChloeTing",
+      "title": "Chloe Ting",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_n_1ODQx19XQ6G29JytVGt1maDNJEzakv_Lz24UVY60gZE=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "26.1M",
+      "videosText": "530"
+    },
+    "oldestPublic": {
+      "id": "-IfUFvvfWEs",
+      "title": "Spring Lookbook 2016 | Spring Outfits",
+      "uploadDate": "2016-03-17"
+    },
+    "latest": {
+      "id": "2_VXktb_2ag",
+      "status": "OK",
+      "embeddable": true,
+      "title": "20 Min Killer Full Body HIIT Workout - 2 Week Glow Up | Home Workout",
+      "channelId": "UCCgLoMYIyP0U56dEhEL1wXQ",
+      "channelName": "Chloe Ting",
+      "channelUrl": "http://www.youtube.com/@ChloeTing",
+      "views": 205936,
+      "uploadDate": "2026-08-17",
+      "lengthSeconds": 1266
+    }
+  },
+  {
+    "name": "VanossGaming",
+    "handle": "VanossGaming",
+    "firstVideoId": "V5xE-NUcf1M",
+    "issues": [],
+    "first": {
+      "id": "V5xE-NUcf1M",
+      "status": "OK",
+      "embeddable": true,
+      "title": "IT DOESN'T MATTER! (SONG) - WhiteBoy7thst EPIC Remix by VanossGaming (Official Music Video)",
+      "channelId": "UCKqH_9mk1waLgBiL2vT5b9g",
+      "channelName": "VanossGaming",
+      "channelUrl": "http://www.youtube.com/@VanossGaming",
+      "views": 5671937,
+      "uploadDate": "2012-06-27",
+      "lengthSeconds": 241
+    },
+    "channel": {
+      "channelId": "UCKqH_9mk1waLgBiL2vT5b9g",
+      "handle": "VanossGaming",
+      "title": "VanossGaming",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mrzXEes8j0Li9x1M2wO0dif1mW10t_lmgrDcxllRfaJNE=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "26M",
+      "videosText": "2.3K"
+    },
+    "oldestPublic": {
+      "id": "V5xE-NUcf1M",
+      "title": "IT DOESN'T MATTER! (SONG) - WhiteBoy7thst EPIC Remix by VanossGaming (Official Music Video)",
+      "uploadDate": "2012-06-27"
+    },
+    "latest": {
+      "id": "-zDllfkyxdY",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Golf It - One Man's Rage Is Another Man's Soundboard",
+      "channelId": "UCKqH_9mk1waLgBiL2vT5b9g",
+      "channelName": "VanossGaming",
+      "channelUrl": "http://www.youtube.com/@VanossGaming",
+      "views": 665459,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 1484
+    }
+  },
+  {
+    "name": "Jaiden Animations",
+    "handle": "jaidenanimations",
+    "firstVideoId": "4xsMs6bOIA8",
+    "issues": [],
+    "first": {
+      "id": "4xsMs6bOIA8",
+      "status": "OK",
+      "embeddable": true,
+      "title": "JaidenAnimations Intro!",
+      "channelId": "UCGwu0nbY2wSkW8N-cghnLpA",
+      "channelName": "JaidenAnimations",
+      "channelUrl": "http://www.youtube.com/@jaidenanimations",
+      "views": 7289589,
+      "uploadDate": "2014-07-23",
+      "lengthSeconds": 78
+    },
+    "channel": {
+      "channelId": "UCGwu0nbY2wSkW8N-cghnLpA",
+      "handle": "jaidenanimations",
+      "title": "JaidenAnimations",
+      "avatar": "https://yt3.googleusercontent.com/6uDu4HmbcorfDWch6L4FAzv-DFMOstOwhTks-5VUm-kY5puZ_oU4EeA1YOqEM_EDvCTj3UPUW68=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "15.3M",
+      "videosText": "254"
+    },
+    "oldestPublic": {
+      "id": "4xsMs6bOIA8",
+      "title": "JaidenAnimations Intro!",
+      "uploadDate": "2014-07-23"
+    },
+    "latest": {
+      "id": "sI1f_fqQc8U",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Talking about my cat again",
+      "channelId": "UCGwu0nbY2wSkW8N-cghnLpA",
+      "channelName": "JaidenAnimations",
+      "channelUrl": "http://www.youtube.com/@jaidenanimations",
+      "views": 7766947,
+      "uploadDate": "2026-08-06",
+      "lengthSeconds": 1152
+    }
+  },
+  {
+    "name": "penguinz0",
+    "handle": "penguinz0",
+    "firstVideoId": "-FoH_02Icjk",
+    "issues": [],
+    "first": {
+      "id": "-FoH_02Icjk",
+      "status": "OK",
+      "embeddable": true,
+      "title": "gears of war jetpack glitch (NO Standbye or lag switch) AP",
+      "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "channelName": "penguinz0",
+      "channelUrl": "http://www.youtube.com/@penguinz0",
+      "views": 1852776,
+      "uploadDate": "2007-08-05",
+      "lengthSeconds": 81
+    },
+    "channel": {
+      "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "handle": "penguinz0",
+      "title": "penguinz0",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kOWn68FmChjExAEGw0vjLBpiP907ccNT5wASHcBjZeEuA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "18.3M",
+      "videosText": "7.3K"
+    },
+    "oldestPublic": {
+      "id": "-FoH_02Icjk",
+      "title": "gears of war jetpack glitch (NO Standbye or lag switch) AP",
+      "uploadDate": "2007-08-05"
+    },
+    "latest": {
+      "id": "5bFxic3jhUI",
+      "status": "OK",
+      "embeddable": true,
+      "title": "It's Just So Embarrassing",
+      "channelId": "UCq6VFHwMzcMXbuKyG7SQYIg",
+      "channelName": "penguinz0",
+      "channelUrl": "http://www.youtube.com/@penguinz0",
+      "views": 377592,
+      "uploadDate": "2026-10-01",
+      "lengthSeconds": 727
+    }
+  },
+  {
+    "name": "Jake Paul",
+    "handle": "jakepaul",
+    "firstVideoId": "YRIn5m5w094",
+    "issues": [],
+    "first": {
+      "id": "YRIn5m5w094",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Jake Paul Vine Compilation Part 1",
+      "channelId": "UCcgVECVN4OKV6DH1jLkqmcA",
+      "channelName": "Jake Paul",
+      "channelUrl": "http://www.youtube.com/@jakepaul",
+      "views": 2529108,
+      "uploadDate": "2014-03-27",
+      "lengthSeconds": 151
+    },
+    "channel": {
+      "channelId": "UCcgVECVN4OKV6DH1jLkqmcA",
+      "handle": "jakepaul",
+      "title": "Jake Paul",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lH63HDhm--fvQwAaMzd_E1a7wOn22ceFkT7wl_Jv_-mxk=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "21M",
+      "videosText": "1.6K"
+    },
+    "oldestPublic": {
+      "id": "YRIn5m5w094",
+      "title": "Jake Paul Vine Compilation Part 1",
+      "uploadDate": "2014-03-27"
+    },
+    "latest": {
+      "id": "OyKeOcxlUqk",
+      "status": "OK",
+      "embeddable": true,
+      "title": "What You've Been Waiting For",
+      "channelId": "UCcgVECVN4OKV6DH1jLkqmcA",
+      "channelName": "Jake Paul",
+      "channelUrl": "http://www.youtube.com/@jakepaul",
+      "views": 2043247,
+      "uploadDate": "2026-09-08",
+      "lengthSeconds": 210
+    }
+  },
+  {
+    "name": "David Dobrik",
+    "handle": "DavidDobrik",
+    "firstVideoId": "acbA1plzXFY",
+    "issues": [],
+    "first": {
+      "id": "acbA1plzXFY",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Cool Intro | David Dobrik",
+      "channelId": "UCmh5gdwCx6lN7gEC20leNVA",
+      "channelName": "David Dobrik",
+      "channelUrl": "http://www.youtube.com/@DavidDobrik",
+      "views": 4555799,
+      "uploadDate": "2015-02-15",
+      "lengthSeconds": 117
+    },
+    "channel": {
+      "channelId": "UCmh5gdwCx6lN7gEC20leNVA",
+      "handle": "DavidDobrik",
+      "title": "David Dobrik",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mXo8jFXweiMCFDYXbKTDDza0z1sJ3E_GuETLPVB-F-cF4=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "17.2M",
+      "videosText": "574"
+    },
+    "oldestPublic": {
+      "id": "acbA1plzXFY",
+      "title": "Cool Intro | David Dobrik",
+      "uploadDate": "2015-02-15"
+    },
+    "latest": {
+      "id": "5mfOWHqC5OY",
+      "status": "OK",
+      "embeddable": true,
+      "title": "This was a bad idea",
+      "channelId": "UCmh5gdwCx6lN7gEC20leNVA",
+      "channelName": "David Dobrik",
+      "channelUrl": "http://www.youtube.com/@DavidDobrik",
+      "views": 3758248,
+      "uploadDate": "2026-09-15",
+      "lengthSeconds": 908
+    }
+  },
+  {
+    "name": "Casey Neistat",
+    "handle": "casey",
+    "firstVideoId": "D2qO5nMOM5U",
+    "issues": [],
+    "first": {
+      "id": "D2qO5nMOM5U",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Emergency Brake by Casey Neistat",
+      "channelId": "UCtinbF-Q-fVthA0qrFQTgXQ",
+      "channelName": "CaseyNeistat",
+      "channelUrl": "http://www.youtube.com/@casey",
+      "views": 2101632,
+      "uploadDate": "2010-02-17",
+      "lengthSeconds": 331
+    },
+    "channel": {
+      "channelId": "UCtinbF-Q-fVthA0qrFQTgXQ",
+      "handle": "casey",
+      "title": "CaseyNeistat",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_n4AHNRd0upuWqg3NZq4iXWP5JSbnKHh_nbzhOmgGzUc3k=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "12.7M",
+      "videosText": "1.1K"
+    },
+    "oldestPublic": {
+      "id": "D2qO5nMOM5U",
+      "title": "Emergency Brake by Casey Neistat",
+      "uploadDate": "2010-02-17"
+    },
+    "latest": {
+      "id": "s-ZSuar3ihs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Skateboarding this NYC Tunnel is Legal Once a Year",
+      "channelId": "UCtinbF-Q-fVthA0qrFQTgXQ",
+      "channelName": "CaseyNeistat",
+      "channelUrl": "http://www.youtube.com/@casey",
+      "views": 960667,
+      "uploadDate": "2026-08-20",
+      "lengthSeconds": 574
+    }
+  },
+  {
+    "name": "Liza Koshy",
+    "handle": "lizakoshy",
+    "firstVideoId": "H1zt7F70zEg",
+    "issues": [],
+    "first": {
+      "id": "H1zt7F70zEg",
+      "status": "OK",
+      "embeddable": true,
+      "title": "SUP, I'M LIZA THE LITTLE BROWN GIRL | Lizzza",
+      "channelId": "UCxSz6JVYmzVhtkraHWZC7HQ",
+      "channelName": "Liza Koshy",
+      "channelUrl": "http://www.youtube.com/@lizakoshy",
+      "views": 5868335,
+      "uploadDate": "2015-07-08",
+      "lengthSeconds": 688
+    },
+    "channel": {
+      "channelId": "UCxSz6JVYmzVhtkraHWZC7HQ",
+      "handle": "lizakoshy",
+      "title": "Liza Koshy",
+      "avatar": "https://yt3.googleusercontent.com/9fZDSkBKXAsqoARVi9f8bNSZQDh3WungPkvKlHQpQZFi6qEuqlXwm6lvMEK5Dlfu21CxgHkykwk=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "16.6M",
+      "videosText": "106"
+    },
+    "oldestPublic": {
+      "id": "H1zt7F70zEg",
+      "title": "SUP, I'M LIZA THE LITTLE BROWN GIRL | Lizzza",
+      "uploadDate": "2015-07-08"
+    },
+    "latest": {
+      "id": "b2hQ47dFv3c",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Dior Dreams with Liza",
+      "channelId": "UCxSz6JVYmzVhtkraHWZC7HQ",
+      "channelName": "Liza Koshy",
+      "channelUrl": "http://www.youtube.com/@lizakoshy",
+      "views": 123697,
+      "uploadDate": "2025-09-24",
+      "lengthSeconds": 78
+    }
+  },
+  {
+    "name": "Lilly Singh",
+    "handle": "LillySingh",
+    "firstVideoId": "khM96e-ZpE4",
+    "issues": [],
+    "first": {
+      "id": "khM96e-ZpE4",
+      "status": "OK",
+      "embeddable": true,
+      "title": "How to Tie a Side Turla Bhangra Pagh (Turban)",
+      "channelId": "UCfm4y4rHF5HGrSr-qbvOwOg",
+      "channelName": "Lilly Singh",
+      "channelUrl": "http://www.youtube.com/@LillySingh",
+      "views": 1111315,
+      "uploadDate": "2010-12-09",
+      "lengthSeconds": 590
+    },
+    "channel": {
+      "channelId": "UCfm4y4rHF5HGrSr-qbvOwOg",
+      "handle": "LillySingh",
+      "title": "Lilly Singh",
+      "avatar": "https://yt3.googleusercontent.com/Tjo9t-xuDVTsOaBwLw3NdxUInthBBvmowzP7CHk3M3BGb6H5EsstPK__GxhDOxZLi-Gc0_rgcGs=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "14.1M",
+      "videosText": "1.3K"
+    },
+    "oldestPublic": {
+      "id": "khM96e-ZpE4",
+      "title": "How to Tie a Side Turla Bhangra Pagh (Turban)",
+      "uploadDate": "2010-12-09"
+    },
+    "latest": {
+      "id": "J3ADyN4hUsw",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I've Never Seen Confidence Like THIS | Sanya Malhotra",
+      "channelId": "UCfm4y4rHF5HGrSr-qbvOwOg",
+      "channelName": "Lilly Singh",
+      "channelUrl": "http://www.youtube.com/@LillySingh",
+      "views": 96835,
+      "uploadDate": "2026-07-31",
+      "lengthSeconds": 2168
+    }
+  },
+  {
+    "name": "Jenna Marbles",
+    "handle": "JennaMarbles",
+    "firstVideoId": "w6ieL3Cr06E",
+    "needsResearch": true,
+    "issues": [],
+    "first": {
+      "id": "w6ieL3Cr06E",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Charles Franklin Marbles is a Sad Sad Man",
+      "channelId": "UC9gFih9rw0zNCK3ZtoKQQyA",
+      "channelName": "JennaMarbles",
+      "channelUrl": "http://www.youtube.com/@JennaMarbles",
+      "views": 2334985,
+      "uploadDate": "2010-02-17",
+      "lengthSeconds": 152
+    },
+    "channel": {
+      "channelId": "UC9gFih9rw0zNCK3ZtoKQQyA",
+      "handle": "JennaMarbles",
+      "title": "JennaMarbles",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_ktMIhV5uHjINJssJhibfIzlzTR9VfOejOVRdhUtJYOr7c=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "19.4M",
+      "videosText": "250"
+    },
+    "oldestPublic": {
+      "id": "w6ieL3Cr06E",
+      "title": "Charles Franklin Marbles is a Sad Sad Man",
+      "uploadDate": "2010-02-17"
+    },
+    "latest": {
+      "id": "KHCfr7qvkJs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Making A Dog Birthday Cake",
+      "channelId": "UC9gFih9rw0zNCK3ZtoKQQyA",
+      "channelName": "JennaMarbles",
+      "channelUrl": "http://www.youtube.com/@JennaMarbles",
+      "views": 7369272,
+      "uploadDate": "2020-06-17",
+      "lengthSeconds": 984
+    }
+  },
+  {
+    "name": "Shane Dawson",
+    "handle": "shane",
+    "firstVideoId": "om7ctOPKv20",
+    "dagger": true,
+    "note": "The original was deleted. This copy was re-uploaded to his archive channel in 2024.",
+    "hideDate": true,
+    "issues": [],
+    "first": {
+      "id": "om7ctOPKv20",
+      "status": "OK",
+      "embeddable": true,
+      "title": "KERMIT THE FROG & ME",
+      "channelId": "UCpYt-WwP_bIZcpWq0CVaXZg",
+      "channelName": "Shane Dawson TV (Archive)",
+      "channelUrl": "http://www.youtube.com/@ShaneDawsonTVArchive",
+      "views": 653,
+      "uploadDate": "2024-04-09",
+      "lengthSeconds": 294,
+      "otherChannel": true
+    },
+    "channel": {
+      "channelId": "UCV9_KinVpV-snHe3C3n1hvA",
+      "handle": "shane",
+      "title": "shane",
+      "avatar": "https://yt3.googleusercontent.com/dtFwwaEFch50cV1zeZcwW7IDfDF9A_xoKgimJiNTllttlXVbL-RYGN0HsanAdAAhIvJaEdnKcA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "18.4M",
+      "videosText": "573"
+    },
+    "oldestPublic": {
+      "id": "3jZDt5zQWsE",
+      "title": "My Apology (Blackface & Offensive Videos)",
+      "uploadDate": "2014-09-25"
+    },
+    "latest": {
+      "id": "5c7eY6PHx0I",
+      "status": "OK",
+      "embeddable": true,
+      "title": "MIND BLOWING CONSPIRACY THEORIES with SHANE DAWSON!",
+      "channelId": "UCV9_KinVpV-snHe3C3n1hvA",
+      "channelName": "shane",
+      "channelUrl": "http://www.youtube.com/@shane",
+      "views": 3855770,
+      "uploadDate": "2024-11-18",
+      "lengthSeconds": 3592
+    }
+  },
+  {
+    "name": "nigahiga",
+    "handle": "ryanhiga",
+    "firstVideoId": "JdLCEwEFCMU",
+    "dagger": true,
+    "issues": [],
+    "first": {
+      "id": "JdLCEwEFCMU",
+      "status": "OK",
+      "embeddable": true,
+      "title": "How to be Ninja",
+      "channelId": "UCSAUGyc_xA8uYzaIVG6MESQ",
+      "channelName": "nigahiga",
+      "channelUrl": "http://www.youtube.com/@ryanhiga",
+      "views": 57804863,
+      "uploadDate": "2007-07-25",
+      "lengthSeconds": 335
+    },
+    "channel": {
+      "channelId": "UCSAUGyc_xA8uYzaIVG6MESQ",
+      "handle": "ryanhiga",
+      "title": "nigahiga",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nMUN37skTBXBLde59aWMknwocv8-yZazE3Q_vUPuBSGJY=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "20.7M",
+      "videosText": "403"
+    },
+    "oldestPublic": {
+      "id": "JdLCEwEFCMU",
+      "title": "How to be Ninja",
+      "uploadDate": "2007-07-25"
+    },
+    "latest": {
+      "id": "FfMeHzVtnfs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "New COVID-19 study Confirms: \"Beating up Asians does NOT prevent Coronavirus\"",
+      "channelId": "UCSAUGyc_xA8uYzaIVG6MESQ",
+      "channelName": "nigahiga",
+      "channelUrl": "http://www.youtube.com/@ryanhiga",
+      "views": 7754992,
+      "uploadDate": "2020-04-24",
+      "lengthSeconds": 350
+    }
+  },
+  {
+    "name": "Roman Atwood Vlogs",
+    "handle": "romanatwoodvlogs",
+    "firstVideoId": "f6xCPvo0Xnk",
+    "issues": [],
+    "first": {
+      "id": "f6xCPvo0Xnk",
+      "status": "OK",
+      "embeddable": true,
+      "title": "First Vlog - Pranks & Family",
+      "channelId": "UC-SV8-bUJfXjrRMnp7F8Wzw",
+      "channelName": "Roman Atwood Vlogs",
+      "channelUrl": "http://www.youtube.com/@romanatwoodvlogs",
+      "views": 3332409,
+      "uploadDate": "2013-08-13",
+      "lengthSeconds": 296
+    },
+    "channel": {
+      "channelId": "UC-SV8-bUJfXjrRMnp7F8Wzw",
+      "handle": "romanatwoodvlogs",
+      "title": "Roman Atwood Vlogs",
+      "avatar": "https://yt3.googleusercontent.com/gFZGFkquSPqanr5fiIX939aGqh7NOSNwPHW70BBAAXjpDOJKBG0KMy3Bb70Q7vDW9spDpLDNQQ=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "15.1M",
+      "videosText": "1.9K"
+    },
+    "oldestPublic": {
+      "id": "f6xCPvo0Xnk",
+      "title": "First Vlog - Pranks & Family",
+      "uploadDate": "2013-08-13"
+    },
+    "latest": {
+      "id": "JDbPNqDl3WQ",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Pranked All The Girls!! This Was The Greatest Day Ever With Insta360!",
+      "channelId": "UC-SV8-bUJfXjrRMnp7F8Wzw",
+      "channelName": "Roman Atwood Vlogs",
+      "channelUrl": "http://www.youtube.com/@romanatwoodvlogs",
+      "views": 331013,
+      "uploadDate": "2024-05-02",
+      "lengthSeconds": 618
+    }
+  },
+  {
+    "name": "Good Mythical Morning",
+    "handle": "GoodMythicalMorning",
+    "firstVideoId": "6yw2NPHPUys",
+    "issues": [],
+    "first": {
+      "id": "6yw2NPHPUys",
+      "status": "OK",
+      "embeddable": true,
+      "title": "The Bloody Door",
+      "channelId": "UC4PooiX37Pld1T8J5SYT-SQ",
+      "channelName": "Good Mythical Morning",
+      "channelUrl": "http://www.youtube.com/@GoodMythicalMorning",
+      "views": 1298829,
+      "uploadDate": "2008-10-30",
+      "lengthSeconds": 48
+    },
+    "channel": {
+      "channelId": "UC4PooiX37Pld1T8J5SYT-SQ",
+      "handle": "GoodMythicalMorning",
+      "title": "Good Mythical Morning",
+      "avatar": "https://yt3.googleusercontent.com/wgE-FDE-6LkWcVtmWpUipGSttE3CI-hYTJ0ICSatwVUbvJPJQQ32x0iEdLP5UOeD03wH6UlV=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "19.7M",
+      "videosText": "4.6K"
+    },
+    "oldestPublic": {
+      "id": "6yw2NPHPUys",
+      "title": "The Bloody Door",
+      "uploadDate": "2008-10-30"
+    },
+    "latest": {
+      "id": "CgSdQPmr_aA",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Are These \"Nasty\" Foods ACTUALLY Good?",
+      "channelId": "UC4PooiX37Pld1T8J5SYT-SQ",
+      "channelName": "Good Mythical Morning",
+      "channelUrl": "http://www.youtube.com/@GoodMythicalMorning",
+      "views": 671499,
+      "uploadDate": "2026-10-01",
+      "lengthSeconds": 1492
+    }
+  },
+  {
+    "name": "Rosanna Pansino",
+    "handle": "RosannaPansino",
+    "firstVideoId": "NI1NwYhisxA",
+    "issues": [],
+    "first": {
+      "id": "NI1NwYhisxA",
+      "status": "OK",
+      "embeddable": true,
+      "title": "EARTH DAY",
+      "channelId": "UCjwmbv6NE4mOh8Z8VhPUx1Q",
+      "channelName": "Rosanna Pansino",
+      "channelUrl": "http://www.youtube.com/@RosannaPansino",
+      "views": 885278,
+      "uploadDate": "2011-04-20",
+      "lengthSeconds": 207
+    },
+    "channel": {
+      "channelId": "UCjwmbv6NE4mOh8Z8VhPUx1Q",
+      "handle": "RosannaPansino",
+      "title": "Rosanna Pansino",
+      "avatar": "https://yt3.googleusercontent.com/td6U3EkHE3lUHVc41Jq_uP17JVD0JFBurMA2y1taarmP8wvrH4wckZN8elAdDFEW3ZxFRPWS1Ss=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "14.8M",
+      "videosText": "2K"
+    },
+    "oldestPublic": {
+      "id": "NI1NwYhisxA",
+      "title": "EARTH DAY",
+      "uploadDate": "2011-04-20"
+    },
+    "latest": {
+      "id": "cJZZh1PurHM",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Tested the Most SATISFYING TikTok Treats Recipes!",
+      "channelId": "UCjwmbv6NE4mOh8Z8VhPUx1Q",
+      "channelName": "Rosanna Pansino",
+      "channelUrl": "http://www.youtube.com/@RosannaPansino",
+      "views": 355907,
+      "uploadDate": "2026-07-04",
+      "lengthSeconds": 1808
+    }
+  },
+  {
+    "name": "Jeffree Star",
+    "handle": "jeffreestar",
+    "firstVideoId": "RItony56N58",
+    "issues": [],
+    "first": {
+      "id": "RItony56N58",
+      "status": "OK",
+      "embeddable": true,
+      "title": "JEFFREE STAR SPEAKING JUST THE FACTS...",
+      "channelId": "UCkvK_5omS-42Ovgah8KRKtg",
+      "channelName": "jeffreestar",
+      "channelUrl": "http://www.youtube.com/@jeffreestar",
+      "views": 2472984,
+      "uploadDate": "2009-04-15",
+      "lengthSeconds": 21
+    },
+    "channel": {
+      "channelId": "UCkvK_5omS-42Ovgah8KRKtg",
+      "handle": "jeffreestar",
+      "title": "jeffreestar",
+      "avatar": "https://yt3.googleusercontent.com/D3vZpiBzL6UpTIX1QKgOdRX8GpdRHfpsvInbW9KM28f_GTjtohf7ykqsfOz9LDg3CVTSjte6=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "15.5M",
+      "videosText": "436"
+    },
+    "oldestPublic": {
+      "id": "RItony56N58",
+      "title": "JEFFREE STAR SPEAKING JUST THE FACTS...",
+      "uploadDate": "2009-04-15"
+    },
+    "latest": {
+      "id": "TWaE9wYmUMw",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Cowgirl Queen 🌵 Palette & Collection Reveal! | Jeffree Star Cosmetics",
+      "channelId": "UCkvK_5omS-42Ovgah8KRKtg",
+      "channelName": "jeffreestar",
+      "channelUrl": "http://www.youtube.com/@jeffreestar",
+      "views": 668077,
+      "uploadDate": "2025-06-29",
+      "lengthSeconds": 788
+    }
+  },
+  {
+    "name": "Safiya Nygaard",
+    "handle": "safiya",
+    "firstVideoId": "MDtzPqG6K7M",
+    "issues": [],
+    "first": {
+      "id": "MDtzPqG6K7M",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Safiya Nygaard Demo Reel 2014",
+      "channelId": "UCbAwSkqJ1W_Eg7wr3cp5BUA",
+      "channelName": "Safiya Nygaard",
+      "channelUrl": "http://www.youtube.com/@safiya",
+      "views": 830501,
+      "uploadDate": "2014-12-10",
+      "lengthSeconds": 122
+    },
+    "channel": {
+      "channelId": "UCbAwSkqJ1W_Eg7wr3cp5BUA",
+      "handle": "safiya",
+      "title": "Safiya Nygaard",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kWVZIZfrF5u_NlubEAQgXoegyKOPih60YMyYxWtCGFkxo=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "10.2M",
+      "videosText": "247"
+    },
+    "oldestPublic": {
+      "id": "MDtzPqG6K7M",
+      "title": "Safiya Nygaard Demo Reel 2014",
+      "uploadDate": "2014-12-10"
+    },
+    "latest": {
+      "id": "TPAJ8q6v9kQ",
+      "status": "OK",
+      "embeddable": true,
+      "title": "We Made Dresses Out of 10,000 Fake Nails",
+      "channelId": "UCbAwSkqJ1W_Eg7wr3cp5BUA",
+      "channelName": "Safiya Nygaard",
+      "channelUrl": "http://www.youtube.com/@safiya",
+      "views": 3463570,
+      "uploadDate": "2026-09-19",
+      "lengthSeconds": 2078
+    }
+  },
+  {
+    "name": "Kallmekris",
+    "handle": "kallmekris",
+    "firstVideoId": "AJtkuFN1apc",
+    "issues": [],
+    "first": {
+      "id": "AJtkuFN1apc",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Q&A",
+      "channelId": "UCiciOsypkXcqSFqSPd-NRVA",
+      "channelName": "Kallmekris",
+      "channelUrl": "http://www.youtube.com/@kallmekris",
+      "views": 901198,
+      "uploadDate": "2020-08-11",
+      "lengthSeconds": 981
+    },
+    "channel": {
+      "channelId": "UCiciOsypkXcqSFqSPd-NRVA",
+      "handle": "kallmekris",
+      "title": "Kallmekris",
+      "avatar": "https://yt3.googleusercontent.com/MfWEstL7Bi_7BCvzUg3HikzMi2395oEGLQyQVYSMZRjA4yTPRn_wCLhF5ZtZ9gG2U6nGs_2VUg=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "13.1M",
+      "videosText": "738"
+    },
+    "oldestPublic": {
+      "id": "AJtkuFN1apc",
+      "title": "Q&A",
+      "uploadDate": "2020-08-11"
+    },
+    "latest": {
+      "id": "Vmmk9GNZ918",
+      "status": "OK",
+      "embeddable": true,
+      "title": "The ACTUAL Lizzie Borden Case VS The New SLOP Show",
+      "channelId": "UCiciOsypkXcqSFqSPd-NRVA",
+      "channelName": "Kallmekris",
+      "channelUrl": "http://www.youtube.com/@kallmekris",
+      "views": 885114,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 6102
+    }
+  },
+  {
+    "name": "NileRed",
+    "handle": "NileRed",
+    "firstVideoId": "PC3o2KgQstA",
+    "issues": [],
+    "first": {
+      "id": "PC3o2KgQstA",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Making the Pharaoh's Serpent",
+      "channelId": "UCFhXFikryT4aFcLkLw2LBLA",
+      "channelName": "NileRed",
+      "channelUrl": "http://www.youtube.com/@NileRed",
+      "views": 3343421,
+      "uploadDate": "2014-03-24",
+      "lengthSeconds": 657
+    },
+    "channel": {
+      "channelId": "UCFhXFikryT4aFcLkLw2LBLA",
+      "handle": "NileRed",
+      "title": "NileRed",
+      "avatar": "https://yt3.googleusercontent.com/Dv2Ma7-KpJt-SXQXv7fIEA7qkRNGEDvGPH0e33nEkgy35fI0fz48EAd-U7x3C2rPl4K-TX11=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "11M",
+      "videosText": "401"
+    },
+    "oldestPublic": {
+      "id": "PC3o2KgQstA",
+      "title": "Making the Pharaoh's Serpent",
+      "uploadDate": "2014-03-24"
+    },
+    "latest": {
+      "id": "ID-K64Jk6JM",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Turning air into alcohol",
+      "channelId": "UCFhXFikryT4aFcLkLw2LBLA",
+      "channelName": "NileRed",
+      "channelUrl": "http://www.youtube.com/@NileRed",
+      "views": 11126807,
+      "uploadDate": "2026-08-05",
+      "lengthSeconds": 5411
+    }
+  },
+  {
+    "name": "Typical Gamer",
+    "handle": "TypicalGamer",
+    "firstVideoId": "iMAtFMumZOI",
+    "issues": [],
+    "first": {
+      "id": "iMAtFMumZOI",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Red Dead Redemption - Free For All (34-9)",
+      "channelId": "UC2wKfjlioOCLP4xQMOWNcgg",
+      "channelName": "Typical Gamer",
+      "channelUrl": "http://www.youtube.com/@TypicalGamer",
+      "views": 423141,
+      "uploadDate": "2010-05-24",
+      "lengthSeconds": 656
+    },
+    "channel": {
+      "channelId": "UC2wKfjlioOCLP4xQMOWNcgg",
+      "handle": "TypicalGamer",
+      "title": "Typical Gamer",
+      "avatar": "https://yt3.googleusercontent.com/PSMZ1Ddds0G-Lg-haNIYE83alFeL-LAFWeaPs36WsM1X3B6gW_89gfG4ONfCh53lvCcejNuQPw=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "16.1M",
+      "videosText": "6.6K"
+    },
+    "oldestPublic": {
+      "id": "iMAtFMumZOI",
+      "title": "Red Dead Redemption - Free For All (34-9)",
+      "uploadDate": "2010-05-24"
+    },
+    "latest": {
+      "id": "SgVJcDPGoJs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "GTA 5 FULL MOVIE with Typical Gamer!",
+      "channelId": "UC2wKfjlioOCLP4xQMOWNcgg",
+      "channelName": "Typical Gamer",
+      "channelUrl": "http://www.youtube.com/@TypicalGamer",
+      "views": 43642,
+      "uploadDate": "2026-10-01",
+      "lengthSeconds": 54120
+    }
+  },
+  {
+    "name": "Ludwig",
+    "handle": "ludwig",
+    "firstVideoId": "1gCjG2cdQic",
+    "issues": [],
+    "first": {
+      "id": "1gCjG2cdQic",
+      "status": "OK",
+      "embeddable": true,
+      "title": "MVG Sandstorm Grand Final Power Outage",
+      "channelId": "UCrPseYLGpNygVi34QpGNqpA",
+      "channelName": "Ludwig",
+      "channelUrl": "http://www.youtube.com/@ludwig",
+      "views": 111592,
+      "uploadDate": "2015-04-20",
+      "lengthSeconds": 40
+    },
+    "channel": {
+      "channelId": "UCrPseYLGpNygVi34QpGNqpA",
+      "handle": "ludwig",
+      "title": "Ludwig",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nBvD2_i9JPqMIZoH-3Pct438PAEd1d4rLEd1LCCLEEmKc=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "7.08M",
+      "videosText": "3.1K"
+    },
+    "oldestPublic": {
+      "id": "1gCjG2cdQic",
+      "title": "MVG Sandstorm Grand Final Power Outage",
+      "uploadDate": "2015-04-20"
+    },
+    "latest": {
+      "id": "YUUrpIV5HxA",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Forced my Lovers to Compete in my Gameshow",
+      "channelId": "UCrPseYLGpNygVi34QpGNqpA",
+      "channelName": "Ludwig",
+      "channelUrl": "http://www.youtube.com/@ludwig",
+      "views": 2038746,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 3171
+    }
+  },
+  {
+    "name": "Pokimane",
+    "handle": "pokimane",
+    "firstVideoId": "mLO_WnRQMNk",
+    "issues": [],
+    "first": {
+      "id": "mLO_WnRQMNk",
+      "status": "OK",
+      "embeddable": true,
+      "title": "How to Pronounce \"Pokimane\" + Origin of My Name | Pokimane",
+      "channelId": "UChXKjLEzAB1K7EZQey7Fm1Q",
+      "channelName": "Pokimane",
+      "channelUrl": "http://www.youtube.com/@pokimane",
+      "views": 680742,
+      "uploadDate": "2016-02-13",
+      "lengthSeconds": 108
+    },
+    "channel": {
+      "channelId": "UChXKjLEzAB1K7EZQey7Fm1Q",
+      "handle": "pokimane",
+      "title": "Pokimane",
+      "avatar": "https://yt3.googleusercontent.com/zLnHIkM51I6geJNta534_0eFyjKkvMMKuQB_GJhmm7qmOS_J0Kx-fHgaSP0Q7tjSrHBg803wbpE=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "6.57M",
+      "videosText": "140"
+    },
+    "oldestPublic": {
+      "id": "mLO_WnRQMNk",
+      "title": "How to Pronounce \"Pokimane\" + Origin of My Name | Pokimane",
+      "uploadDate": "2016-02-13"
+    },
+    "latest": {
+      "id": "KPn-EYvQzRc",
+      "status": "OK",
+      "embeddable": true,
+      "title": "house hunting (higher price point) vlog pt 2! ft. my neighbor 🏡",
+      "channelId": "UChXKjLEzAB1K7EZQey7Fm1Q",
+      "channelName": "Pokimane",
+      "channelUrl": "http://www.youtube.com/@pokimane",
+      "views": 236884,
+      "uploadDate": "2026-09-21",
+      "lengthSeconds": 1717
+    }
+  },
+  {
+    "name": "MrBallen",
+    "handle": "MrBallen",
+    "firstVideoId": "cLCZUAlCly0",
+    "issues": [],
+    "first": {
+      "id": "cLCZUAlCly0",
+      "status": "OK",
+      "embeddable": true,
+      "title": "What I saw in my room still haunts me",
+      "channelId": "UCtPrkXdtCM5DACLufB9jbsA",
+      "channelName": "MrBallen",
+      "channelUrl": "http://www.youtube.com/@MrBallen",
+      "views": 10015882,
+      "uploadDate": "2020-03-30",
+      "lengthSeconds": 2334
+    },
+    "channel": {
+      "channelId": "UCtPrkXdtCM5DACLufB9jbsA",
+      "handle": "MrBallen",
+      "title": "MrBallen",
+      "avatar": "https://yt3.googleusercontent.com/EVs55K8BZLEL_8u7Ep-h1ABKp-jkCZWtpnQQ4O285XjrPtHdIDP5sHTEnONO5q3vh_jtEHO4M70=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "11.3M",
+      "videosText": "910"
+    },
+    "oldestPublic": {
+      "id": "cLCZUAlCly0",
+      "title": "What I saw in my room still haunts me",
+      "uploadDate": "2020-03-30"
+    },
+    "latest": {
+      "id": "MQNc8atLyp4",
+      "status": "OK",
+      "embeddable": true,
+      "title": "They faced death… and walked away",
+      "channelId": "UCtPrkXdtCM5DACLufB9jbsA",
+      "channelName": "MrBallen",
+      "channelUrl": "http://www.youtube.com/@MrBallen",
+      "views": 716963,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 1591
+    }
+  },
+  {
+    "name": "SmarterEveryDay",
+    "handle": "smartereveryday",
+    "firstVideoId": "bvaDOKdImMA",
+    "issues": [],
+    "first": {
+      "id": "bvaDOKdImMA",
+      "status": "OK",
+      "embeddable": true,
+      "title": "How to Light a Bonfire with Rockets",
+      "channelId": "UC6107grRI4m0o2-emgoDnAA",
+      "channelName": "SmarterEveryDay",
+      "channelUrl": "http://www.youtube.com/@smartereveryday",
+      "views": 340029,
+      "uploadDate": "2007-01-06",
+      "lengthSeconds": 319
+    },
+    "channel": {
+      "channelId": "UC6107grRI4m0o2-emgoDnAA",
+      "handle": "smartereveryday",
+      "title": "SmarterEveryDay",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_l59Ewmp0DHZBRWbY9dVqjd2_mWwvrn8ad0bJfmdbMRYcA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "11.9M",
+      "videosText": "398"
+    },
+    "oldestPublic": {
+      "id": "bvaDOKdImMA",
+      "title": "How to Light a Bonfire with Rockets",
+      "uploadDate": "2007-01-06"
+    },
+    "latest": {
+      "id": "pXypQ6d_iDg",
+      "status": "OK",
+      "embeddable": true,
+      "title": "INSIDE a Nuclear Reactor Core - Smarter Every Day 317",
+      "channelId": "UC6107grRI4m0o2-emgoDnAA",
+      "channelName": "SmarterEveryDay",
+      "channelUrl": "http://www.youtube.com/@smartereveryday",
+      "views": 1608482,
+      "uploadDate": "2026-09-26",
+      "lengthSeconds": 2611
+    }
+  },
+  {
+    "name": "Vsauce",
+    "handle": "Vsauce",
+    "firstVideoId": "1BuTR5nXS8I",
+    "issues": [],
+    "first": {
+      "id": "1BuTR5nXS8I",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Top E3 Rumors You MISSED -- Wackygamer",
+      "channelId": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+      "channelName": "Vsauce",
+      "channelUrl": "http://www.youtube.com/@Vsauce",
+      "views": 1165133,
+      "uploadDate": "2010-06-24",
+      "lengthSeconds": 141
+    },
+    "channel": {
+      "channelId": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+      "handle": "Vsauce",
+      "title": "Vsauce",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_mpYedipdXUXCKkwjQEeFrepFlDHZ0LiczqWeKyG0YmJvA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "25.2M",
+      "videosText": "663"
+    },
+    "oldestPublic": {
+      "id": "1BuTR5nXS8I",
+      "title": "Top E3 Rumors You MISSED -- Wackygamer",
+      "uploadDate": "2010-06-24"
+    },
+    "latest": {
+      "id": "xHd4zsIbXJ0",
+      "status": "NOT_FOUND"
+    }
+  },
+  {
+    "name": "Linus Tech Tips",
+    "handle": "LinusTechTips",
+    "firstVideoId": "zGJSFTaFJbQ",
+    "issues": [],
+    "first": {
+      "id": "zGJSFTaFJbQ",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Undisclosed AMD Processor at 3.6GHz (Linus Tech Tips #1)",
+      "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "channelName": "Linus Tech Tips",
+      "channelUrl": "http://www.youtube.com/@LinusTechTips",
+      "views": 1208017,
+      "uploadDate": "2008-11-25",
+      "lengthSeconds": 82
+    },
+    "channel": {
+      "channelId": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+      "handle": "LinusTechTips",
+      "title": "Linus Tech Tips",
+      "avatar": "https://yt3.googleusercontent.com/gnvYLhXy8FAlPXZ2RTrkrgj-5kyt0vdE2FUGVOiKGdEZIa-wN5A-7nwZBlWJLzUMmoh1NWAU=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "16.9M",
+      "videosText": "7.9K"
+    },
+    "oldestPublic": {
+      "id": "zGJSFTaFJbQ",
+      "title": "Undisclosed AMD Processor at 3.6GHz (Linus Tech Tips #1)",
+      "uploadDate": "2008-11-25"
+    },
+    "latest": {
+      "id": "1H20xp8Brnc",
+      "status": "NOT_FOUND"
+    }
+  },
+  {
+    "name": "colinfurze",
+    "handle": "colinfurze",
+    "firstVideoId": "HGS5mgN4ErQ",
+    "issues": [],
+    "first": {
+      "id": "HGS5mgN4ErQ",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Mr blobby",
+      "channelId": "UCp68_FLety0O-n9QU6phsgw",
+      "channelName": "colinfurze",
+      "channelUrl": "http://www.youtube.com/@colinfurze",
+      "views": 594950,
+      "uploadDate": "2007-02-05",
+      "lengthSeconds": 16
+    },
+    "channel": {
+      "channelId": "UCp68_FLety0O-n9QU6phsgw",
+      "handle": "colinfurze",
+      "title": "colinfurze",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nx0_jjIdix_fYOdMrts1Qk3GsxLzurlxZecRi93qEw-js=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "13.3M",
+      "videosText": "434"
+    },
+    "oldestPublic": {
+      "id": "HGS5mgN4ErQ",
+      "title": "Mr blobby",
+      "uploadDate": "2007-02-05"
+    },
+    "latest": {
+      "id": "g_xMKhKUC7s",
+      "status": "OK",
+      "embeddable": true,
+      "title": "SECRET Garage Car Lift Part 1",
+      "channelId": "UCp68_FLety0O-n9QU6phsgw",
+      "channelName": "colinfurze",
+      "channelUrl": "http://www.youtube.com/@colinfurze",
+      "views": 4915042,
+      "uploadDate": "2026-03-26",
+      "lengthSeconds": 1793
+    }
+  },
+  {
+    "name": "Beta Squad",
+    "handle": "BetaSquad",
+    "firstVideoId": "bwN9-19NXY8",
+    "issues": [],
+    "first": {
+      "id": "bwN9-19NXY8",
+      "status": "OK",
+      "embeddable": true,
+      "title": "INTRODUCING... Beta Squad",
+      "channelId": "UCxOzbkk0bdVl6-tH1Fcajfg",
+      "channelName": "Beta Squad",
+      "channelUrl": "http://www.youtube.com/@BetaSquad",
+      "views": 2542275,
+      "uploadDate": "2019-02-22",
+      "lengthSeconds": 72
+    },
+    "channel": {
+      "channelId": "UCxOzbkk0bdVl6-tH1Fcajfg",
+      "handle": "BetaSquad",
+      "title": "Beta Squad",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_keJoAmv1MrHOIplkYaZok_WuOdiHDTBv8Gv4xlmnOrLzk=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "12.1M",
+      "videosText": "201"
+    },
+    "oldestPublic": {
+      "id": "bwN9-19NXY8",
+      "title": "INTRODUCING... Beta Squad",
+      "uploadDate": "2019-02-22"
+    },
+    "latest": {
+      "id": "Xd8OWSGk7BY",
+      "status": "OK",
+      "embeddable": true,
+      "title": "BETA SQUAD MURDER MYSTERY",
+      "channelId": "UCxOzbkk0bdVl6-tH1Fcajfg",
+      "channelName": "Beta Squad",
+      "channelUrl": "http://www.youtube.com/@BetaSquad",
+      "views": 9960068,
+      "uploadDate": "2026-07-04",
+      "lengthSeconds": 5990
+    }
+  },
+  {
+    "name": "Niko Omilana",
+    "handle": "Niko",
+    "firstVideoId": "v3DJOqndHls",
+    "issues": [],
+    "first": {
+      "id": "v3DJOqndHls",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Morgan Freeman Song",
+      "channelId": "UCdcUmdOxMrhRjKMw-BX19AA",
+      "channelName": "Niko Omilana",
+      "channelUrl": "http://www.youtube.com/@Niko",
+      "views": 514200,
+      "uploadDate": "2014-08-30",
+      "lengthSeconds": 159
+    },
+    "channel": {
+      "channelId": "UCdcUmdOxMrhRjKMw-BX19AA",
+      "handle": "Niko",
+      "title": "Niko Omilana",
+      "avatar": "https://yt3.googleusercontent.com/0UW1YqKlpWzszydY-Uq6oI_kO4jA5J_Yn0S1f5Fkqsz0I8MTt76eviaBWqs5xju1wJbiYpKRtA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "8.98M",
+      "videosText": "155"
+    },
+    "oldestPublic": {
+      "id": "v3DJOqndHls",
+      "title": "Morgan Freeman Song",
+      "uploadDate": "2014-08-30"
+    },
+    "latest": {
+      "id": "RXJsw-zH6Cs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Secretly Worked At A Grocery Store Until I Got Fired",
+      "channelId": "UCdcUmdOxMrhRjKMw-BX19AA",
+      "channelName": "Niko Omilana",
+      "channelUrl": "http://www.youtube.com/@Niko",
+      "views": 2016001,
+      "uploadDate": "2026-09-30",
+      "lengthSeconds": 3672
+    }
+  },
+  {
+    "name": "Grian",
+    "handle": "Grian",
+    "firstVideoId": "3cOliXW3nYs",
+    "note": "Their earliest uploads were deleted or made private, so this is the oldest video still public.",
+    "issues": [],
+    "first": {
+      "id": "3cOliXW3nYs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Building With Grian - Minecraft Tree Tutorial",
+      "channelId": "UCR9Gcq0CMm6YgTzsDxAxjOQ",
+      "channelName": "Grian",
+      "channelUrl": "http://www.youtube.com/@Grian",
+      "views": 1418809,
+      "uploadDate": "2014-12-31",
+      "lengthSeconds": 165
+    },
+    "channel": {
+      "channelId": "UCR9Gcq0CMm6YgTzsDxAxjOQ",
+      "handle": "Grian",
+      "title": "Grian",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nyjQZU-LepEchkLUZAXz4gNeiF8F28SshYks_Fm-w_HdQ=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "8.91M",
+      "videosText": "851"
+    },
+    "oldestPublic": {
+      "id": "3cOliXW3nYs",
+      "title": "Building With Grian - Minecraft Tree Tutorial",
+      "uploadDate": "2014-12-31"
+    },
+    "latest": {
+      "id": "X3NqE6rj_AY",
+      "status": "NOT_FOUND"
+    }
+  },
+  {
+    "name": "Mumbo Jumbo",
+    "handle": "ThatMumboJumbo",
+    "firstVideoId": "ldqqOy6MpwE",
+    "note": "Their earliest uploads were deleted or made private, so this is the oldest video still public.",
+    "issues": [],
+    "first": {
+      "id": "ldqqOy6MpwE",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Supercharged 4x4 Vault Door [Opens in under a second!]",
+      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
+      "channelName": "Mumbo Jumbo",
+      "channelUrl": "http://www.youtube.com/@ThatMumboJumbo",
+      "views": 921110,
+      "uploadDate": "2013-06-06",
+      "lengthSeconds": 352
+    },
+    "channel": {
+      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
+      "handle": "ThatMumboJumbo",
+      "title": "Mumbo Jumbo",
+      "avatar": "https://yt3.googleusercontent.com/ssE5Ek6IuCo3BjDPDodGFjQ6_Ubtt4iKpKmLNznY55gEXjxHAFGK_8YB1tjI5V_vfYqT298DAw=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "9.79M",
+      "videosText": "2.2K"
+    },
+    "oldestPublic": {
+      "id": "ldqqOy6MpwE",
+      "title": "Supercharged 4x4 Vault Door [Opens in under a second!]",
+      "uploadDate": "2013-06-06"
+    },
+    "latest": {
+      "id": "lWm5qrUId-o",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Hermitcraft 11: Episode 28 - My Worst Build",
+      "channelId": "UChFur_NwVSbUozOcF_F2kMg",
+      "channelName": "Mumbo Jumbo",
+      "channelUrl": "http://www.youtube.com/@ThatMumboJumbo",
+      "views": 1275069,
+      "uploadDate": "2026-09-20",
+      "lengthSeconds": 2229
+    }
+  },
+  {
+    "name": "ElectroBOOM",
+    "handle": "ElectroBOOM",
+    "firstVideoId": "RtlYi1yLTVQ",
+    "issues": [],
+    "first": {
+      "id": "RtlYi1yLTVQ",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Don't worry, it's just ESD! (Electrostatic Discharge)",
+      "channelId": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "channelName": "ElectroBOOM",
+      "channelUrl": "http://www.youtube.com/@ElectroBOOM",
+      "views": 4906066,
+      "uploadDate": "2012-04-06",
+      "lengthSeconds": 86
+    },
+    "channel": {
+      "channelId": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "handle": "ElectroBOOM",
+      "title": "ElectroBOOM",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nnG7-mZVY0oCnbM1yY_pGC_uOA-AoWYlpvDI9kOW5JDFE=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "8.85M",
+      "videosText": "390"
+    },
+    "oldestPublic": {
+      "id": "RtlYi1yLTVQ",
+      "title": "Don't worry, it's just ESD! (Electrostatic Discharge)",
+      "uploadDate": "2012-04-06"
+    },
+    "latest": {
+      "id": "Tuxgh8SrzbQ",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Rage-Fixing the Power Washer",
+      "channelId": "UCJ0-OtVpF0wOKEqT2Z1HEtA",
+      "channelName": "ElectroBOOM",
+      "channelUrl": "http://www.youtube.com/@ElectroBOOM",
+      "views": 1389874,
+      "uploadDate": "2026-09-21",
+      "lengthSeconds": 751
+    }
+  },
+  {
+    "name": "Jeff Nippard",
+    "handle": "JeffNippard",
+    "firstVideoId": "PKxv_hDsTaE",
+    "issues": [],
+    "first": {
+      "id": "PKxv_hDsTaE",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Jeff Nippard posing routine at california natural muscle mayhem 2014",
+      "channelId": "UC68TLK0mAEzUyHx5x5k-S1Q",
+      "channelName": "Jeff Nippard",
+      "channelUrl": "http://www.youtube.com/@JeffNippard",
+      "views": 100396,
+      "uploadDate": "2014-07-31",
+      "lengthSeconds": 95
+    },
+    "channel": {
+      "channelId": "UC68TLK0mAEzUyHx5x5k-S1Q",
+      "handle": "JeffNippard",
+      "title": "Jeff Nippard",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_k3d_sCJXZcQk5KQTlFzdGMIJwJpZ9g2W07Z616E5DENGI=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "8.69M",
+      "videosText": "627"
+    },
+    "oldestPublic": {
+      "id": "PKxv_hDsTaE",
+      "title": "Jeff Nippard posing routine at california natural muscle mayhem 2014",
+      "uploadDate": "2014-07-31"
+    },
+    "latest": {
+      "id": "H6SiAe-VObA",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Peptides Are Insane",
+      "channelId": "UC68TLK0mAEzUyHx5x5k-S1Q",
+      "channelName": "Jeff Nippard",
+      "channelUrl": "http://www.youtube.com/@JeffNippard",
+      "views": 8469924,
+      "uploadDate": "2026-09-28",
+      "lengthSeconds": 1146
+    }
+  },
+  {
+    "name": "Nick Eh 30",
+    "handle": "NickEh30",
+    "firstVideoId": "OSc9gUfrcuE",
+    "issues": [],
+    "first": {
+      "id": "OSc9gUfrcuE",
+      "status": "OK",
+      "embeddable": true,
+      "title": "The Last Of Us Remastered Online: Bow Tips & Tactics",
+      "channelId": "UCt9nYeSz90lnOnaVFjxFJzw",
+      "channelName": "Nick Eh 30",
+      "channelUrl": "http://www.youtube.com/@NickEh30",
+      "views": 367979,
+      "uploadDate": "2014-12-20",
+      "lengthSeconds": 481
+    },
+    "channel": {
+      "channelId": "UCt9nYeSz90lnOnaVFjxFJzw",
+      "handle": "NickEh30",
+      "title": "Nick Eh 30",
+      "avatar": "https://yt3.googleusercontent.com/R57uW-BLxSSFLQTmh7ELdORWPMJkEPkAzKxCWb1z6ctjU4lH4O9s6_Q9LdVmfq8JmfsC2XzKbA=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "8.76M",
+      "videosText": "710"
+    },
+    "oldestPublic": {
+      "id": "OSc9gUfrcuE",
+      "title": "The Last Of Us Remastered Online: Bow Tips & Tactics",
+      "uploadDate": "2014-12-20"
+    },
+    "latest": {
+      "id": "oLkVjR2GoJs",
+      "status": "OK",
+      "embeddable": true,
+      "title": "NickEh30 plays Marvel's Wolverine! (Full Game)",
+      "channelId": "UCt9nYeSz90lnOnaVFjxFJzw",
+      "channelName": "Nick Eh 30",
+      "channelUrl": "http://www.youtube.com/@NickEh30",
+      "views": 152279,
+      "uploadDate": "2026-09-20",
+      "lengthSeconds": 43024
+    }
+  },
+  {
+    "name": "HowToBasic",
+    "handle": "HowToBasic",
+    "firstVideoId": "AqEzI9rPvP4",
+    "issues": [],
+    "first": {
+      "id": "AqEzI9rPvP4",
+      "status": "OK",
+      "embeddable": true,
+      "title": "How To Pick Up a Umbrella",
+      "channelId": "UCR4s1DE9J4DHzZYXMltSMAg",
+      "channelName": "HowToBasic",
+      "channelUrl": "http://www.youtube.com/@HowToBasic",
+      "views": 6106698,
+      "uploadDate": "2011-12-08",
+      "lengthSeconds": 3
+    },
+    "channel": {
+      "channelId": "UCR4s1DE9J4DHzZYXMltSMAg",
+      "handle": "HowToBasic",
+      "title": "HowToBasic",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_lkkcCetlw3BPTIipAebXUXXDlRhBlWc_z7neWhiN3Dzmw=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "17.8M",
+      "videosText": "673"
+    },
+    "oldestPublic": {
+      "id": "AqEzI9rPvP4",
+      "title": "How To Pick Up a Umbrella",
+      "uploadDate": "2011-12-08"
+    },
+    "latest": {
+      "id": "zYkWzUz6amM",
+      "status": "OK",
+      "embeddable": true,
+      "title": "How To Make Macarons",
+      "channelId": "UCR4s1DE9J4DHzZYXMltSMAg",
+      "channelName": "HowToBasic",
+      "channelUrl": "http://www.youtube.com/@HowToBasic",
+      "views": 490840,
+      "uploadDate": "2026-09-29",
+      "lengthSeconds": 308
+    }
+  },
+  {
+    "name": "JoshDub",
+    "handle": "joshdub",
+    "firstVideoId": "-wjUD5gv1kg",
+    "issues": [],
+    "first": {
+      "id": "-wjUD5gv1kg",
+      "status": "OK",
+      "embeddable": true,
+      "title": "BUTTHOLE ADVENTURES FEAT. MULLEN (CLIMBEY) [HTC VIVE]",
+      "channelId": "UC9DWJ33CMvIseLlyx6hyRnA",
+      "channelName": "JoshDub",
+      "channelUrl": "http://www.youtube.com/@joshdub",
+      "views": 2020206,
+      "uploadDate": "2017-05-06",
+      "lengthSeconds": 572
+    },
+    "channel": {
+      "channelId": "UC9DWJ33CMvIseLlyx6hyRnA",
+      "handle": "joshdub",
+      "title": "JoshDub",
+      "avatar": "https://yt3.googleusercontent.com/OzHMMgQrblY8ms0dptjssSFK9LR37k8o8hJlmk5V3v6NiQytePV_2Gh1JGWhgRA881PEsERd-w=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "10.1M",
+      "videosText": "327"
+    },
+    "oldestPublic": {
+      "id": "-wjUD5gv1kg",
+      "title": "BUTTHOLE ADVENTURES FEAT. MULLEN (CLIMBEY) [HTC VIVE]",
+      "uploadDate": "2017-05-06"
+    },
+    "latest": {
+      "id": "KrhQfZzTE6w",
+      "status": "OK",
+      "embeddable": true,
+      "title": "the hantavirus is here..",
+      "channelId": "UC9DWJ33CMvIseLlyx6hyRnA",
+      "channelName": "JoshDub",
+      "channelUrl": "http://www.youtube.com/@joshdub",
+      "views": 362061,
+      "uploadDate": "2026-02-08",
+      "lengthSeconds": 1087
+    }
+  },
+  {
+    "name": "Lachlan",
+    "handle": "lachlan",
+    "firstVideoId": "cjIPdD19eac",
+    "issues": [],
+    "first": {
+      "id": "cjIPdD19eac",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Pixelmon (Pokemon Mod) Server Lets Play - Episode 1 - The Introduction",
+      "channelId": "UCh7EqOZt7EvO2osuKbIlpGg",
+      "channelName": "Lachlan",
+      "channelUrl": "http://www.youtube.com/@lachlan",
+      "views": 486626,
+      "uploadDate": "2013-03-23",
+      "lengthSeconds": 161
+    },
+    "channel": {
+      "channelId": "UCh7EqOZt7EvO2osuKbIlpGg",
+      "handle": "lachlan",
+      "title": "Lachlan",
+      "avatar": "https://yt3.googleusercontent.com/iCo5IeCbZUhahUEJ6FbXDnrbRTorqtiOd3ffQmaaNSaZybeAY4llYDA-YNJkmzJtw-FDD2cFxQ=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "15.2M",
+      "videosText": "4.2K"
+    },
+    "oldestPublic": {
+      "id": "cjIPdD19eac",
+      "title": "Pixelmon (Pokemon Mod) Server Lets Play - Episode 1 - The Introduction",
+      "uploadDate": "2013-03-23"
+    },
+    "latest": {
+      "id": "l479amE7Zj0",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Graded 100 of my RAREST Pokémon Cards!",
+      "channelId": "UCh7EqOZt7EvO2osuKbIlpGg",
+      "channelName": "Lachlan",
+      "channelUrl": "http://www.youtube.com/@lachlan",
+      "views": 61277,
+      "uploadDate": "2026-10-01",
+      "lengthSeconds": 3060
+    }
+  },
+  {
+    "name": "NichLmao",
+    "handle": "NichLmao",
+    "firstVideoId": "D3K38sDHQ9Y",
+    "issues": [],
+    "first": {
+      "id": "D3K38sDHQ9Y",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Watch this before you judge someone... *EMOTIONAL* #shorts",
+      "channelId": "UC6VAIqNQBc7ggiqvsOHOBqw",
+      "channelName": "NichLmao",
+      "channelUrl": "http://www.youtube.com/@NichLmao",
+      "views": 5049981,
+      "uploadDate": "2019-12-11",
+      "lengthSeconds": 51
+    },
+    "channel": {
+      "channelId": "UC6VAIqNQBc7ggiqvsOHOBqw",
+      "handle": "NichLmao",
+      "title": "NichLmao",
+      "avatar": "https://yt3.googleusercontent.com/OpGVtVsqeoEVXiEA7D1VlGP0Tmug1Hfs8IWLc1yz10npTXCr7FjWwSQgGj9uZhUvKtT0A_KQKQ=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "42.2M",
+      "videosText": "1.8K"
+    },
+    "oldestPublic": {
+      "id": "D3K38sDHQ9Y",
+      "title": "Watch this before you judge someone... *EMOTIONAL* #shorts",
+      "uploadDate": "2019-12-11"
+    },
+    "latest": {
+      "id": "YJ1oQ5s_G-w",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Spending 1,000 Hours With Squishies",
+      "channelId": "UC6VAIqNQBc7ggiqvsOHOBqw",
+      "channelName": "NichLmao",
+      "channelUrl": "http://www.youtube.com/@NichLmao",
+      "views": 54570,
+      "uploadDate": "2026-09-20",
+      "lengthSeconds": 3699
+    }
+  },
+  {
+    "name": "Alan Becker",
+    "handle": "alanbecker",
+    "firstVideoId": "0PqZ_ONYB4o",
+    "issues": [],
+    "first": {
+      "id": "0PqZ_ONYB4o",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Trampoline time-lapse",
+      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelName": "Alan Becker",
+      "channelUrl": "http://www.youtube.com/@alanbecker",
+      "views": 4141316,
+      "uploadDate": "2006-12-25",
+      "lengthSeconds": 38
+    },
+    "channel": {
+      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "handle": "alanbecker",
+      "title": "Alan Becker",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_m2cWJR2ufhrX0NpQWi7_UJriTaduV-vRDS4xx5vp1hLPk=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "34.1M",
+      "videosText": "270"
+    },
+    "oldestPublic": {
+      "id": "0PqZ_ONYB4o",
+      "title": "Trampoline time-lapse",
+      "uploadDate": "2006-12-25"
+    },
+    "latest": {
+      "id": "FcQlQAs5EDM",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Creeper Clan - Animation vs. Minecraft Shorts Ep 40",
+      "channelId": "UCbKWv2x9t6u8yZoB3KcPtnw",
+      "channelName": "Alan Becker",
+      "channelUrl": "http://www.youtube.com/@alanbecker",
+      "views": 18267349,
+      "uploadDate": "2026-08-29",
+      "lengthSeconds": 734
+    }
+  },
+  {
+    "name": "Dan Rhodes",
+    "handle": "danrhodes",
+    "firstVideoId": "mzTa-pUPSh4",
+    "issues": [],
+    "first": {
+      "id": "mzTa-pUPSh4",
+      "status": "OK",
+      "embeddable": true,
+      "title": "An Introduction To Dan Rhodes.",
+      "channelId": "UC6D1L2vxEAg_Vi0JSxMBDgA",
+      "channelName": "Dan Rhodes",
+      "channelUrl": "http://www.youtube.com/@danrhodes",
+      "views": 475009,
+      "uploadDate": "2015-10-30",
+      "lengthSeconds": 36
+    },
+    "channel": {
+      "channelId": "UC6D1L2vxEAg_Vi0JSxMBDgA",
+      "handle": "danrhodes",
+      "title": "Dan Rhodes",
+      "avatar": "https://yt3.googleusercontent.com/Asyu97RhSplBU_I6NxKDgyEfg8h8OYHNpvLvhC9N4ZKQk2klxsWNbIH4f53QbxhDSiqNb0kBqR0=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "26M",
+      "videosText": "1.7K"
+    },
+    "oldestPublic": {
+      "id": "mzTa-pUPSh4",
+      "title": "An Introduction To Dan Rhodes.",
+      "uploadDate": "2015-10-30"
+    },
+    "latest": {
+      "id": "6KrjWoEC6EY",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Explored Real HARRY POTTER Film Locations",
+      "channelId": "UC6D1L2vxEAg_Vi0JSxMBDgA",
+      "channelName": "Dan Rhodes",
+      "channelUrl": "http://www.youtube.com/@danrhodes",
+      "views": 487682,
+      "uploadDate": "2026-04-17",
+      "lengthSeconds": 1842
+    }
+  },
+  {
+    "name": "AzzyLand",
+    "handle": "AzzyLand",
+    "firstVideoId": "_Go1XTHIXH0",
+    "issues": [],
+    "first": {
+      "id": "_Go1XTHIXH0",
+      "status": "OK",
+      "embeddable": true,
+      "title": "MY FIRST VIDEO: Azzy's Intro To Cosplay and Gaming!",
+      "channelId": "UCzeB_0FNcPIyUSjL_TL5lEw",
+      "channelName": "AzzyLand",
+      "channelUrl": "http://www.youtube.com/@AzzyLand",
+      "views": 732190,
+      "uploadDate": "2015-05-27",
+      "lengthSeconds": 216
+    },
+    "channel": {
+      "channelId": "UCzeB_0FNcPIyUSjL_TL5lEw",
+      "handle": "AzzyLand",
+      "title": "AzzyLand",
+      "avatar": "https://yt3.googleusercontent.com/ggSDYMxaahWzZ7AZwc31NrNCeR6X1fzqXM6viV2TWPve8D4iPrtQVElj7B24QEBKXDV9l1_ylw=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "12.8M",
+      "videosText": "1.8K"
+    },
+    "oldestPublic": {
+      "id": "_Go1XTHIXH0",
+      "title": "MY FIRST VIDEO: Azzy's Intro To Cosplay and Gaming!",
+      "uploadDate": "2015-05-27"
+    },
+    "latest": {
+      "id": "vys9CQnfcew",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Travelled 10,000 miles to get CAKED IN THE FACE by Steve Aoki",
+      "channelId": "UCzeB_0FNcPIyUSjL_TL5lEw",
+      "channelName": "AzzyLand",
+      "channelUrl": "http://www.youtube.com/@AzzyLand",
+      "views": 609702,
+      "uploadDate": "2023-09-09",
+      "lengthSeconds": 667
+    }
+  },
+  {
+    "name": "Anna McNulty",
+    "handle": "annamcnulty",
+    "firstVideoId": "IZy3tc2PetE",
+    "issues": [],
+    "first": {
+      "id": "IZy3tc2PetE",
+      "status": "OK",
+      "embeddable": true,
+      "title": "ABC Dance/Cheer Challenge! Collab with Fierce Livy ♡",
+      "channelId": "UCPIavfNa4DTfHXDBaFOHuKA",
+      "channelName": "Anna McNulty",
+      "channelUrl": "http://www.youtube.com/@annamcnulty",
+      "views": 1546620,
+      "uploadDate": "2016-08-20",
+      "lengthSeconds": 139
+    },
+    "channel": {
+      "channelId": "UCPIavfNa4DTfHXDBaFOHuKA",
+      "handle": "annamcnulty",
+      "title": "Anna McNulty",
+      "avatar": "https://yt3.googleusercontent.com/0BRs0UiKEGAtCTqz_JaB5t_Esd_f-HPI2Qyi1iCJNzpNkVEq5Aha_DJQdwrfr6SFwzUc5-5qXg=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "15M",
+      "videosText": "507"
+    },
+    "oldestPublic": {
+      "id": "IZy3tc2PetE",
+      "title": "ABC Dance/Cheer Challenge! Collab with Fierce Livy ♡",
+      "uploadDate": "2016-08-20"
+    },
+    "latest": {
+      "id": "C6LXwc3OrZc",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Challenged the World's Best 9 Year Old Gymnast",
+      "channelId": "UCPIavfNa4DTfHXDBaFOHuKA",
+      "channelName": "Anna McNulty",
+      "channelUrl": "http://www.youtube.com/@annamcnulty",
+      "views": 3242730,
+      "uploadDate": "2026-08-29",
+      "lengthSeconds": 1227
+    }
+  },
+  {
+    "name": "Jeenie.Weenie",
+    "handle": "jeenie.weenie",
+    "firstVideoId": "HqGB91U8yBY",
+    "issues": [],
+    "first": {
+      "id": "HqGB91U8yBY",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Tiktok's @Jeenie.Weenie Intro Q&A",
+      "channelId": "UCWc8CackfCo4q46FpEWBcPg",
+      "channelName": "Jeenie.Weenie",
+      "channelUrl": "http://www.youtube.com/@jeenie.weenie",
+      "views": 258489,
+      "uploadDate": "2020-08-04",
+      "lengthSeconds": 406
+    },
+    "channel": {
+      "channelId": "UCWc8CackfCo4q46FpEWBcPg",
+      "handle": "jeenie.weenie",
+      "title": "Jeenie.Weenie",
+      "avatar": "https://yt3.googleusercontent.com/cbOzOOkHNEVvqtgOigBiyQivIqxfr4PQgT-Mx51hnYm0ctOqWd2OLz36hJu5k5FifkQNEfmx=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "13.4M",
+      "videosText": "1.8K"
+    },
+    "oldestPublic": {
+      "id": "HqGB91U8yBY",
+      "title": "Tiktok's @Jeenie.Weenie Intro Q&A",
+      "uploadDate": "2020-08-04"
+    },
+    "latest": {
+      "id": "QC_dviaOVkw",
+      "status": "OK",
+      "embeddable": true,
+      "title": "I Bought 10 Viral Travel Gadgets So You Don’t Have To",
+      "channelId": "UCWc8CackfCo4q46FpEWBcPg",
+      "channelName": "Jeenie.Weenie",
+      "channelUrl": "http://www.youtube.com/@jeenie.weenie",
+      "views": 233124,
+      "uploadDate": "2026-09-26",
+      "lengthSeconds": 1094
+    }
+  },
+  {
+    "name": "Justin Flom",
+    "handle": "justinflom",
+    "firstVideoId": "3Yt0t_3HMYQ",
+    "issues": [],
+    "first": {
+      "id": "3Yt0t_3HMYQ",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Dancing Duck",
+      "channelId": "UCb9A6uotqUiuVCvVp4GMqOg",
+      "channelName": "Justin Flom",
+      "channelUrl": "http://www.youtube.com/@justinflom",
+      "views": 67406,
+      "uploadDate": "2006-08-26",
+      "lengthSeconds": 80
+    },
+    "channel": {
+      "channelId": "UCb9A6uotqUiuVCvVp4GMqOg",
+      "handle": "justinflom",
+      "title": "Justin Flom",
+      "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_kYgRFcfXEnEVYfiJ5Z-eY8IIIaL6kh2-cImdXyjTgbgEY=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "35.2M",
+      "videosText": "1.2K"
+    },
+    "oldestPublic": {
+      "id": "3Yt0t_3HMYQ",
+      "title": "Dancing Duck",
+      "uploadDate": "2006-08-26"
+    },
+    "latest": {
+      "id": "kpgOTut0Pok",
+      "status": "OK",
+      "embeddable": true,
+      "title": "House Tour: Inside My Two Connected Houses",
+      "channelId": "UCb9A6uotqUiuVCvVp4GMqOg",
+      "channelName": "Justin Flom",
+      "channelUrl": "http://www.youtube.com/@justinflom",
+      "views": 459365,
+      "uploadDate": "2026-07-14",
+      "lengthSeconds": 317
+    }
+  },
+  {
+    "name": "Tom Scott",
+    "handle": "TomScottGo",
+    "firstVideoId": "MrppkAIVhH4",
+    "issues": [],
+    "first": {
+      "id": "MrppkAIVhH4",
+      "status": "OK",
+      "embeddable": true,
+      "title": "Breakfast: Fortified With Iron",
+      "channelId": "UCBa659QWEk1AI4Tg--mrJ2A",
+      "channelName": "Tom Scott",
+      "channelUrl": "http://www.youtube.com/@TomScottGo",
+      "views": 1059848,
+      "uploadDate": "2006-06-06",
+      "lengthSeconds": 173
+    },
+    "channel": {
+      "channelId": "UCBa659QWEk1AI4Tg--mrJ2A",
+      "handle": "TomScottGo",
+      "title": "Tom Scott",
+      "avatar": "https://yt3.googleusercontent.com/WxHs0Jf1Jp_4ZU84wxnRL0owNHkzaLUEiD-GIfgCrVjZ0JhgriPTdPfGrkf-U7zwIs5zQl9ccg=s900-c-k-c0x00ffffff-no-rj",
+      "subscribersText": "6.74M",
+      "videosText": "759"
+    },
+    "oldestPublic": {
+      "id": "MrppkAIVhH4",
+      "title": "Breakfast: Fortified With Iron",
+      "uploadDate": "2006-06-06"
+    },
+    "latest": {
+      "id": "pZtU48TjxXg",
+      "status": "OK",
+      "embeddable": true,
+      "title": "When I blow this whistle, a swimming pool appears.",
+      "channelId": "UCBa659QWEk1AI4Tg--mrJ2A",
+      "channelName": "Tom Scott",
+      "channelUrl": "http://www.youtube.com/@TomScottGo",
+      "views": 1305422,
+      "uploadDate": "2026-09-28",
+      "lengthSeconds": 1567
+    }
+  }
+]
