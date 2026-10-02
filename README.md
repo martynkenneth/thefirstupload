@@ -8,6 +8,7 @@ A static site showing the first YouTube videos of 100 big creators, side by side
 - `data/creators.json`: generated. Verified video details, channel stats and latest uploads.
 - `data/articles/<slug>.md`: the mini wiki article for each creator. Front matter (`realName`, `from`, `knownFor`, `category`, `wikipedia`) fills the Quick facts box and the homepage category filter; the body uses `## ` headings and paragraphs.
 - `scripts/research.mjs`: collects Wikipedia intros and channel descriptions into `data/research.json` (not committed) as source material for writing articles.
+- `data/history.json`: subscriber counts per year for the growth charts, each read from an Internet Archive snapshot of the creator's own channel page (the source link is kept with every figure). Built by `scripts/history.mjs` (slow: about 1.5 hours for all creators) and checked with `scripts/check-history.mjs`. Years without a readable snapshot are left empty, never estimated. Counts are exact until about 2019, then rounded the way YouTube displayed them.
 - `scripts/resolve.mjs`: checks each creator against YouTube's public pages (no API key needed) and writes `creators.json`.
 - `scripts/build.mjs`: generates the site into `dist/`.
 - `site/`: stylesheet and the small script for search, sort and click-to-play.

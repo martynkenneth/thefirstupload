@@ -10,6 +10,8 @@ const OUT = "dist";
 const now = new Date();
 
 const all = JSON.parse(fs.readFileSync("data/creators.json", "utf8"));
+// Archived subscriber counts per year (scripts/history.mjs). Optional: pages build without it.
+const history = fs.existsSync("data/history.json") ? JSON.parse(fs.readFileSync("data/history.json", "utf8")) : {};
 const creators = all.filter(c => c.first?.title && c.channel?.channelId);
 for (const c of all) if (!creators.includes(c)) console.warn(`Skipping ${c.name}: incomplete data (run "npm run refresh")`);
 
@@ -102,7 +104,7 @@ ${image ? `<meta property="og:image" content="${esc(image)}">` : ""}
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="${root}styles.css">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%23ffb547'/><text x='16' y='23' font-family='Arial' font-weight='900' font-size='18' text-anchor='middle' fill='%23121014'>1</text></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%23e60000'/><text x='16' y='23' font-family='Arial' font-weight='900' font-size='18' text-anchor='middle' fill='%23ffffff'>1</text></svg>">
 </head>
 <body class="${bodyClass}">
 <header class="site-header">
@@ -175,6 +177,31 @@ const card = c => `
     </div>
   </a>`;
 
+// Hero showcase: a few well-known creators shown as "video one → today", cycling, each linking to its page.
+const SHOWCASE = ["MrBeast", "PewDiePie", "IShowSpeed", "Markiplier", "Mark Rober", "Dude Perfect"];
+const showcase = SHOWCASE.map(n => list.find(c => c.name === n))
+  .filter(c => c?.first?.date && c.first.playable && c.latest?.uploadDate);
+const showcaseHtml = !showcase.length ? "" : `
+    <div class="showcase" aria-roledescription="carousel" aria-label="Examples: first video and latest video">
+      ${showcase.map((c, i) => {
+        const gap = Number(c.latest.uploadDate.slice(0, 4)) - Number(c.first.date.slice(0, 4));
+        return `
+      <a class="slide${i ? "" : " active"}" href="c/${c.slug}/" aria-label="${esc(c.name)}: first video from ${c.first.date.slice(0, 4)} and latest video, ${gap} years apart"${i ? ` aria-hidden="true" tabindex="-1"` : ""}>
+        <figure class="shot shot-then">
+          <span class="frame"><img src="${thumb(c.first.id, "mqdefault")}" alt="" loading="${i ? "lazy" : "eager"}"><span class="scan"></span></span>
+          <figcaption><span class="tag tag-then">Video one · ${c.first.date.slice(0, 4)}</span><span class="shot-title">${esc(c.first.title)}</span></figcaption>
+        </figure>
+        <span class="years"><strong>${gap}</strong> years later</span>
+        <figure class="shot shot-now">
+          <span class="frame"><img src="${thumb(c.latest.id, "hqdefault")}" alt="" loading="${i ? "lazy" : "eager"}"></span>
+          <figcaption><span class="tag tag-now">Latest · ${c.latest.uploadDate.slice(0, 4)}</span><span class="shot-title">${esc(c.latest.title)}</span></figcaption>
+        </figure>
+        <span class="who"><img src="${esc(c.avatar)}" alt="" referrerpolicy="no-referrer" width="36" height="36"><span><strong>${esc(c.name)}</strong><span>${compact(c.subs)} subscribers today</span></span></span>
+      </a>`;
+      }).join("")}
+      <div class="dots">${showcase.map((c, i) => `<button type="button" aria-label="Show ${esc(c.name)}"${i ? "" : ` aria-current="true"`}></button>`).join("")}</div>
+    </div>`;
+
 const home = page({
   urlPath: "/",
   title: `${SITE_NAME}: ${TAGLINE.replace(/\.$/, "")}`,
@@ -183,13 +210,16 @@ const home = page({
   body: `
 <main>
   <section class="hero">
-    <p class="eyebrow">${list.length} creators · ${Math.min(...years)}–${Math.max(...years)}</p>
-    <h1>Everyone starts<br>with <em>video one.</em></h1>
-    <p class="lede">The first YouTube uploads of the ${list.length} biggest creators, side by side with what they post today.</p>
-    <div class="hero-stats">
-      <div><strong>${compact(totalFirstViews)}</strong><span>views on these ${list.length} first videos</span></div>
-      <div><strong>${compact(list.reduce((s, c) => s + c.subs, 0))}</strong><span>subscribers between them today</span></div>
+    <div class="hero-text">
+      <p class="eyebrow">${list.length} creators · ${Math.min(...years)}–${Math.max(...years)}</p>
+      <h1>Everyone starts<br>with <em>video one.</em></h1>
+      <p class="lede">The first YouTube uploads of the ${list.length} biggest creators, side by side with what they post today.</p>
+      <div class="hero-stats">
+        <div><strong>${compact(totalFirstViews)}</strong><span>views on these ${list.length} first videos</span></div>
+        <div><strong>${compact(list.reduce((s, c) => s + c.subs, 0))}</strong><span>subscribers between them today</span></div>
+      </div>
     </div>
+    ${showcaseHtml}
   </section>
 
   <section class="highlights" aria-label="Highlights">
@@ -237,6 +267,70 @@ const videoMeta = (v, isFirst) => {
   if (v.date ?? v.uploadDate) parts.push(fmtDate(v.date ?? v.uploadDate));
   if (v.views != null) parts.push(`${v.views.toLocaleString("en-US")} views`);
   return `<p class="v-title">${esc(v.title)}</p><p class="v-meta">${parts.join(" · ")}</p>`;
+};
+
+// Subscriber growth: one column per calendar year from the first archived record, plus today.
+// Only recorded figures are drawn; years without a snapshot stay empty.
+// Axis: the smallest round step (1, 2, 2.5 or 5 × 10^k) that covers the max in at most six steps.
+const niceTicks = v => {
+  const p = 10 ** Math.floor(Math.log10(v));
+  const step = [0.1, 0.2, 0.25, 0.5, 1, 2, 2.5, 5].map(m => m * p).find(st => Math.ceil(v / st) <= 6);
+  return Array.from({ length: Math.ceil(v / step) + 1 }, (_, i) => i * step);
+};
+// Recorded figures keep the precision YouTube displayed: exact counts in full, rounded ones to 3 significant figures.
+const sig3 = n => {
+  const [d, unit] = n >= 1e9 ? [1e9, "B"] : n >= 1e6 ? [1e6, "M"] : n >= 1e3 ? [1e3, "K"] : [1, ""];
+  return String(Number((n / d).toPrecision(3))) + unit;
+};
+const fmtSubs = p => p.exact ? p.subs.toLocaleString("en-US") : sig3(p.subs);
+
+const growthSection = c => {
+  const points = (history[c.name]?.points || []).filter(p => p.subs > 0);
+  if (points.length < 2) return "";
+  const byYear = Object.fromEntries(points.map(p => [p.date.slice(0, 4), p]));
+  const firstYear = Number(points[0].date.slice(0, 4)), thisYear = now.getFullYear();
+  const today = { today: true, subs: c.subs, exact: false };
+  const ticks = niceTicks(Math.max(today.subs, ...points.map(p => p.subs)));
+  const max = ticks.at(-1);
+
+  let prev = null;
+  const cols = [];
+  for (let y = firstYear; y <= thisYear; y++) {
+    const p = byYear[y];
+    if (!p) { cols.push(`<div class="col empty" aria-hidden="true"><span class="x"><span class="x-full">${y}</span><span class="x-short">’${String(y).slice(2)}</span></span></div>`); continue; }
+    const change = prev ? ` · ${p.subs >= prev.subs ? "+" : "−"}${compact(Math.abs(p.subs - prev.subs))} since ${fmtDate(prev.date)}` : "";
+    const tip = `${fmtDate(p.date)}: ${fmtSubs(p)} subscribers${p.exact ? "" : " (rounded by YouTube)"}${change}`;
+    cols.push(`<div class="col" style="--h:${(p.subs / max * 100).toFixed(2)}%" tabindex="0" data-tip="${esc(tip)}" aria-label="${esc(tip)}"><span class="bar"></span>${prev ? "" : `<span class="cap">${p.exact ? compact(p.subs) : sig3(p.subs)}</span>`}<span class="x"><span class="x-full">${y}</span><span class="x-short">’${String(y).slice(2)}</span></span></div>`);
+    prev = p;
+  }
+  const todayTip = `Today: ${sig3(today.subs)} subscribers · +${compact(today.subs - prev.subs)} since ${fmtDate(prev.date)}`;
+  cols.push(`<div class="col today" style="--h:${(today.subs / max * 100).toFixed(2)}%" tabindex="0" data-tip="${esc(todayTip)}" aria-label="${esc(todayTip)}"><span class="bar"></span><span class="cap">${sig3(today.subs)}</span><span class="x">Now</span></div>`);
+
+  const rows = points.map(p => `<tr><td>${fmtDate(p.date)}</td><td class="num">${fmtSubs(p)}</td><td>${p.exact ? "Exact" : "Rounded by YouTube"}</td><td><a href="${esc(p.source)}" target="_blank" rel="noopener">Archived page ↗</a></td></tr>`).join("");
+  const gaps = thisYear - firstYear + 1 - points.length;
+
+  return `
+  <section class="growth" aria-labelledby="growth-title">
+    <div class="growth-head">
+      <h2 id="growth-title">Subscriber growth</h2>
+      <p>One figure per year: the earliest archived copy of the channel page from that year, plus today. Hover a column for the exact date${gaps > 0 ? ". Empty years had no archived record" : ""}.</p>
+    </div>
+    <div class="chart">
+      <div class="chart-plot">
+        ${ticks.map(t => `<div class="tick" style="--y:${(t / max * 100).toFixed(2)}%"><span>${t ? compact(t) : "0"}</span></div>`).join("")}
+        <div class="cols${cols.length > 12 ? " dense" : ""}" style="--n:${cols.length}">${cols.join("")}</div>
+      </div>
+      <div class="chart-tip" role="status" hidden></div>
+    </div>
+    <details class="growth-table">
+      <summary>Show the numbers and sources</summary>
+      <table>
+        <thead><tr><th>Date</th><th class="num">Subscribers</th><th>Precision</th><th>Source</th></tr></thead>
+        <tbody>${rows}<tr><td>Today</td><td class="num">${sig3(today.subs)}</td><td>Rounded by YouTube</td><td><a href="https://www.youtube.com/@${esc(c.handle)}" target="_blank" rel="noopener">Channel ↗</a></td></tr></tbody>
+      </table>
+    </details>
+  </section>
+`;
 };
 
 // The mini wiki: article text beside a fact box.
@@ -314,6 +408,7 @@ const creatorPage = (c, i) => {
   <section class="tiles">
     ${tiles.map(([v, l]) => `<div class="tile"><strong>${v}</strong><span>${l}</span></div>`).join("")}
   </section>
+${growthSection(c)}
 ${c.article ? aboutSection(c) : ""}
   <nav class="pager">
     <a href="../${prev.slug}/"><span>← Previous</span><strong>${esc(prev.name)}</strong></a>
@@ -337,6 +432,8 @@ const about = page({
   <p>We show each creator's oldest video that is still public. Many creators have deleted or privated their earliest uploads, and some started on a different channel. Where that applies, the creator's page says so.</p>
   <h2>Where the numbers come from</h2>
   <p>Subscriber counts, view counts and latest uploads come from YouTube and are refreshed whenever the site is rebuilt. Videos play through YouTube's official embedded player, so views count toward the creator's channel.</p>
+  <h2>Subscriber growth charts</h2>
+  <p>YouTube doesn't publish subscriber history, so each yearly figure is read from an archived copy of the creator's own channel page saved by the Internet Archive's Wayback Machine. Every figure links to the snapshot it came from. Years with no archived copy are left empty rather than estimated. Until about 2019 YouTube showed exact counts; after that it showed rounded figures, and we show them as YouTube did.</p>
 </main>`,
 });
 

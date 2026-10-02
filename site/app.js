@@ -13,6 +13,50 @@ document.addEventListener("click", e => {
   btn.replaceWith(wrap);
 });
 
+// Hero showcase: cycles through examples; pauses on hover/focus; no autoplay with reduced motion.
+const showcase = document.querySelector(".showcase");
+if (showcase) {
+  const slides = [...showcase.querySelectorAll(".slide")];
+  const dots = [...showcase.querySelectorAll(".dots button")];
+  let current = 0, paused = false;
+  const go = i => {
+    current = (i + slides.length) % slides.length;
+    slides.forEach((s, j) => {
+      s.classList.toggle("active", j === current);
+      s.toggleAttribute("aria-hidden", j !== current);
+      s.tabIndex = j === current ? 0 : -1;
+    });
+    dots.forEach((d, j) => d.setAttribute("aria-current", String(j === current)));
+  };
+  dots.forEach((d, j) => d.addEventListener("click", () => go(j)));
+  showcase.addEventListener("pointerenter", () => (paused = true));
+  showcase.addEventListener("pointerleave", () => (paused = false));
+  showcase.addEventListener("focusin", () => (paused = true));
+  showcase.addEventListener("focusout", () => (paused = false));
+  if (!matchMedia("(prefers-reduced-motion: reduce)").matches && slides.length > 1) {
+    setInterval(() => { if (!paused && !document.hidden) go(current + 1); }, 5000);
+  }
+}
+
+// Subscriber chart tooltip: follows hover and keyboard focus on each column.
+for (const chart of document.querySelectorAll(".chart")) {
+  const tip = chart.querySelector(".chart-tip");
+  const show = col => {
+    if (!col?.dataset.tip) return;
+    tip.textContent = col.dataset.tip;
+    tip.hidden = false;
+    const c = chart.getBoundingClientRect(), b = col.getBoundingClientRect(), bar = col.querySelector(".bar").getBoundingClientRect();
+    const left = Math.min(Math.max(b.left - c.left + b.width / 2 - tip.offsetWidth / 2, 0), c.width - tip.offsetWidth);
+    tip.style.left = `${left}px`;
+    tip.style.top = `${Math.max(bar.top - c.top - tip.offsetHeight - 10, 0)}px`;
+  };
+  const hide = () => (tip.hidden = true);
+  chart.addEventListener("pointerover", e => show(e.target.closest(".col")));
+  chart.addEventListener("pointerleave", hide);
+  chart.addEventListener("focusin", e => show(e.target.closest(".col")));
+  chart.addEventListener("focusout", hide);
+}
+
 // Homepage search and sort.
 const grid = document.getElementById("cards");
 if (grid) {
