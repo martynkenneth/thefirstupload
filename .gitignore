@@ -5,3 +5,6 @@ node_modules/
 .claude/
 .DS_Store
 Thumbs.db
+
+# Article research notes (reference only, includes third-party text)
+data/research.json

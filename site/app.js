@@ -19,6 +19,7 @@ if (grid) {
   const cards = [...grid.children];
   const search = document.getElementById("search");
   const sort = document.getElementById("sort");
+  const category = document.getElementById("category");
   const empty = document.getElementById("empty");
   const sorters = {
     rank: (a, b) => a.dataset.rank - b.dataset.rank,
@@ -31,7 +32,7 @@ if (grid) {
     const q = search.value.trim().toLowerCase();
     let shown = 0;
     cards.sort(sorters[sort.value]).forEach(card => {
-      const match = !q || card.dataset.name.includes(q);
+      const match = (!q || card.dataset.name.includes(q)) && (!category.value || card.dataset.category === category.value);
       card.hidden = !match;
       shown += match;
       grid.appendChild(card);
@@ -40,4 +41,5 @@ if (grid) {
   };
   search.addEventListener("input", update);
   sort.addEventListener("change", update);
+  category.addEventListener("change", update);
 }

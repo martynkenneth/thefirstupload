@@ -32,6 +32,7 @@ body { margin: 0; background: var(--bg); color: var(--text); font: 400 16px/1.55
 img { display: block; max-width: 100%; }
 a { color: inherit; }
 h1, h2, h3 { font-family: var(--display); line-height: 1.05; margin: 0; }
+[hidden] { display: none !important; } /* components set display, which would otherwise override [hidden] */
 .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 
 main, .site-header, .site-footer { width: min(1180px, 100% - 32px); margin-inline: auto; }
@@ -56,7 +57,7 @@ main, .site-header, .site-footer { width: min(1180px, 100% - 32px); margin-inlin
 .hero-stats span { margin-top: 6px; font-size: 14px; color: var(--muted); }
 
 /* Highlights */
-.highlights { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 64px; }
+.highlights { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; margin-bottom: 64px; }
 .highlight { display: flex; gap: 14px; align-items: center; padding: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); text-decoration: none; transition: border-color .15s; }
 .highlight:hover { border-color: var(--then); }
 .highlight img { width: 96px; aspect-ratio: 16/9; object-fit: cover; border-radius: 8px; flex: none; }
@@ -81,7 +82,7 @@ main, .site-header, .site-footer { width: min(1180px, 100% - 32px); margin-inlin
 
 /* Cards */
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 24px 18px; }
-.card { text-decoration: none; display: flex; flex-direction: column; gap: 12px; }
+.card { min-width: 0; text-decoration: none; display: flex; flex-direction: column; gap: 12px; }
 .card-thumb { position: relative; border-radius: var(--radius); overflow: hidden; background: var(--surface-2); aspect-ratio: 16/9; }
 .card-thumb img { width: 100%; height: 100%; object-fit: cover; filter: saturate(.85); transition: transform .3s, filter .3s; }
 .card:hover .card-thumb img { transform: scale(1.04); filter: none; }
@@ -152,9 +153,9 @@ main, .site-header, .site-footer { width: min(1180px, 100% - 32px); margin-inlin
 .site-footer { padding: 40px 0 56px; margin-top: 64px; border-top: 1px solid var(--line); font-size: 13px; color: var(--muted); }
 .site-footer p { margin: 4px 0; }
 
-@media (max-width: 1100px) { .highlights { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 1100px) { .highlights { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 760px) {
-  .highlights { grid-template-columns: 1fr; }
+  .highlights { grid-template-columns: minmax(0, 1fr); }
   .versus { grid-template-columns: 1fr; }
   .hero { padding-top: 32px; }
   .creator-head { gap: 14px; }
@@ -162,5 +163,22 @@ main, .site-header, .site-footer { width: min(1180px, 100% - 32px); margin-inlin
   .controls { align-items: stretch; flex-direction: column; }
   .search { flex: 1; }
   .search input { width: 100%; }
-  .grid { grid-template-columns: 1fr; }
+  .grid { grid-template-columns: minmax(0, 1fr); }
+}
+
+/* Creator mini wiki */
+.about { display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 32px; align-items: start; margin: 8px 0 48px; }
+.wiki h2, .facts h2 { font-size: 28px; margin-bottom: 12px; }
+.wiki h3 { font-size: 20px; margin: 28px 0 6px; }
+.wiki p { margin: 0 0 12px; font-size: 17px; line-height: 1.65; color: var(--text); max-width: 68ch; }
+.wiki-more { color: var(--muted) !important; font-size: 15px !important; margin-top: 24px !important; }
+.facts { position: sticky; top: 20px; padding: 20px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); }
+.facts h2 { font-size: 20px; }
+.facts dl { margin: 0; }
+.facts dl div { padding: 10px 0; border-top: 1px solid var(--line); }
+.facts dt { font-size: 12px; font-weight: 600; letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.facts dd { margin: 3px 0 0; font-size: 15px; }
+@media (max-width: 860px) {
+  .about { grid-template-columns: 1fr; }
+  .facts { position: static; order: -1; }
 }

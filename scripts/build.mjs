@@ -34,13 +34,41 @@ const yearsSince = d => d ? (now - new Date(d)) / (365.25 * 864e5) : null;
 const duration = s => { if (!s) return null; const h = Math.floor(s / 3600), m = Math.floor(s % 3600 / 60), sec = s % 60; return (h ? `${h}:${String(m).padStart(2, "0")}` : m) + ":" + String(sec).padStart(2, "0"); };
 const thumb = (id, size = "hqdefault") => `https://i.ytimg.com/vi/${id}/${size}.jpg`;
 
+// ---------- articles (data/articles/<slug>.md) ----------
+// Front matter is "key: value" lines between --- markers; the body supports "## " headings and paragraphs.
+function readArticle(slug) {
+  const file = path.join("data", "articles", `${slug}.md`);
+  if (!fs.existsSync(file)) return null;
+  const m = fs.readFileSync(file, "utf8").replace(/\r\n/g, "\n").match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  if (!m) return null;
+  const meta = Object.fromEntries(m[1].split("\n").map(l => l.match(/^(\w+):\s*(.*)$/)).filter(Boolean).map(x => [x[1], x[2].trim()]));
+  const html = [];
+  for (const line of m[2].trim().split("\n")) {
+    if (line.startsWith("## ")) html.push({ h: line.slice(3).trim() });
+    else if (!line.trim()) html.push(null);
+    else if (html.at(-1)?.p != null) html.at(-1).p += " " + line.trim();
+    else html.push({ p: line.trim() });
+  }
+  const blocks = html.filter(Boolean);
+  return {
+    ...meta,
+    html: blocks.map(b => b.h ? `<h3>${esc(b.h)}</h3>` : `<p>${esc(b.p)}</p>`).join("\n"),
+    intro: blocks.find(b => b.p)?.p,
+  };
+}
+
 // ---------- normalise data ----------
 const list = creators.map(c => {
   const subs = parseCount(c.channel?.subscribersText);
   const firstDate = c.hideDate ? null : c.first?.uploadDate;
+  const slug = slugify(c.name);
+  const article = readArticle(slug);
+  if (!article) console.warn(`No article for ${c.name} (data/articles/${slug}.md)`);
   return {
     name: c.name,
-    slug: slugify(c.name),
+    slug,
+    article,
+    category: article?.category,
     handle: c.channel?.handle,
     avatar: c.channel?.avatar?.replace(/=s\d+-/, "=s176-"),
     subs,
@@ -117,6 +145,9 @@ const leastViewed = [...original].filter(c => c.first.views).sort((a, b) => a.fi
 const totalFirstViews = list.reduce((s, c) => s + (c.first?.views || 0), 0);
 const years = withDates.map(c => Number(c.first.date.slice(0, 4)));
 
+const categories = Object.entries(list.reduce((m, c) => (c.category && (m[c.category] = (m[c.category] || 0) + 1), m), {}))
+  .sort((a, b) => b[1] - a[1]);
+
 const highlight = (label, c, value, detail) => `
   <a class="highlight" href="c/${c.slug}/">
     <img src="${thumb(c.first.id, "mqdefault")}" alt="" loading="lazy">
@@ -128,7 +159,7 @@ const highlight = (label, c, value, detail) => `
   </a>`;
 
 const card = c => `
-  <a class="card" href="c/${c.slug}/" data-name="${esc(c.name.toLowerCase())} ${esc((c.handle || "").toLowerCase())}" data-rank="${c.rank}" data-subs="${c.subs}" data-date="${c.first?.date || ""}" data-views="${c.first?.views || 0}">
+  <a class="card" href="c/${c.slug}/" data-name="${esc(c.name.toLowerCase())} ${esc((c.handle || "").toLowerCase())}" data-rank="${c.rank}" data-subs="${c.subs}" data-date="${c.first?.date || ""}" data-views="${c.first?.views || 0}" data-category="${esc(c.category || "")}">
     <div class="card-thumb">
       <img src="${thumb(c.first.id, "mqdefault")}" alt="" loading="lazy">
       <span class="card-year">${c.first.date ? c.first.date.slice(0, 4) : "Archive"}</span>
@@ -185,10 +216,16 @@ const home = page({
             <option value="name">A–Z</option>
           </select>
         </label>
+        <label class="sort"><span>Category</span>
+          <select id="category">
+            <option value="">All</option>
+            ${categories.map(([name, n]) => `<option value="${esc(name)}">${esc(name)} (${n})</option>`).join("")}
+          </select>
+        </label>
       </div>
     </div>
     <div class="grid" id="cards">${list.map(card).join("")}</div>
-    <p class="empty" id="empty" hidden>No creators match that search.</p>
+    <p class="empty" id="empty" hidden>No creators match. Try a different search or category.</p>
   </section>
 </main>`,
 });
@@ -200,6 +237,33 @@ const videoMeta = (v, isFirst) => {
   if (v.date ?? v.uploadDate) parts.push(fmtDate(v.date ?? v.uploadDate));
   if (v.views != null) parts.push(`${v.views.toLocaleString("en-US")} views`);
   return `<p class="v-title">${esc(v.title)}</p><p class="v-meta">${parts.join(" · ")}</p>`;
+};
+
+// The mini wiki: article text beside a fact box.
+const aboutSection = c => {
+  const a = c.article;
+  const facts = [
+    a.realName && ["Real name", esc(a.realName)],
+    a.from && ["From", esc(a.from)],
+    a.knownFor && ["Known for", esc(a.knownFor)],
+    a.category && ["Category", esc(a.category)],
+    c.first.date && ["Video one", fmtDate(c.first.date)],
+    ["Subscribers", compact(c.subs)],
+    c.handle && ["Channel", `<a href="https://www.youtube.com/@${esc(c.handle)}" target="_blank" rel="noopener">@${esc(c.handle)}</a>`],
+  ].filter(Boolean);
+  return `
+  <section class="about">
+    <article class="wiki">
+      <h2>About ${esc(c.name)}</h2>
+      ${a.html}
+      ${a.wikipedia ? `<p class="wiki-more">More on <a href="${esc(a.wikipedia)}" target="_blank" rel="noopener">Wikipedia ↗</a></p>` : ""}
+    </article>
+    <aside class="facts" aria-label="Quick facts">
+      <h2>Quick facts</h2>
+      <dl>${facts.map(([k, v]) => `<div><dt>${k}</dt><dd>${v}</dd></div>`).join("")}</dl>
+    </aside>
+  </section>
+`;
 };
 
 const creatorPage = (c, i) => {
@@ -250,7 +314,7 @@ const creatorPage = (c, i) => {
   <section class="tiles">
     ${tiles.map(([v, l]) => `<div class="tile"><strong>${v}</strong><span>${l}</span></div>`).join("")}
   </section>
-
+${c.article ? aboutSection(c) : ""}
   <nav class="pager">
     <a href="../${prev.slug}/"><span>← Previous</span><strong>${esc(prev.name)}</strong></a>
     <a href="../${next.slug}/" class="next"><span>Next →</span><strong>${esc(next.name)}</strong></a>

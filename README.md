@@ -6,6 +6,8 @@ A static site showing the first YouTube videos of 100 big creators, side by side
 
 - `data/creators.source.json`: the curated list (name, channel handle, first video ID, optional `note` shown to visitors). Edit this one.
 - `data/creators.json`: generated. Verified video details, channel stats and latest uploads.
+- `data/articles/<slug>.md`: the mini wiki article for each creator. Front matter (`realName`, `from`, `knownFor`, `category`, `wikipedia`) fills the Quick facts box and the homepage category filter; the body uses `## ` headings and paragraphs.
+- `scripts/research.mjs`: collects Wikipedia intros and channel descriptions into `data/research.json` (not committed) as source material for writing articles.
 - `scripts/resolve.mjs`: checks each creator against YouTube's public pages (no API key needed) and writes `creators.json`.
 - `scripts/build.mjs`: generates the site into `dist/`.
 - `site/`: stylesheet and the small script for search, sort and click-to-play.
