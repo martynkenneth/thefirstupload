@@ -1,6 +1,6 @@
 # The First Upload (thefirstupload.com)
 
-A static site showing the first YouTube videos of 100 big creators, side by side with their latest uploads.
+A static site showing the first YouTube videos of the biggest creators, side by side with their latest uploads.
 
 ## Files
 

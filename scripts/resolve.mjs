@@ -205,6 +205,11 @@ async function resolve(src) {
   const { latest, oldest } = ch?.channelId ? await channelTab(ch.channelId, "videos") : { latest: null, oldest: [] };
   const o = ch?.channelId ? await oldestUpload(oldest, ch.channelId) : null;
   out.oldestPublic = o && { id: o.id, title: o.title, uploadDate: o.uploadDate };
+  // No first video given: use the channel's oldest public upload (regular videos and Shorts).
+  if (!src.firstVideoId && !src.listedTitle && o) {
+    first = out.first = { ...o, auto: true };
+    out.issues = out.issues.filter(i => i !== "no first video given");
+  }
   const onMainChannel = first?.channelId && first.channelId === ch?.channelId;
   if (first?.channelId && ch?.channelId && !onMainChannel) {
     first.otherChannel = true;

@@ -205,7 +205,7 @@ const showcaseHtml = !showcase.length ? "" : `
 const home = page({
   urlPath: "/",
   title: `${SITE_NAME}: ${TAGLINE.replace(/\.$/, "")}`,
-  description: `Watch the very first YouTube videos of MrBeast, PewDiePie, IShowSpeed, Markiplier and 96 more of the biggest creators, side by side with their latest uploads.`,
+  description: `Watch the very first YouTube videos of MrBeast, PewDiePie, IShowSpeed, Markiplier and ${list.length - 4} more of the biggest creators, side by side with their latest uploads.`,
   image: thumb(list[0].first.id),
   body: `
 <main>
@@ -427,7 +427,7 @@ const about = page({
   body: `
 <main class="prose">
   <h1>About ${esc(SITE_NAME)}</h1>
-  <p>${esc(SITE_NAME)} collects the first YouTube videos of 100 of the platform's biggest personality creators, so you can see where they started and compare it with what they make today.</p>
+  <p>${esc(SITE_NAME)} collects the first YouTube videos of ${list.length} of the platform's biggest personality creators, so you can see where they started and compare it with what they make today.</p>
   <h2>How first videos are chosen</h2>
   <p>We show each creator's oldest video that is still public. Many creators have deleted or privated their earliest uploads, and some started on a different channel. Where that applies, the creator's page says so.</p>
   <h2>Where the numbers come from</h2>
