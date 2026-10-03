@@ -54,24 +54,42 @@ function* strings(o) {
   else if (o && typeof o === "object") for (const v of Object.values(o)) yield* strings(v);
 }
 
-// "28.6M subscribers", "7.13 million subscribers", "18,459" -> { subs, exact }
+// Archived pages can be in any language, so numbers may use "," "." or spaces as thousands
+// separators ("1.894.885") and a decimal comma before a unit ("24,7 M"). Anything ambiguous is
+// rejected rather than guessed.
+const UNITS = { k: 1e3, thousand: 1e3, mil: 1e3, tsd: 1e3, m: 1e6, million: 1e6, mi: 1e6, mio: 1e6, b: 1e9, billion: 1e9, mrd: 1e9 };
+const integer = s => /^\d{1,3}([.,   '’]\d{3})+$|^\d+$/.test(s) ? Number(s.replace(/\D/g, "")) : null;
+const decimal = s => /^\d+([.,]\d{1,2})?$/.test(s) ? Number(s.replace(",", ".")) : null;
+
+// "28.6M subscribers", "24,7 M de suscriptores", "18,459", "1.894.885" -> { subs, exact }
 function toNumber(text) {
-  const t = text.replace(/ /g, " ");
-  let m = t.match(/([\d.,]+)\s*(K|M|B|thousand|million|billion)\b/i);
+  const t = text.replace(/[  ]/g, " ").trim();
+  let m = t.match(/(\d[\d.,]*)\s*(thousand|million|billion|mil|mio|mrd|tsd|mi|k|m|b)\.?(?![a-z])/i);
   if (m) {
-    const mult = { k: 1e3, thousand: 1e3, m: 1e6, million: 1e6, b: 1e9, billion: 1e9 }[m[2].toLowerCase()];
-    return { subs: Math.round(Number(m[1].replace(/,/g, "")) * mult), exact: false };
+    const v = decimal(m[1]) ?? integer(m[1]);
+    return v == null ? null : { subs: Math.round(v * UNITS[m[2].toLowerCase()]), exact: false };
   }
-  m = t.match(/^\s*([\d,]+)(\s+subscribers?)?\s*$/i);
-  return m ? { subs: Number(m[1].replace(/,/g, "")), exact: true } : null;
+  m = t.match(/^(\d[\d.,   '’]*\d|\d)(\s+\S+)?$/); // a bare number, optionally followed by one word
+  const v = m && integer(m[1].trim());
+  return v == null ? null : { subs: v, exact: true };
+}
+
+// The channel a page belongs to. Pages also mention other channels (featured channels, links),
+// so this reads the page's own metadata rather than checking whether an ID appears anywhere.
+function ownChannelId(html, data) {
+  const fromData = data?.metadata?.channelMetadataRenderer?.externalId || data?.header?.c4TabbedHeaderRenderer?.channelId;
+  if (fromData) return fromData;
+  return html.match(/<meta itemprop="channelId" content="(UC[\w-]{22})"/)?.[1]
+    || html.match(/<link rel="canonical" href="https?:\/\/(?:www\.)?youtube\.com\/channel\/(UC[\w-]{22})"/)?.[1]
+    || null;
 }
 
 // Reads the channel's OWN subscriber count from an archived channel page. Pages also list
 // featured channels with their own counts, so only the channel header is considered.
 function parseSnapshot(html, channelId) {
-  if (!html.includes(channelId)) return null; // not this channel's page (or a redirect/blocked page)
-
   const data = extractJson(html, "var ytInitialData = ") || extractJson(html, 'window["ytInitialData"] = ');
+  if (ownChannelId(html, data) !== channelId) return null; // another channel's page, a redirect, or unidentifiable
+
   if (data?.header) {
     const h = data.header;
     const c4 = h.c4TabbedHeaderRenderer;
@@ -84,13 +102,14 @@ function parseSnapshot(html, channelId) {
     for (const s of strings(h)) if (/^[\d.,]+\s*(K|M|B|thousand|million|billion)?\s+subscribers?$/i.test(s.trim())) return toNumber(s);
   }
 
-  // Classic layout (2014 to ~2019): the header's subscribe button shows the exact count, either as a
-  // tooltip (title="18,459") or as its text (>19,481,416<). Before 2014 pages didn't include the count.
+  // Classic layout (2014 to ~2020): the header's subscribe button shows the count, either as a
+  // tooltip (title="18,459") or as its text (>19,481,416< or, later, >24M<). Before 2014 pages
+  // didn't include the count. Abbreviated values ("24M", "1.25M") are kept as rounded.
   let headerStart = html.indexOf("c4-primary-header-contents");
   if (headerStart < 0) headerStart = html.indexOf("channel-header");
   if (headerStart >= 0) {
-    const m = html.slice(headerStart, headerStart + 20000).match(/subscriber-count-branded-horizontal[^"]*"([^>]*)>\s*([\d,]*)/);
-    const value = m && (m[1].match(/title="([\d,]+)"/)?.[1] || m[2]);
+    const m = html.slice(headerStart, headerStart + 20000).match(/subscriber-count-branded-horizontal[^"]*"([^>]*)>\s*([\d.,]+\s*[KMB]?)/i);
+    const value = m && (m[1].match(/title="([\d.,]+\s*[KMB]?)"/i)?.[1] || m[2]);
     if (value) return toNumber(value);
   }
   return null;
