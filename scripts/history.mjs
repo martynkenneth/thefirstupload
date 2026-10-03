@@ -17,7 +17,7 @@ class RateLimited extends Error {}
 let lastRequest = 0;
 async function get(url, { json = false } = {}) {
   for (let attempt = 0; attempt < 3; attempt++) {
-    const wait = lastRequest + 2500 - Date.now(); // at most one request every 2.5 seconds
+    const wait = lastRequest + 4000 - Date.now(); // at most one request every 4 seconds
     if (wait > 0) await sleep(wait);
     lastRequest = Date.now();
     let res;
