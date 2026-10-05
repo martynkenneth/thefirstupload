@@ -18,7 +18,7 @@ for (const c of creators) {
     const prev = points[i - 1];
     if (prev && p.subs < prev.subs * 0.75) issues.push(`${p.date}: ${p.subs.toLocaleString()} is a big drop from ${prev.subs.toLocaleString()} on ${prev.date}`);
     if (now && p.subs > now * 1.15) issues.push(`${p.date}: ${p.subs.toLocaleString()} is above today's ${now.toLocaleString()}`);
-    if (p.exact && p.subs >= 1000 && p.date >= "2020") issues.push(`${p.date}: exact count after 2019 (YouTube showed rounded counts then)`);
+    if (p.exact && p.subs >= 1000 && p.date >= "2019-09") issues.push(`${p.date}: exact count after Aug 2019 (YouTube showed rounded counts then)`);
   });
   if (issues.length) { flagged++; console.log(`${c.name}\n  ${issues.join("\n  ")}`); }
 }

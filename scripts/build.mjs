@@ -303,7 +303,8 @@ const growthSection = c => {
     cols.push(`<div class="col" style="--h:${(p.subs / max * 100).toFixed(2)}%" tabindex="0" data-tip="${esc(tip)}" aria-label="${esc(tip)}"><span class="bar"></span>${prev ? "" : `<span class="cap">${p.exact ? compact(p.subs) : sig3(p.subs)}</span>`}<span class="x"><span class="x-full">${y}</span><span class="x-short">’${String(y).slice(2)}</span></span></div>`);
     prev = p;
   }
-  const todayTip = `Today: ${sig3(today.subs)} subscribers · +${compact(today.subs - prev.subs)} since ${fmtDate(prev.date)}`;
+  const diff = today.subs - prev.subs;
+  const todayTip = `Today: ${sig3(today.subs)} subscribers · ${diff >= 0 ? "+" : "−"}${compact(Math.abs(diff))} since ${fmtDate(prev.date)}`;
   cols.push(`<div class="col today" style="--h:${(today.subs / max * 100).toFixed(2)}%" tabindex="0" data-tip="${esc(todayTip)}" aria-label="${esc(todayTip)}"><span class="bar"></span><span class="cap">${sig3(today.subs)}</span><span class="x">Now</span></div>`);
 
   const rows = points.map(p => `<tr><td>${fmtDate(p.date)}</td><td class="num">${fmtSubs(p)}</td><td>${p.exact ? "Exact" : "Rounded by YouTube"}</td><td><a href="${esc(p.source)}" target="_blank" rel="noopener">Archived page ↗</a></td></tr>`).join("");

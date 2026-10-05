@@ -151,6 +151,9 @@ async function history(c) {
       const html = await get(url);
       const r = html && parseSnapshot(html, id);
       if (r?.subs > 0) {
+        // From September 2019 YouTube showed rounded counts; some languages still write them out in
+        // full ("564.000"), so any count of 1,000+ from then on is rounded, however it was written.
+        if (snap.ts >= "201909" && r.subs >= 1000) r.exact = false;
         points.push({ date: `${snap.ts.slice(0, 4)}-${snap.ts.slice(4, 6)}-${snap.ts.slice(6, 8)}`, ...r, source: `https://web.archive.org/web/${snap.ts}/${snap.original}` });
         break;
       }
