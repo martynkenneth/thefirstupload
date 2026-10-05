@@ -57,19 +57,26 @@ function* strings(o) {
 // Archived pages can be in any language, so numbers may use "," "." or spaces as thousands
 // separators ("1.894.885") and a decimal comma before a unit ("24,7 M"). Anything ambiguous is
 // rejected rather than guessed.
-const UNITS = { k: 1e3, thousand: 1e3, mil: 1e3, tsd: 1e3, m: 1e6, million: 1e6, mi: 1e6, mio: 1e6, b: 1e9, billion: 1e9, mrd: 1e9 };
+const UNITS = {
+  k: 1e3, thousand: 1e3, mil: 1e3, tsd: 1e3, "тыс": 1e3, tys: 1e3, tis: 1e3, ezer: 1e3,
+  m: 1e6, million: 1e6, mi: 1e6, mio: 1e6, "млн": 1e6, mln: 1e6, milj: 1e6,
+  b: 1e9, billion: 1e9, mrd: 1e9, "млрд": 1e9,
+};
 const integer = s => /^\d{1,3}([.,   '’]\d{3})+$|^\d+$/.test(s) ? Number(s.replace(/\D/g, "")) : null;
 const decimal = s => /^\d+([.,]\d{1,2})?$/.test(s) ? Number(s.replace(",", ".")) : null;
 
 // "28.6M subscribers", "24,7 M de suscriptores", "18,459", "1.894.885" -> { subs, exact }
 function toNumber(text) {
   const t = text.replace(/[  ]/g, " ").trim();
-  let m = t.match(/(\d[\d.,]*)\s*(thousand|million|billion|mil|mio|mrd|tsd|mi|k|m|b)\.?(?![a-z])/i);
+  let m = t.match(/(\d[\d.,]*)\s*(thousand|million|billion|млрд|milj|mil|mio|mrd|tsd|тыс|млн|mln|tys|tis|ezer|mi|k|m|b)\.?(?![a-zа-я])/i);
   if (m) {
     const v = decimal(m[1]) ?? integer(m[1]);
     return v == null ? null : { subs: Math.round(v * UNITS[m[2].toLowerCase()]), exact: false };
   }
-  m = t.match(/^(\d[\d.,   '’]*\d|\d)(\s+\S+)?$/); // a bare number, optionally followed by one word
+  // A bare number, optionally followed by one word such as "subscribers". A short or abbreviated
+  // word is probably a unit we don't know ("32 млн"), so it's rejected rather than read as 32.
+  m = t.match(/^(\d[\d.,   '’]*\d|\d)(?:\s+(\S+))?$/);
+  if (m?.[2] && (m[2].length <= 5 || m[2].includes("."))) return null;
   const v = m && integer(m[1].trim());
   return v == null ? null : { subs: v, exact: true };
 }
@@ -108,8 +115,9 @@ function parseSnapshot(html, channelId) {
   let headerStart = html.indexOf("c4-primary-header-contents");
   if (headerStart < 0) headerStart = html.indexOf("channel-header");
   if (headerStart >= 0) {
-    const m = html.slice(headerStart, headerStart + 20000).match(/subscriber-count-branded-horizontal[^"]*"([^>]*)>\s*([\d.,]+\s*[KMB]?)/i);
-    const value = m && (m[1].match(/title="([\d.,]+\s*[KMB]?)"/i)?.[1] || m[2]);
+    // Read the whole value: it may contain spaces ("4 613 452") or a unit word ("32 млн").
+    const m = html.slice(headerStart, headerStart + 20000).match(/subscriber-count-branded-horizontal[^"]*"([^>]*)>([^<]*)</i);
+    const value = m && (m[1].match(/title="([^"]*)"/)?.[1] || m[2]).trim();
     if (value) return toNumber(value);
   }
   return null;
